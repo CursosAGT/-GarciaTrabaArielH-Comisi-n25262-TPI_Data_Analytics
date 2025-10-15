@@ -1,0 +1,2999 @@
+id_venta,producto,precio,cantidad,fecha_venta,categoria
+792,Cuadro decorativo,,5.0,2024-01-02,Decoración
+811,Lámpara de mesa,,5.0,2024-01-02,Decoración
+1156,Secadora,,3.0,2024-01-02,Electrodomésticos
+1372,Heladera,,8.0,2024-01-02,Electrodomésticos
+1546,Secadora,,4.0,2024-01-02,Electrodomésticos
+1697,Horno eléctrico,,9.0,2024-01-02,Electrodomésticos
+1710,Plancha de vapor,,2.0,2024-01-02,Electrodomésticos
+2959,Proyector,,9.0,2024-01-02,Electrónica
+318,Rincón de plantas,,11.0,2024-01-03,Decoración
+419,Candelabro,,8.0,2024-01-03,Decoración
+1374,Aspiradora,,5.0,2024-01-03,Electrodomésticos
+1571,Freidora eléctrica,,1.0,2024-01-03,Electrodomésticos
+1814,Aspiradora,,2.0,2024-01-03,Electrodomésticos
+2769,Proyector,,11.0,2024-01-03,Electrónica
+2794,Tablet,,9.0,2024-01-03,Electrónica
+2824,Tablet,,5.0,2024-01-03,Electrónica
+446,Cortinas,,4.0,2024-01-04,Decoración
+630,Adorno de pared,,9.0,2024-01-04,Decoración
+794,Jarrón decorativo,,7.0,2024-01-04,Decoración
+882,Cuadro decorativo,,9.0,2024-01-04,Decoración
+969,Candelabro,,12.0,2024-01-04,Decoración
+1445,Lavadora,,10.0,2024-01-04,Electrodomésticos
+1971,Freidora eléctrica,,11.0,2024-01-04,Electrodomésticos
+2209,Proyector,,1.0,2024-01-04,Electrónica
+256,Cortinas,,8.0,2024-01-05,Decoración
+606,Cortinas,,11.0,2024-01-05,Decoración
+704,Jarrón decorativo,,9.0,2024-01-05,Decoración
+1362,Heladera,,11.0,2024-01-05,Electrodomésticos
+2155,Auriculares,,10.0,2024-01-05,Electrónica
+2947,Cámara digital,,3.0,2024-01-05,Electrónica
+1495,Lavadora,,6.0,2024-01-06,Electrodomésticos
+1572,Cafetera,,9.0,2024-01-06,Electrodomésticos
+2180,Consola de videojuegos,,9.0,2024-01-06,Electrónica
+2487,Cámara digital,,3.0,2024-01-06,Electrónica
+2603,Smartphone,,5.0,2024-01-06,Electrónica
+2885,Auriculares,,6.0,2024-01-06,Electrónica
+17,Elementos de cerámica,,11.0,2024-01-07,Decoración
+183,Espejo decorativo,,8.0,2024-01-07,Decoración
+560,Adorno de pared,,6.0,2024-01-07,Decoración
+632,Cuadro decorativo,,12.0,2024-01-07,Decoración
+699,Candelabro,,12.0,2024-01-07,Decoración
+1150,Plancha de vapor,,10.0,2024-01-07,Electrodomésticos
+1400,Plancha de vapor,,5.0,2024-01-07,Electrodomésticos
+1496,Secadora,,11.0,2024-01-07,Electrodomésticos
+1524,Aspiradora,,8.0,2024-01-07,Electrodomésticos
+1550,Plancha de vapor,,7.0,2024-01-07,Electrodomésticos
+2174,Auriculares,,11.0,2024-01-07,Electrónica
+2773,Smartphone,,5.0,2024-01-07,Electrónica
+2920,Consola de videojuegos,,2.0,2024-01-07,Electrónica
+84,Jarrón decorativo,,4.0,2024-01-08,Decoración
+349,Candelabro,,6.0,2024-01-08,Decoración
+687,Elementos de cerámica,,8.0,2024-01-08,Decoración
+696,Cortinas,,8.0,2024-01-08,Decoración
+1734,Aspiradora,,4.0,2024-01-08,Electrodomésticos
+2173,Smartphone,,12.0,2024-01-08,Electrónica
+2283,Smartphone,,11.0,2024-01-08,Electrónica
+2501,Parlantes Bluetooth,,1.0,2024-01-08,Electrónica
+2918,SmartWatch,,10.0,2024-01-08,Electrónica
+386,Cortinas,,8.0,2024-01-09,Decoración
+599,Candelabro,,5.0,2024-01-09,Decoración
+633,Espejo decorativo,,2.0,2024-01-09,Decoración
+714,Jarrón decorativo,,8.0,2024-01-09,Decoración
+871,Lámpara de mesa,,11.0,2024-01-09,Decoración
+1132,Cafetera,,10.0,2024-01-09,Electrodomésticos
+1443,Microondas,,8.0,2024-01-09,Electrodomésticos
+1584,Aspiradora,,7.0,2024-01-09,Electrodomésticos
+1617,Horno eléctrico,,8.0,2024-01-09,Electrodomésticos
+1649,Batidora,,11.0,2024-01-09,Electrodomésticos
+2917,Cámara digital,,7.0,2024-01-09,Electrónica
+315,Alfombra,,9.0,2024-01-10,Decoración
+553,Espejo decorativo,,9.0,2024-01-10,Decoración
+817,Elementos de cerámica,,1.0,2024-01-10,Decoración
+830,Adorno de pared,,10.0,2024-01-10,Decoración
+854,Jarrón decorativo,,5.0,2024-01-10,Decoración
+1090,Plancha de vapor,,8.0,2024-01-10,Electrodomésticos
+1464,Aspiradora,,5.0,2024-01-10,Electrodomésticos
+1933,Microondas,,6.0,2024-01-10,Electrodomésticos
+308,Rincón de plantas,,11.0,2024-01-11,Decoración
+718,Rincón de plantas,,8.0,2024-01-11,Decoración
+804,Jarrón decorativo,,7.0,2024-01-11,Decoración
+963,Espejo decorativo,,5.0,2024-01-11,Decoración
+1167,Horno eléctrico,,6.0,2024-01-11,Electrodomésticos
+1234,Aspiradora,,7.0,2024-01-11,Electrodomésticos
+1319,Batidora,,12.0,2024-01-11,Electrodomésticos
+1885,Lavadora,,10.0,2024-01-11,Electrodomésticos
+2268,SmartWatch,,2.0,2024-01-11,Electrónica
+2325,Auriculares,,11.0,2024-01-11,Electrónica
+2761,Parlantes Bluetooth,,9.0,2024-01-11,Electrónica
+243,Espejo decorativo,,1.0,2024-01-12,Decoración
+1441,Freidora eléctrica,,11.0,2024-01-12,Electrodomésticos
+2428,SmartWatch,,10.0,2024-01-12,Electrónica
+2583,Smartphone,,10.0,2024-01-12,Electrónica
+2980,Consola de videojuegos,,12.0,2024-01-12,Electrónica
+88,Rincón de plantas,,9.0,2024-01-13,Decoración
+501,Lámpara de mesa,,6.0,2024-01-13,Decoración
+507,Elementos de cerámica,,1.0,2024-01-13,Decoración
+669,Lámpara de mesa,,5.0,2024-01-13,Decoración
+987,Elementos de cerámica,,3.0,2024-01-13,Decoración
+1548,Cafetera,,12.0,2024-01-13,Electrodomésticos
+2822,Televisor,,1.0,2024-01-13,Electrónica
+2924,Tablet,,1.0,2024-01-13,Electrónica
+20,Adorno de pared,,2.0,2024-01-14,Decoración
+53,Espejo decorativo,,7.0,2024-01-14,Decoración
+608,Rincón de plantas,,10.0,2024-01-14,Decoración
+993,Espejo decorativo,,1.0,2024-01-14,Decoración
+1065,Lavadora,,6.0,2024-01-14,Electrodomésticos
+1599,Batidora,,12.0,2024-01-14,Electrodomésticos
+1638,Cafetera,,9.0,2024-01-14,Electrodomésticos
+1685,Lavadora,,3.0,2024-01-14,Electrodomésticos
+2685,Auriculares,,10.0,2024-01-14,Electrónica
+169,Lámpara de mesa,,9.0,2024-01-15,Decoración
+236,Cortinas,,9.0,2024-01-15,Decoración
+260,Adorno de pared,,9.0,2024-01-15,Decoración
+977,Elementos de cerámica,,5.0,2024-01-15,Decoración
+1271,Freidora eléctrica,,2.0,2024-01-15,Electrodomésticos
+2098,SmartWatch,,5.0,2024-01-15,Electrónica
+2196,Laptop,,1.0,2024-01-15,Electrónica
+2590,Consola de videojuegos,,6.0,2024-01-15,Electrónica
+2788,SmartWatch,,8.0,2024-01-15,Electrónica
+2803,Smartphone,,5.0,2024-01-15,Electrónica
+2874,Tablet,,2.0,2024-01-15,Electrónica
+113,Espejo decorativo,,10.0,2024-01-16,Decoración
+503,Espejo decorativo,,3.0,2024-01-16,Decoración
+832,Cuadro decorativo,,1.0,2024-01-16,Decoración
+962,Cuadro decorativo,,11.0,2024-01-16,Decoración
+1250,Plancha de vapor,,6.0,2024-01-16,Electrodomésticos
+1431,Freidora eléctrica,,8.0,2024-01-16,Electrodomésticos
+1920,Plancha de vapor,,6.0,2024-01-16,Electrodomésticos
+2129,Proyector,,6.0,2024-01-16,Electrónica
+2220,Consola de videojuegos,,1.0,2024-01-16,Electrónica
+2477,Cámara digital,,9.0,2024-01-16,Electrónica
+2789,Proyector,,11.0,2024-01-16,Electrónica
+2935,Auriculares,,2.0,2024-01-16,Electrónica
+131,Lámpara de mesa,,10.0,2024-01-17,Decoración
+178,Rincón de plantas,,1.0,2024-01-17,Decoración
+368,Rincón de plantas,,9.0,2024-01-17,Decoración
+684,Jarrón decorativo,,6.0,2024-01-17,Decoración
+1750,Plancha de vapor,,2.0,2024-01-17,Electrodomésticos
+2284,Tablet,,4.0,2024-01-17,Electrónica
+2402,Televisor,,9.0,2024-01-17,Electrónica
+2698,SmartWatch,,7.0,2024-01-17,Electrónica
+430,Adorno de pared,,5.0,2024-01-18,Decoración
+588,Rincón de plantas,,3.0,2024-01-18,Decoración
+1626,Secadora,,6.0,2024-01-18,Electrodomésticos
+1900,Plancha de vapor,,1.0,2024-01-18,Electrodomésticos
+2119,Proyector,,11.0,2024-01-18,Electrónica
+2244,Auriculares,,5.0,2024-01-18,Electrónica
+2297,Cámara digital,,5.0,2024-01-18,Electrónica
+2416,Laptop,,10.0,2024-01-18,Electrónica
+2431,Parlantes Bluetooth,,1.0,2024-01-18,Electrónica
+2792,Televisor,,5.0,2024-01-18,Electrónica
+30,Adorno de pared,,6.0,2024-01-19,Decoración
+49,Lámpara de mesa,,6.0,2024-01-19,Decoración
+104,Jarrón decorativo,,8.0,2024-01-19,Decoración
+323,Espejo decorativo,,7.0,2024-01-19,Decoración
+395,Alfombra,,12.0,2024-01-19,Decoración
+851,Lámpara de mesa,,6.0,2024-01-19,Decoración
+1125,Lavadora,,12.0,2024-01-19,Electrodomésticos
+1332,Cafetera,,11.0,2024-01-19,Electrodomésticos
+1806,Secadora,,10.0,2024-01-19,Electrodomésticos
+2231,Parlantes Bluetooth,,7.0,2024-01-19,Electrónica
+401,Lámpara de mesa,,8.0,2024-01-20,Decoración
+788,Rincón de plantas,,3.0,2024-01-20,Decoración
+1007,Horno eléctrico,,8.0,2024-01-20,Electrodomésticos
+1489,Batidora,,3.0,2024-01-20,Electrodomésticos
+2187,Cámara digital,,2.0,2024-01-20,Electrónica
+2588,SmartWatch,,11.0,2024-01-20,Electrónica
+2721,Parlantes Bluetooth,,6.0,2024-01-20,Electrónica
+2897,Cámara digital,,5.0,2024-01-20,Electrónica
+2987,Cámara digital,,8.0,2024-01-20,Electrónica
+59,Lámpara de mesa,,8.0,2024-01-21,Decoración
+754,Jarrón decorativo,,12.0,2024-01-21,Decoración
+1117,Horno eléctrico,,1.0,2024-01-21,Electrodomésticos
+1140,Plancha de vapor,,7.0,2024-01-21,Electrodomésticos
+1145,Lavadora,,11.0,2024-01-21,Electrodomésticos
+1286,Secadora,,11.0,2024-01-21,Electrodomésticos
+1754,Aspiradora,,8.0,2024-01-21,Electrodomésticos
+1882,Cafetera,,12.0,2024-01-21,Electrodomésticos
+2560,Consola de videojuegos,,5.0,2024-01-21,Electrónica
+442,Cuadro decorativo,,1.0,2024-01-22,Decoración
+547,Elementos de cerámica,,6.0,2024-01-22,Decoración
+984,Jarrón decorativo,,5.0,2024-01-22,Decoración
+1106,Secadora,,2.0,2024-01-22,Electrodomésticos
+1808,Cafetera,,3.0,2024-01-22,Electrodomésticos
+1981,Freidora eléctrica,,8.0,2024-01-22,Electrodomésticos
+80,Adorno de pared,,5.0,2024-01-23,Decoración
+189,Lámpara de mesa,,2.0,2024-01-23,Decoración
+839,Lámpara de mesa,,5.0,2024-01-23,Decoración
+947,Elementos de cerámica,,1.0,2024-01-23,Decoración
+1592,Cafetera,,3.0,2024-01-23,Electrodomésticos
+2690,Consola de videojuegos,,2.0,2024-01-23,Electrónica
+39,Lámpara de mesa,,12.0,2024-01-24,Decoración
+164,Jarrón decorativo,,1.0,2024-01-24,Decoración
+196,Cortinas,,4.0,2024-01-24,Decoración
+768,Rincón de plantas,,2.0,2024-01-24,Decoración
+1515,Lavadora,,1.0,2024-01-24,Electrodomésticos
+1786,Secadora,,3.0,2024-01-24,Electrodomésticos
+1977,Horno eléctrico,,7.0,2024-01-24,Electrodomésticos
+2354,Tablet,,8.0,2024-01-24,Electrónica
+2543,Smartphone,,7.0,2024-01-24,Electrónica
+2623,Smartphone,,7.0,2024-01-24,Electrónica
+2982,Televisor,,9.0,2024-01-24,Electrónica
+85,Alfombra,,2.0,2024-01-25,Decoración
+983,Espejo decorativo,,10.0,2024-01-25,Decoración
+1378,Cafetera,,4.0,2024-01-25,Electrodomésticos
+1485,Lavadora,,4.0,2024-01-25,Electrodomésticos
+1503,Microondas,,9.0,2024-01-25,Electrodomésticos
+2121,Parlantes Bluetooth,,6.0,2024-01-25,Electrónica
+2340,Consola de videojuegos,,5.0,2024-01-25,Electrónica
+2502,Televisor,,8.0,2024-01-25,Electrónica
+2619,Proyector,,10.0,2024-01-25,Electrónica
+2735,Auriculares,,10.0,2024-01-25,Electrónica
+2948,SmartWatch,,2.0,2024-01-25,Electrónica
+73,Espejo decorativo,,9.0,2024-01-26,Decoración
+621,Lámpara de mesa,,6.0,2024-01-26,Decoración
+787,Elementos de cerámica,,6.0,2024-01-26,Decoración
+933,Espejo decorativo,,1.0,2024-01-26,Decoración
+1768,Cafetera,,9.0,2024-01-26,Electrodomésticos
+2252,Televisor,,8.0,2024-01-26,Electrónica
+2305,Auriculares,,9.0,2024-01-26,Electrónica
+218,Rincón de plantas,,1.0,2024-01-27,Decoración
+310,Adorno de pared,,2.0,2024-01-27,Decoración
+496,Cortinas,,5.0,2024-01-27,Decoración
+1360,Plancha de vapor,,2.0,2024-01-27,Electrodomésticos
+1744,Aspiradora,,12.0,2024-01-27,Electrodomésticos
+1877,Horno eléctrico,,4.0,2024-01-27,Electrodomésticos
+2165,Auriculares,,9.0,2024-01-27,Electrónica
+2218,SmartWatch,,1.0,2024-01-27,Electrónica
+2222,Televisor,,9.0,2024-01-27,Electrónica
+2546,Laptop,,2.0,2024-01-27,Electrónica
+617,Elementos de cerámica,,4.0,2024-01-28,Decoración
+641,Lámpara de mesa,,10.0,2024-01-28,Decoración
+912,Cuadro decorativo,,9.0,2024-01-28,Decoración
+1999,Batidora,,3.0,2024-01-28,Electrodomésticos
+2323,Smartphone,,1.0,2024-01-28,Electrónica
+2636,Laptop,,10.0,2024-01-28,Electrónica
+2693,Smartphone,,1.0,2024-01-28,Electrónica
+373,Espejo decorativo,,11.0,2024-01-29,Decoración
+1452,Cafetera,,8.0,2024-01-29,Electrodomésticos
+1645,Lavadora,,3.0,2024-01-29,Electrodomésticos
+2228,SmartWatch,,7.0,2024-01-29,Electrónica
+2240,Consola de videojuegos,,8.0,2024-01-29,Electrónica
+2245,Auriculares,,8.0,2024-01-29,Electrónica
+2653,Smartphone,,6.0,2024-01-29,Electrónica
+2870,Consola de videojuegos,,1.0,2024-01-29,Electrónica
+2938,SmartWatch,,1.0,2024-01-29,Electrónica
+2953,Smartphone,,12.0,2024-01-29,Electrónica
+1046,Secadora,,11.0,2024-01-30,Electrodomésticos
+1886,Secadora,,1.0,2024-01-30,Electrodomésticos
+1965,Lavadora,,7.0,2024-01-30,Electrodomésticos
+2005,Auriculares,,4.0,2024-01-30,Electrónica
+2273,Smartphone,,2.0,2024-01-30,Electrónica
+2522,Televisor,,2.0,2024-01-30,Electrónica
+2784,Tablet,,9.0,2024-01-30,Electrónica
+2945,Auriculares,,1.0,2024-01-30,Electrónica
+50,Adorno de pared,,5.0,2024-01-31,Decoración
+162,Cuadro decorativo,,5.0,2024-01-31,Decoración
+259,Lámpara de mesa,,11.0,2024-01-31,Decoración
+277,Elementos de cerámica,,7.0,2024-01-31,Decoración
+852,Cuadro decorativo,,4.0,2024-01-31,Decoración
+1185,Lavadora,,1.0,2024-01-31,Electrodomésticos
+1210,Plancha de vapor,,10.0,2024-01-31,Electrodomésticos
+1254,Aspiradora,,11.0,2024-01-31,Electrodomésticos
+1481,Freidora eléctrica,,12.0,2024-01-31,Electrodomésticos
+1898,Cafetera,,9.0,2024-01-31,Electrodomésticos
+2185,Auriculares,,11.0,2024-01-31,Electrónica
+2752,Auriculares,,5.0,2024-01-31,Electrónica
+2916,Laptop,,2.0,2024-01-31,Electrónica
+733,Espejo decorativo,,2.0,2024-02-01,Decoración
+848,Rincón de plantas,,10.0,2024-02-01,Decoración
+1102,Cafetera,,2.0,2024-02-01,Electrodomésticos
+1764,Aspiradora,,10.0,2024-02-01,Electrodomésticos
+1813,Microondas,,5.0,2024-02-01,Electrodomésticos
+2069,Proyector,,12.0,2024-02-01,Electrónica
+2474,Auriculares,,8.0,2024-02-01,Electrónica
+2680,Consola de videojuegos,,2.0,2024-02-01,Electrónica
+380,Adorno de pared,,10.0,2024-02-02,Decoración
+557,Elementos de cerámica,,6.0,2024-02-02,Decoración
+828,Rincón de plantas,,7.0,2024-02-02,Decoración
+829,Lámpara de mesa,,12.0,2024-02-02,Decoración
+1600,Plancha de vapor,,10.0,2024-02-02,Electrodomésticos
+2079,Proyector,,6.0,2024-02-02,Electrónica
+2115,Auriculares,,9.0,2024-02-02,Electrónica
+2133,Smartphone,,2.0,2024-02-02,Electrónica
+2329,Proyector,,7.0,2024-02-02,Electrónica
+2476,Laptop,,7.0,2024-02-02,Electrónica
+2548,SmartWatch,,10.0,2024-02-02,Electrónica
+211,Lámpara de mesa,,8.0,2024-02-03,Decoración
+541,Lámpara de mesa,,10.0,2024-02-03,Decoración
+695,Alfombra,,2.0,2024-02-03,Decoración
+1336,Secadora,,7.0,2024-02-03,Electrodomésticos
+1499,Batidora,,4.0,2024-02-03,Electrodomésticos
+2007,Cámara digital,,9.0,2024-02-03,Electrónica
+2068,SmartWatch,,4.0,2024-02-03,Electrónica
+2758,SmartWatch,,6.0,2024-02-03,Electrónica
+2851,Parlantes Bluetooth,,2.0,2024-02-03,Electrónica
+64,Jarrón decorativo,,10.0,2024-02-04,Decoración
+763,Espejo decorativo,,3.0,2024-02-04,Decoración
+1424,Aspiradora,,10.0,2024-02-04,Electrodomésticos
+1455,Lavadora,,10.0,2024-02-04,Electrodomésticos
+1456,Secadora,,3.0,2024-02-04,Electrodomésticos
+2315,Auriculares,,4.0,2024-02-04,Electrónica
+2832,Televisor,,4.0,2024-02-04,Electrónica
+24,Jarrón decorativo,,12.0,2024-02-05,Decoración
+40,Adorno de pared,,10.0,2024-02-05,Decoración
+347,Elementos de cerámica,,12.0,2024-02-05,Decoración
+911,Lámpara de mesa,,4.0,2024-02-05,Decoración
+1451,Freidora eléctrica,,4.0,2024-02-05,Electrodomésticos
+1855,Lavadora,,8.0,2024-02-05,Electrodomésticos
+1961,Freidora eléctrica,,1.0,2024-02-05,Electrodomésticos
+2378,SmartWatch,,1.0,2024-02-05,Electrónica
+2426,Laptop,,4.0,2024-02-05,Electrónica
+1064,Aspiradora,,9.0,2024-02-06,Electrodomésticos
+1313,Microondas,,9.0,2024-02-06,Electrodomésticos
+1848,Cafetera,,4.0,2024-02-06,Electrodomésticos
+2267,Cámara digital,,10.0,2024-02-06,Electrónica
+2438,SmartWatch,,3.0,2024-02-06,Electrónica
+2566,Laptop,,9.0,2024-02-06,Electrónica
+2617,Cámara digital,,9.0,2024-02-06,Electrónica
+2627,Cámara digital,,5.0,2024-02-06,Electrónica
+381,Lámpara de mesa,,3.0,2024-02-07,Decoración
+393,Espejo decorativo,,7.0,2024-02-07,Decoración
+662,Cuadro decorativo,,12.0,2024-02-07,Decoración
+770,Adorno de pared,,5.0,2024-02-07,Decoración
+895,Alfombra,,2.0,2024-02-07,Decoración
+1340,Plancha de vapor,,10.0,2024-02-07,Electrodomésticos
+1422,Cafetera,,2.0,2024-02-07,Electrodomésticos
+1554,Aspiradora,,3.0,2024-02-07,Electrodomésticos
+2584,Auriculares,,6.0,2024-02-07,Electrónica
+163,Espejo decorativo,,12.0,2024-02-08,Decoración
+367,Elementos de cerámica,,2.0,2024-02-08,Decoración
+745,Alfombra,,12.0,2024-02-08,Decoración
+850,Adorno de pared,,9.0,2024-02-08,Decoración
+971,Lámpara de mesa,,8.0,2024-02-08,Decoración
+1501,Freidora eléctrica,,4.0,2024-02-08,Electrodomésticos
+1529,Batidora,,10.0,2024-02-08,Electrodomésticos
+2618,SmartWatch,,11.0,2024-02-08,Electrónica
+809,Lámpara de mesa,,4.0,2024-02-09,Decoración
+1371,Freidora eléctrica,,4.0,2024-02-09,Electrodomésticos
+1791,Freidora eléctrica,,9.0,2024-02-09,Electrodomésticos
+2294,Auriculares,,9.0,2024-02-09,Electrónica
+2668,SmartWatch,,4.0,2024-02-09,Electrónica
+2718,SmartWatch,,11.0,2024-02-09,Electrónica
+135,Alfombra,,1.0,2024-02-10,Decoración
+212,Cuadro decorativo,,12.0,2024-02-10,Decoración
+229,Lámpara de mesa,,3.0,2024-02-10,Decoración
+737,Elementos de cerámica,,3.0,2024-02-10,Decoración
+840,Adorno de pared,,9.0,2024-02-10,Decoración
+949,Lámpara de mesa,,1.0,2024-02-10,Decoración
+1294,Aspiradora,,9.0,2024-02-10,Electrodomésticos
+1436,Secadora,,11.0,2024-02-10,Electrodomésticos
+1696,Secadora,,12.0,2024-02-10,Electrodomésticos
+2013,Smartphone,,12.0,2024-02-10,Electrónica
+2203,Smartphone,,5.0,2024-02-10,Electrónica
+2873,Smartphone,,5.0,2024-02-10,Electrónica
+2973,Smartphone,,1.0,2024-02-10,Electrónica
+43,Espejo decorativo,,2.0,2024-02-11,Decoración
+205,Alfombra,,4.0,2024-02-11,Decoración
+417,Elementos de cerámica,,2.0,2024-02-11,Decoración
+462,Cuadro decorativo,,8.0,2024-02-11,Decoración
+1730,Plancha de vapor,,10.0,2024-02-11,Electrodomésticos
+1901,Freidora eléctrica,,6.0,2024-02-11,Electrodomésticos
+2440,Consola de videojuegos,,8.0,2024-02-11,Electrónica
+2952,Televisor,,5.0,2024-02-11,Electrónica
+362,Cuadro decorativo,,12.0,2024-02-12,Decoración
+952,Cuadro decorativo,,11.0,2024-02-12,Decoración
+970,Adorno de pared,,3.0,2024-02-12,Decoración
+1963,Microondas,,3.0,2024-02-12,Electrodomésticos
+2122,Televisor,,9.0,2024-02-12,Electrónica
+2334,Auriculares,,4.0,2024-02-12,Electrónica
+2714,Auriculares,,10.0,2024-02-12,Electrónica
+116,Cortinas,,3.0,2024-02-13,Decoración
+2379,Proyector,,12.0,2024-02-13,Electrónica
+2669,Proyector,,3.0,2024-02-13,Electrónica
+2739,Proyector,,10.0,2024-02-13,Electrónica
+2766,Laptop,,11.0,2024-02-13,Electrónica
+2829,Proyector,,5.0,2024-02-13,Electrónica
+151,Lámpara de mesa,,7.0,2024-02-14,Decoración
+366,Cortinas,,1.0,2024-02-14,Decoración
+406,Cortinas,,1.0,2024-02-14,Decoración
+884,Jarrón decorativo,,10.0,2024-02-14,Decoración
+1488,Cafetera,,2.0,2024-02-14,Electrodomésticos
+1946,Secadora,,6.0,2024-02-14,Electrodomésticos
+2154,Auriculares,,12.0,2024-02-14,Electrónica
+2571,Parlantes Bluetooth,,5.0,2024-02-14,Electrónica
+2871,Parlantes Bluetooth,,7.0,2024-02-14,Electrónica
+282,Cuadro decorativo,,7.0,2024-02-15,Decoración
+457,Elementos de cerámica,,1.0,2024-02-15,Decoración
+946,Cortinas,,7.0,2024-02-15,Decoración
+1353,Microondas,,2.0,2024-02-15,Electrodomésticos
+2782,Televisor,,8.0,2024-02-15,Electrónica
+2979,Proyector,,7.0,2024-02-15,Electrónica
+1070,Plancha de vapor,,5.0,2024-02-16,Electrodomésticos
+1265,Lavadora,,5.0,2024-02-16,Electrodomésticos
+1798,Cafetera,,2.0,2024-02-16,Electrodomésticos
+2304,Auriculares,,8.0,2024-02-16,Electrónica
+2595,Auriculares,,2.0,2024-02-16,Electrónica
+2825,Auriculares,,4.0,2024-02-16,Electrónica
+727,Elementos de cerámica,,6.0,2024-02-17,Decoración
+913,Espejo decorativo,,4.0,2024-02-17,Decoración
+1346,Secadora,,4.0,2024-02-17,Electrodomésticos
+1623,Microondas,,4.0,2024-02-17,Electrodomésticos
+1924,Aspiradora,,9.0,2024-02-17,Electrodomésticos
+2246,Laptop,,10.0,2024-02-17,Electrónica
+2255,Auriculares,,8.0,2024-02-17,Electrónica
+2345,Auriculares,,4.0,2024-02-17,Electrónica
+275,Alfombra,,8.0,2024-02-18,Decoración
+276,Cortinas,,10.0,2024-02-18,Decoración
+436,Cortinas,,7.0,2024-02-18,Decoración
+492,Cuadro decorativo,,5.0,2024-02-18,Decoración
+658,Rincón de plantas,,8.0,2024-02-18,Decoración
+694,Jarrón decorativo,,10.0,2024-02-18,Decoración
+1081,Freidora eléctrica,,4.0,2024-02-18,Electrodomésticos
+1115,Lavadora,,3.0,2024-02-18,Electrodomésticos
+1510,Plancha de vapor,,10.0,2024-02-18,Electrodomésticos
+2136,Laptop,,2.0,2024-02-18,Electrónica
+2302,Televisor,,5.0,2024-02-18,Electrónica
+2837,Cámara digital,,1.0,2024-02-18,Electrónica
+83,Espejo decorativo,,6.0,2024-02-19,Decoración
+252,Cuadro decorativo,,8.0,2024-02-19,Decoración
+428,Rincón de plantas,,11.0,2024-02-19,Decoración
+728,Rincón de plantas,,2.0,2024-02-19,Decoración
+878,Rincón de plantas,,12.0,2024-02-19,Decoración
+52,Cuadro decorativo,,10.0,2024-02-20,Decoración
+387,Elementos de cerámica,,12.0,2024-02-20,Decoración
+722,Cuadro decorativo,,5.0,2024-02-20,Decoración
+1409,Batidora,,4.0,2024-02-20,Electrodomésticos
+1568,Cafetera,,10.0,2024-02-20,Electrodomésticos
+1788,Cafetera,,4.0,2024-02-20,Electrodomésticos
+2077,Cámara digital,,4.0,2024-02-20,Electrónica
+2706,Laptop,,2.0,2024-02-20,Electrónica
+2900,Consola de videojuegos,,2.0,2024-02-20,Electrónica
+2992,Smartphone,,8.0,2024-02-20,Electrónica
+288,Rincón de plantas,,11.0,2024-02-21,Decoración
+408,Rincón de plantas,,7.0,2024-02-21,Decoración
+720,Adorno de pared,,1.0,2024-02-21,Decoración
+1031,Freidora eléctrica,,6.0,2024-02-21,Electrodomésticos
+1186,Secadora,,9.0,2024-02-21,Electrodomésticos
+1453,Microondas,,5.0,2024-02-21,Electrodomésticos
+1660,Plancha de vapor,,12.0,2024-02-21,Electrodomésticos
+1700,Plancha de vapor,,6.0,2024-02-21,Electrodomésticos
+1820,Plancha de vapor,,12.0,2024-02-21,Electrodomésticos
+2083,Smartphone,,8.0,2024-02-21,Electrónica
+2742,Televisor,,3.0,2024-02-21,Electrónica
+2903,Smartphone,,6.0,2024-02-21,Electrónica
+707,Elementos de cerámica,,1.0,2024-02-22,Decoración
+888,Rincón de plantas,,12.0,2024-02-22,Decoración
+891,Lámpara de mesa,,4.0,2024-02-22,Decoración
+928,Rincón de plantas,,5.0,2024-02-22,Decoración
+1508,Cafetera,,1.0,2024-02-22,Electrodomésticos
+1582,Cafetera,,7.0,2024-02-22,Electrodomésticos
+2056,Laptop,,11.0,2024-02-22,Electrónica
+2883,Smartphone,,12.0,2024-02-22,Electrónica
+86,Cortinas,,12.0,2024-02-23,Decoración
+92,Cuadro decorativo,,3.0,2024-02-23,Decoración
+199,Lámpara de mesa,,1.0,2024-02-23,Decoración
+269,Lámpara de mesa,,1.0,2024-02-23,Decoración
+752,Cuadro decorativo,,11.0,2024-02-23,Decoración
+1323,Microondas,,8.0,2024-02-23,Electrodomésticos
+2419,Proyector,,3.0,2024-02-23,Electrónica
+2503,Smartphone,,9.0,2024-02-23,Electrónica
+2541,Parlantes Bluetooth,,12.0,2024-02-23,Electrónica
+2587,Cámara digital,,7.0,2024-02-23,Electrónica
+365,Alfombra,,9.0,2024-02-24,Decoración
+577,Elementos de cerámica,,7.0,2024-02-24,Decoración
+929,Lámpara de mesa,,11.0,2024-02-24,Decoración
+930,Adorno de pared,,6.0,2024-02-24,Decoración
+1182,Cafetera,,2.0,2024-02-24,Electrodomésticos
+1558,Cafetera,,6.0,2024-02-24,Electrodomésticos
+1817,Horno eléctrico,,4.0,2024-02-24,Electrodomésticos
+2058,SmartWatch,,3.0,2024-02-24,Electrónica
+2768,SmartWatch,,11.0,2024-02-24,Electrónica
+2816,Laptop,,8.0,2024-02-24,Electrónica
+2943,Smartphone,,2.0,2024-02-24,Electrónica
+1703,Microondas,,9.0,2024-02-25,Electrodomésticos
+1852,Cafetera,,7.0,2024-02-25,Electrodomésticos
+2175,Auriculares,,6.0,2024-02-25,Electrónica
+2232,Televisor,,7.0,2024-02-25,Electrónica
+2269,Proyector,,4.0,2024-02-25,Electrónica
+2398,SmartWatch,,1.0,2024-02-25,Electrónica
+332,Cuadro decorativo,,10.0,2024-02-26,Decoración
+581,Lámpara de mesa,,3.0,2024-02-26,Decoración
+697,Elementos de cerámica,,2.0,2024-02-26,Decoración
+1740,Plancha de vapor,,6.0,2024-02-26,Electrodomésticos
+2319,Proyector,,4.0,2024-02-26,Electrónica
+2551,Parlantes Bluetooth,,6.0,2024-02-26,Electrónica
+2,Cuadro decorativo,,3.0,2024-02-27,Decoración
+171,Lámpara de mesa,,6.0,2024-02-27,Decoración
+239,Lámpara de mesa,,12.0,2024-02-27,Decoración
+1095,Lavadora,,9.0,2024-02-27,Electrodomésticos
+1138,Cafetera,,8.0,2024-02-27,Electrodomésticos
+1835,Lavadora,,10.0,2024-02-27,Electrodomésticos
+1988,Cafetera,,3.0,2024-02-27,Electrodomésticos
+2594,Tablet,,7.0,2024-02-27,Electrónica
+2810,Consola de videojuegos,,1.0,2024-02-27,Electrónica
+2964,Tablet,,8.0,2024-02-27,Electrónica
+95,Alfombra,,2.0,2024-02-28,Decoración
+150,Adorno de pared,,5.0,2024-02-28,Decoración
+702,Cuadro decorativo,,9.0,2024-02-28,Decoración
+1136,Secadora,,8.0,2024-02-28,Electrodomésticos
+1272,Cafetera,,1.0,2024-02-28,Electrodomésticos
+1410,Plancha de vapor,,10.0,2024-02-28,Electrodomésticos
+1669,Batidora,,8.0,2024-02-28,Electrodomésticos
+1793,Microondas,,12.0,2024-02-28,Electrodomésticos
+1839,Batidora,,3.0,2024-02-28,Electrodomésticos
+2110,Consola de videojuegos,,4.0,2024-02-28,Electrónica
+2695,Auriculares,,9.0,2024-02-28,Electrónica
+2697,Cámara digital,,2.0,2024-02-28,Electrónica
+79,Lámpara de mesa,,10.0,2024-02-29,Decoración
+734,Jarrón decorativo,,6.0,2024-02-29,Decoración
+822,Cuadro decorativo,,11.0,2024-02-29,Decoración
+1569,Batidora,,12.0,2024-02-29,Electrodomésticos
+1570,Plancha de vapor,,4.0,2024-02-29,Electrodomésticos
+1984,Aspiradora,,11.0,2024-02-29,Electrodomésticos
+2104,Tablet,,5.0,2024-02-29,Electrónica
+2223,Smartphone,,6.0,2024-02-29,Electrónica
+661,Lámpara de mesa,,11.0,2024-03-01,Decoración
+1189,Batidora,,6.0,2024-03-01,Electrodomésticos
+1263,Microondas,,7.0,2024-03-01,Electrodomésticos
+2699,Proyector,,6.0,2024-03-01,Electrónica
+337,Elementos de cerámica,,10.0,2024-03-02,Decoración
+396,Cortinas,,2.0,2024-03-02,Decoración
+454,Jarrón decorativo,,7.0,2024-03-02,Decoración
+868,Rincón de plantas,,2.0,2024-03-02,Decoración
+1089,Batidora,,8.0,2024-03-02,Electrodomésticos
+2322,Televisor,,9.0,2024-03-02,Electrónica
+2572,Televisor,,7.0,2024-03-02,Electrónica
+2777,Cámara digital,,8.0,2024-03-02,Electrónica
+8,Rincón de plantas,,7.0,2024-03-03,Decoración
+356,Cortinas,,5.0,2024-03-03,Decoración
+403,Espejo decorativo,,1.0,2024-03-03,Decoración
+760,Adorno de pared,,1.0,2024-03-03,Decoración
+985,Alfombra,,3.0,2024-03-03,Decoración
+2975,Auriculares,,10.0,2024-03-03,Electrónica
+186,Cortinas,,3.0,2024-03-04,Decoración
+954,Jarrón decorativo,,1.0,2024-03-04,Decoración
+1622,Cafetera,,7.0,2024-03-04,Electrodomésticos
+1646,Secadora,,7.0,2024-03-04,Electrodomésticos
+1761,Freidora eléctrica,,7.0,2024-03-04,Electrodomésticos
+1812,Cafetera,,1.0,2024-03-04,Electrodomésticos
+2489,Proyector,,1.0,2024-03-04,Electrónica
+140,Adorno de pared,,1.0,2024-03-05,Decoración
+324,Jarrón decorativo,,5.0,2024-03-05,Decoración
+774,Jarrón decorativo,,12.0,2024-03-05,Decoración
+1085,Lavadora,,10.0,2024-03-05,Electrodomésticos
+1736,Secadora,,11.0,2024-03-05,Electrodomésticos
+1741,Freidora eléctrica,,2.0,2024-03-05,Electrodomésticos
+1743,Microondas,,6.0,2024-03-05,Electrodomésticos
+2063,Smartphone,,12.0,2024-03-05,Electrónica
+2102,Televisor,,1.0,2024-03-05,Electrónica
+781,Lámpara de mesa,,11.0,2024-03-06,Decoración
+1686,Secadora,,8.0,2024-03-06,Electrodomésticos
+2099,Proyector,,2.0,2024-03-06,Electrónica
+2388,SmartWatch,,9.0,2024-03-06,Electrónica
+2498,SmartWatch,,10.0,2024-03-06,Electrónica
+2942,Televisor,,2.0,2024-03-06,Electrónica
+612,Cuadro decorativo,,10.0,2024-03-07,Decoración
+635,Alfombra,,7.0,2024-03-07,Decoración
+879,Lámpara de mesa,,11.0,2024-03-07,Decoración
+1027,Horno eléctrico,,1.0,2024-03-07,Electrodomésticos
+1052,Cafetera,,11.0,2024-03-07,Electrodomésticos
+1982,Cafetera,,8.0,2024-03-07,Electrodomésticos
+2270,Consola de videojuegos,,8.0,2024-03-07,Electrónica
+2550,Consola de videojuegos,,6.0,2024-03-07,Electrónica
+23,Espejo decorativo,,5.0,2024-03-08,Decoración
+336,Cortinas,,5.0,2024-03-08,Decoración
+348,Rincón de plantas,,1.0,2024-03-08,Decoración
+435,Alfombra,,1.0,2024-03-08,Decoración
+1229,Batidora,,4.0,2024-03-08,Electrodomésticos
+1434,Aspiradora,,11.0,2024-03-08,Electrodomésticos
+1557,Horno eléctrico,,12.0,2024-03-08,Electrodomésticos
+1879,Batidora,,9.0,2024-03-08,Electrodomésticos
+2233,Smartphone,,3.0,2024-03-08,Electrónica
+156,Cortinas,,2.0,2024-03-09,Decoración
+470,Adorno de pared,,5.0,2024-03-09,Decoración
+685,Alfombra,,9.0,2024-03-09,Decoración
+805,Alfombra,,8.0,2024-03-09,Decoración
+1369,Batidora,,11.0,2024-03-09,Electrodomésticos
+1513,Microondas,,1.0,2024-03-09,Electrodomésticos
+1844,Aspiradora,,12.0,2024-03-09,Electrodomésticos
+2002,Televisor,,10.0,2024-03-09,Electrónica
+2664,Tablet,,3.0,2024-03-09,Electrónica
+2684,Auriculares,,6.0,2024-03-09,Electrónica
+2694,Auriculares,,3.0,2024-03-09,Electrónica
+2826,Laptop,,8.0,2024-03-09,Electrónica
+2983,Smartphone,,11.0,2024-03-09,Electrónica
+74,Jarrón decorativo,,11.0,2024-03-10,Decoración
+161,Lámpara de mesa,,11.0,2024-03-10,Decoración
+967,Elementos de cerámica,,10.0,2024-03-10,Decoración
+978,Rincón de plantas,,4.0,2024-03-10,Decoración
+1169,Batidora,,5.0,2024-03-10,Electrodomésticos
+1219,Batidora,,9.0,2024-03-10,Electrodomésticos
+1330,Plancha de vapor,,11.0,2024-03-10,Electrodomésticos
+1742,Cafetera,,11.0,2024-03-10,Electrodomésticos
+1751,Freidora eléctrica,,4.0,2024-03-10,Electrodomésticos
+1860,Plancha de vapor,,12.0,2024-03-10,Electrodomésticos
+2944,Auriculares,,4.0,2024-03-10,Electrónica
+91,Lámpara de mesa,,12.0,2024-03-11,Decoración
+615,Alfombra,,5.0,2024-03-11,Decoración
+1240,Plancha de vapor,,12.0,2024-03-11,Electrodomésticos
+1311,Freidora eléctrica,,11.0,2024-03-11,Electrodomésticos
+1707,Horno eléctrico,,8.0,2024-03-11,Electrodomésticos
+1934,Aspiradora,,2.0,2024-03-11,Electrodomésticos
+2436,Laptop,,8.0,2024-03-11,Electrónica
+693,Espejo decorativo,,9.0,2024-03-12,Decoración
+849,Lámpara de mesa,,2.0,2024-03-12,Decoración
+887,Elementos de cerámica,,3.0,2024-03-12,Decoración
+1042,Heladera,,10.0,2024-03-12,Electrodomésticos
+1248,Cafetera,,5.0,2024-03-12,Electrodomésticos
+1305,Lavadora,,9.0,2024-03-12,Electrodomésticos
+2282,Televisor,,10.0,2024-03-12,Electrónica
+2519,Proyector,,11.0,2024-03-12,Electrónica
+543,Espejo decorativo,,10.0,2024-03-13,Decoración
+623,Espejo decorativo,,3.0,2024-03-13,Decoración
+874,Jarrón decorativo,,12.0,2024-03-13,Decoración
+1173,Microondas,,12.0,2024-03-13,Electrodomésticos
+1260,Plancha de vapor,,1.0,2024-03-13,Electrodomésticos
+1295,Lavadora,,7.0,2024-03-13,Electrodomésticos
+1620,Plancha de vapor,,5.0,2024-03-13,Electrodomésticos
+1892,Heladera,,1.0,2024-03-13,Electrodomésticos
+1916,Secadora,,11.0,2024-03-13,Electrodomésticos
+2393,Smartphone,,9.0,2024-03-13,Electrónica
+2437,Cámara digital,,3.0,2024-03-13,Electrónica
+2688,SmartWatch,,12.0,2024-03-13,Electrónica
+2858,SmartWatch,,6.0,2024-03-13,Electrónica
+820,Adorno de pared,,3.0,2024-03-14,Decoración
+1303,Microondas,,9.0,2024-03-14,Electrodomésticos
+1657,Horno eléctrico,,9.0,2024-03-14,Electrodomésticos
+1772,Heladera,,2.0,2024-03-14,Electrodomésticos
+1978,Cafetera,,11.0,2024-03-14,Electrodomésticos
+2052,Televisor,,5.0,2024-03-14,Electrónica
+2347,Cámara digital,,3.0,2024-03-14,Electrónica
+2493,Smartphone,,5.0,2024-03-14,Electrónica
+2748,SmartWatch,,7.0,2024-03-14,Electrónica
+2882,Televisor,,9.0,2024-03-14,Electrónica
+2981,Parlantes Bluetooth,,10.0,2024-03-14,Electrónica
+517,Elementos de cerámica,,12.0,2024-03-15,Decoración
+624,Jarrón decorativo,,10.0,2024-03-15,Decoración
+772,Cuadro decorativo,,10.0,2024-03-15,Decoración
+957,Elementos de cerámica,,4.0,2024-03-15,Decoración
+1953,Microondas,,2.0,2024-03-15,Electrodomésticos
+2082,Televisor,,3.0,2024-03-15,Electrónica
+2170,Consola de videojuegos,,1.0,2024-03-15,Electrónica
+2554,Auriculares,,11.0,2024-03-15,Electrónica
+2647,Cámara digital,,1.0,2024-03-15,Electrónica
+2835,Auriculares,,7.0,2024-03-15,Electrónica
+2950,Consola de videojuegos,,10.0,2024-03-15,Electrónica
+613,Espejo decorativo,,7.0,2024-03-16,Decoración
+836,Cortinas,,1.0,2024-03-16,Decoración
+919,Lámpara de mesa,,1.0,2024-03-16,Decoración
+1099,Batidora,,11.0,2024-03-16,Electrodomésticos
+1670,Plancha de vapor,,7.0,2024-03-16,Electrodomésticos
+1995,Lavadora,,7.0,2024-03-16,Electrodomésticos
+2018,SmartWatch,,1.0,2024-03-16,Electrónica
+2030,Consola de videojuegos,,9.0,2024-03-16,Electrónica
+2613,Smartphone,,6.0,2024-03-16,Electrónica
+2749,Proyector,,4.0,2024-03-16,Electrónica
+2809,Proyector,,1.0,2024-03-16,Electrónica
+262,Cuadro decorativo,,11.0,2024-03-17,Decoración
+449,Lámpara de mesa,,3.0,2024-03-17,Decoración
+914,Jarrón decorativo,,2.0,2024-03-17,Decoración
+1067,Horno eléctrico,,8.0,2024-03-17,Electrodomésticos
+1164,Aspiradora,,2.0,2024-03-17,Electrodomésticos
+1209,Batidora,,3.0,2024-03-17,Electrodomésticos
+1545,Lavadora,,10.0,2024-03-17,Electrodomésticos
+2444,Auriculares,,11.0,2024-03-17,Electrónica
+2577,Cámara digital,,6.0,2024-03-17,Electrónica
+2677,Cámara digital,,10.0,2024-03-17,Electrónica
+188,Rincón de plantas,,9.0,2024-03-18,Decoración
+407,Elementos de cerámica,,5.0,2024-03-18,Decoración
+505,Alfombra,,11.0,2024-03-18,Decoración
+872,Cuadro decorativo,,10.0,2024-03-18,Decoración
+926,Cortinas,,11.0,2024-03-18,Decoración
+1384,Aspiradora,,9.0,2024-03-18,Electrodomésticos
+2035,Auriculares,,6.0,2024-03-18,Electrónica
+2454,Auriculares,,10.0,2024-03-18,Electrónica
+2496,Laptop,,3.0,2024-03-18,Electrónica
+2763,Smartphone,,11.0,2024-03-18,Electrónica
+314,Jarrón decorativo,,10.0,2024-03-19,Decoración
+731,Lámpara de mesa,,2.0,2024-03-19,Decoración
+961,Lámpara de mesa,,9.0,2024-03-19,Decoración
+1073,Microondas,,10.0,2024-03-19,Electrodomésticos
+1917,Horno eléctrico,,2.0,2024-03-19,Electrodomésticos
+2037,Cámara digital,,12.0,2024-03-19,Electrónica
+2047,Cámara digital,,3.0,2024-03-19,Electrónica
+2157,Cámara digital,,8.0,2024-03-19,Electrónica
+197,Elementos de cerámica,,4.0,2024-03-20,Decoración
+206,Cortinas,,2.0,2024-03-20,Decoración
+234,Jarrón decorativo,,9.0,2024-03-20,Decoración
+746,Cortinas,,10.0,2024-03-20,Decoración
+855,Alfombra,,11.0,2024-03-20,Decoración
+950,Adorno de pared,,6.0,2024-03-20,Decoración
+1581,Freidora eléctrica,,8.0,2024-03-20,Electrodomésticos
+2001,Freidora eléctrica,,12.0,2024-03-20,Electrodomésticos
+2112,Televisor,,12.0,2024-03-20,Electrónica
+2530,Consola de videojuegos,,8.0,2024-03-20,Electrónica
+195,Alfombra,,12.0,2024-03-21,Decoración
+780,Adorno de pared,,7.0,2024-03-21,Decoración
+1290,Plancha de vapor,,5.0,2024-03-21,Electrodomésticos
+1537,Horno eléctrico,,7.0,2024-03-21,Electrodomésticos
+1677,Horno eléctrico,,12.0,2024-03-21,Electrodomésticos
+1831,Freidora eléctrica,,4.0,2024-03-21,Electrodomésticos
+2200,Consola de videojuegos,,10.0,2024-03-21,Electrónica
+2650,Consola de videojuegos,,10.0,2024-03-21,Electrónica
+2691,Parlantes Bluetooth,,11.0,2024-03-21,Electrónica
+2701,Parlantes Bluetooth,,9.0,2024-03-21,Electrónica
+2946,Laptop,,11.0,2024-03-21,Electrónica
+65,Alfombra,,2.0,2024-03-22,Decoración
+270,Adorno de pared,,6.0,2024-03-22,Decoración
+645,Alfombra,,1.0,2024-03-22,Decoración
+1222,Heladera,,8.0,2024-03-22,Electrodomésticos
+1921,Freidora eléctrica,,5.0,2024-03-22,Electrodomésticos
+2059,Proyector,,12.0,2024-03-22,Electrónica
+2100,Consola de videojuegos,,1.0,2024-03-22,Electrónica
+2162,Televisor,,3.0,2024-03-22,Electrónica
+2634,Auriculares,,10.0,2024-03-22,Electrónica
+2813,Smartphone,,11.0,2024-03-22,Electrónica
+1607,Horno eléctrico,,3.0,2024-03-23,Electrodomésticos
+1690,Plancha de vapor,,9.0,2024-03-23,Electrodomésticos
+2456,Laptop,,11.0,2024-03-23,Electrónica
+210,Adorno de pared,,4.0,2024-03-24,Decoración
+708,Rincón de plantas,,11.0,2024-03-24,Decoración
+1502,Heladera,,4.0,2024-03-24,Electrodomésticos
+1562,Heladera,,1.0,2024-03-24,Electrodomésticos
+1904,Aspiradora,,5.0,2024-03-24,Electrodomésticos
+2003,Smartphone,,2.0,2024-03-24,Electrónica
+2399,Proyector,,3.0,2024-03-24,Electrónica
+2420,Consola de videojuegos,,9.0,2024-03-24,Electrónica
+2462,Televisor,,3.0,2024-03-24,Electrónica
+2480,Consola de videojuegos,,11.0,2024-03-24,Electrónica
+339,Lámpara de mesa,,1.0,2024-03-25,Decoración
+595,Alfombra,,1.0,2024-03-25,Decoración
+629,Lámpara de mesa,,2.0,2024-03-25,Decoración
+652,Cuadro decorativo,,9.0,2024-03-25,Decoración
+1093,Microondas,,1.0,2024-03-25,Electrodomésticos
+1918,Cafetera,,10.0,2024-03-25,Electrodomésticos
+2306,Laptop,,9.0,2024-03-25,Electrónica
+2542,Televisor,,4.0,2024-03-25,Electrónica
+594,Jarrón decorativo,,1.0,2024-03-26,Decoración
+649,Lámpara de mesa,,1.0,2024-03-26,Decoración
+1183,Microondas,,5.0,2024-03-26,Electrodomésticos
+1648,Cafetera,,7.0,2024-03-26,Electrodomésticos
+1705,Lavadora,,4.0,2024-03-26,Electrodomésticos
+1874,Aspiradora,,1.0,2024-03-26,Electrodomésticos
+2912,Televisor,,1.0,2024-03-26,Electrónica
+132,Cuadro decorativo,,12.0,2024-03-27,Decoración
+549,Lámpara de mesa,,8.0,2024-03-27,Decoración
+598,Rincón de plantas,,8.0,2024-03-27,Decoración
+939,Lámpara de mesa,,3.0,2024-03-27,Decoración
+1251,Freidora eléctrica,,12.0,2024-03-27,Electrodomésticos
+1785,Lavadora,,10.0,2024-03-27,Electrodomésticos
+558,Rincón de plantas,,10.0,2024-03-28,Decoración
+730,Adorno de pared,,8.0,2024-03-28,Decoración
+1121,Freidora eléctrica,,6.0,2024-03-28,Electrodomésticos
+1433,Microondas,,8.0,2024-03-28,Electrodomésticos
+1565,Lavadora,,11.0,2024-03-28,Electrodomésticos
+1873,Microondas,,7.0,2024-03-28,Electrodomésticos
+2830,Consola de videojuegos,,3.0,2024-03-28,Electrónica
+2272,Televisor,,7.0,2024-03-29,Electrónica
+2585,Auriculares,,12.0,2024-03-29,Electrónica
+2838,SmartWatch,,3.0,2024-03-29,Electrónica
+2856,Laptop,,11.0,2024-03-29,Electrónica
+749,Lámpara de mesa,,1.0,2024-03-30,Decoración
+1800,Plancha de vapor,,2.0,2024-03-30,Electrodomésticos
+1821,Freidora eléctrica,,10.0,2024-03-30,Electrodomésticos
+2034,Auriculares,,8.0,2024-03-30,Electrónica
+2044,Tablet,,11.0,2024-03-30,Electrónica
+2286,Laptop,,8.0,2024-03-30,Electrónica
+2683,Smartphone,,7.0,2024-03-30,Electrónica
+2984,Tablet,,11.0,2024-03-30,Electrónica
+46,Cortinas,,7.0,2024-03-31,Decoración
+221,Lámpara de mesa,,9.0,2024-03-31,Decoración
+251,Lámpara de mesa,,3.0,2024-03-31,Decoración
+654,Jarrón decorativo,,7.0,2024-03-31,Decoración
+904,Jarrón decorativo,,11.0,2024-03-31,Decoración
+1201,Freidora eléctrica,,8.0,2024-03-31,Electrodomésticos
+1261,Freidora eléctrica,,10.0,2024-03-31,Electrodomésticos
+1633,Microondas,,1.0,2024-03-31,Electrodomésticos
+1948,Cafetera,,6.0,2024-03-31,Electrodomésticos
+2062,Televisor,,7.0,2024-03-31,Electrónica
+2731,Parlantes Bluetooth,,6.0,2024-03-31,Electrónica
+390,Adorno de pared,,8.0,2024-04-01,Decoración
+522,Cuadro decorativo,,5.0,2024-04-01,Decoración
+1322,Heladera,,4.0,2024-04-01,Electrodomésticos
+2310,Consola de videojuegos,,5.0,2024-04-01,Electrónica
+2383,Smartphone,,1.0,2024-04-01,Electrónica
+2865,Auriculares,,2.0,2024-04-01,Electrónica
+45,Alfombra,,1.0,2024-04-02,Decoración
+893,Espejo decorativo,,12.0,2024-04-02,Decoración
+1008,Cafetera,,10.0,2024-04-02,Electrodomésticos
+1148,Cafetera,,4.0,2024-04-02,Electrodomésticos
+1457,Horno eléctrico,,6.0,2024-04-02,Electrodomésticos
+1588,Cafetera,,4.0,2024-04-02,Electrodomésticos
+1866,Secadora,,9.0,2024-04-02,Electrodomésticos
+1889,Batidora,,3.0,2024-04-02,Electrodomésticos
+1983,Microondas,,4.0,2024-04-02,Electrodomésticos
+226,Cortinas,,3.0,2024-04-03,Decoración
+351,Lámpara de mesa,,4.0,2024-04-03,Decoración
+479,Lámpara de mesa,,9.0,2024-04-03,Decoración
+570,Adorno de pared,,7.0,2024-04-03,Decoración
+643,Espejo decorativo,,1.0,2024-04-03,Decoración
+679,Lámpara de mesa,,6.0,2024-04-03,Decoración
+1188,Cafetera,,11.0,2024-04-03,Electrodomésticos
+1480,Plancha de vapor,,11.0,2024-04-03,Electrodomésticos
+1611,Freidora eléctrica,,4.0,2024-04-03,Electrodomésticos
+1627,Horno eléctrico,,5.0,2024-04-03,Electrodomésticos
+2028,SmartWatch,,7.0,2024-04-03,Electrónica
+2281,Parlantes Bluetooth,,5.0,2024-04-03,Electrónica
+2532,Televisor,,9.0,2024-04-03,Electrónica
+172,Cuadro decorativo,,11.0,2024-04-04,Decoración
+237,Elementos de cerámica,,9.0,2024-04-04,Decoración
+340,Adorno de pared,,2.0,2024-04-04,Decoración
+400,Adorno de pared,,1.0,2024-04-04,Decoración
+841,Lámpara de mesa,,10.0,2024-04-04,Decoración
+1287,Horno eléctrico,,11.0,2024-04-04,Electrodomésticos
+1366,Secadora,,11.0,2024-04-04,Electrodomésticos
+1878,Cafetera,,8.0,2024-04-04,Electrodomésticos
+2124,Tablet,,7.0,2024-04-04,Electrónica
+56,Cortinas,,5.0,2024-04-05,Decoración
+421,Lámpara de mesa,,9.0,2024-04-05,Decoración
+424,Jarrón decorativo,,2.0,2024-04-05,Decoración
+1868,Cafetera,,1.0,2024-04-05,Electrodomésticos
+2545,Auriculares,,11.0,2024-04-05,Electrónica
+2778,SmartWatch,,7.0,2024-04-05,Electrónica
+145,Alfombra,,8.0,2024-04-06,Decoración
+300,Adorno de pared,,9.0,2024-04-06,Decoración
+439,Lámpara de mesa,,2.0,2024-04-06,Decoración
+906,Cortinas,,3.0,2024-04-06,Decoración
+959,Lámpara de mesa,,7.0,2024-04-06,Decoración
+1376,Secadora,,7.0,2024-04-06,Electrodomésticos
+1776,Secadora,,3.0,2024-04-06,Electrodomésticos
+1784,Aspiradora,,3.0,2024-04-06,Electrodomésticos
+1974,Aspiradora,,7.0,2024-04-06,Electrodomésticos
+2080,Consola de videojuegos,,7.0,2024-04-06,Electrónica
+2108,SmartWatch,,10.0,2024-04-06,Electrónica
+2169,Proyector,,1.0,2024-04-06,Electrónica
+213,Espejo decorativo,,8.0,2024-04-07,Decoración
+345,Alfombra,,9.0,2024-04-07,Decoración
+398,Rincón de plantas,,7.0,2024-04-07,Decoración
+509,Lámpara de mesa,,1.0,2024-04-07,Decoración
+821,Lámpara de mesa,,10.0,2024-04-07,Decoración
+1642,Heladera,,2.0,2024-04-07,Electrodomésticos
+1956,Secadora,,12.0,2024-04-07,Electrodomésticos
+2085,Auriculares,,6.0,2024-04-07,Electrónica
+2096,Laptop,,6.0,2024-04-07,Electrónica
+2356,Laptop,,6.0,2024-04-07,Electrónica
+2373,Smartphone,,12.0,2024-04-07,Electrónica
+204,Jarrón decorativo,,1.0,2024-04-08,Decoración
+1381,Freidora eléctrica,,2.0,2024-04-08,Electrodomésticos
+2365,Auriculares,,11.0,2024-04-08,Electrónica
+2486,Laptop,,11.0,2024-04-08,Electrónica
+2506,Laptop,,1.0,2024-04-08,Electrónica
+2705,Auriculares,,2.0,2024-04-08,Electrónica
+1225,Lavadora,,2.0,2024-04-09,Electrodomésticos
+1344,Aspiradora,,3.0,2024-04-09,Electrodomésticos
+1361,Freidora eléctrica,,10.0,2024-04-09,Electrodomésticos
+1979,Batidora,,11.0,2024-04-09,Electrodomésticos
+2852,Televisor,,4.0,2024-04-09,Electrónica
+48,Rincón de plantas,,3.0,2024-04-10,Decoración
+141,Lámpara de mesa,,1.0,2024-04-10,Decoración
+426,Cortinas,,7.0,2024-04-10,Decoración
+556,Cortinas,,12.0,2024-04-10,Decoración
+600,Adorno de pared,,4.0,2024-04-10,Decoración
+797,Elementos de cerámica,,2.0,2024-04-10,Decoración
+1315,Lavadora,,12.0,2024-04-10,Electrodomésticos
+1356,Secadora,,4.0,2024-04-10,Electrodomésticos
+1435,Lavadora,,10.0,2024-04-10,Electrodomésticos
+1618,Cafetera,,11.0,2024-04-10,Electrodomésticos
+1630,Plancha de vapor,,9.0,2024-04-10,Electrodomésticos
+1871,Freidora eléctrica,,6.0,2024-04-10,Electrodomésticos
+1919,Batidora,,9.0,2024-04-10,Electrodomésticos
+2661,Parlantes Bluetooth,,3.0,2024-04-10,Electrónica
+2785,Auriculares,,3.0,2024-04-10,Electrónica
+328,Rincón de plantas,,1.0,2024-04-11,Decoración
+466,Cortinas,,7.0,2024-04-11,Decoración
+1109,Batidora,,12.0,2024-04-11,Electrodomésticos
+1578,Cafetera,,2.0,2024-04-11,Electrodomésticos
+2370,Consola de videojuegos,,7.0,2024-04-11,Electrónica
+2478,SmartWatch,,8.0,2024-04-11,Electrónica
+2544,Tablet,,8.0,2024-04-11,Electrónica
+2934,Tablet,,2.0,2024-04-11,Electrónica
+127,Elementos de cerámica,,8.0,2024-04-12,Decoración
+292,Cuadro decorativo,,8.0,2024-04-12,Decoración
+1394,Aspiradora,,5.0,2024-04-12,Electrodomésticos
+2492,Televisor,,5.0,2024-04-12,Electrónica
+2812,Televisor,,2.0,2024-04-12,Electrónica
+89,Lámpara de mesa,,1.0,2024-04-13,Decoración
+659,Lámpara de mesa,,3.0,2024-04-13,Decoración
+1012,Heladera,,1.0,2024-04-13,Electrodomésticos
+1048,Cafetera,,10.0,2024-04-13,Electrodomésticos
+1450,Plancha de vapor,,8.0,2024-04-13,Electrodomésticos
+1758,Cafetera,,5.0,2024-04-13,Electrodomésticos
+1856,Secadora,,11.0,2024-04-13,Electrodomésticos
+2490,Consola de videojuegos,,6.0,2024-04-13,Electrónica
+2547,Cámara digital,,6.0,2024-04-13,Electrónica
+2704,Tablet,,1.0,2024-04-13,Electrónica
+2996,Cámara digital,,1.0,2024-04-13,Electrónica
+285,Alfombra,,7.0,2024-04-14,Decoración
+896,Cortinas,,7.0,2024-04-14,Decoración
+1097,Horno eléctrico,,10.0,2024-04-14,Electrodomésticos
+1516,Secadora,,3.0,2024-04-14,Electrodomésticos
+1698,Cafetera,,1.0,2024-04-14,Electrodomésticos
+2029,Proyector,,8.0,2024-04-14,Electrónica
+2039,Proyector,,7.0,2024-04-14,Electrónica
+2097,Cámara digital,,8.0,2024-04-14,Electrónica
+2275,Auriculares,,1.0,2024-04-14,Electrónica
+2381,Parlantes Bluetooth,,5.0,2024-04-14,Electrónica
+107,Elementos de cerámica,,6.0,2024-04-15,Decoración
+185,Alfombra,,6.0,2024-04-15,Decoración
+374,Jarrón decorativo,,5.0,2024-04-15,Decoración
+601,Lámpara de mesa,,3.0,2024-04-15,Decoración
+616,Cortinas,,9.0,2024-04-15,Decoración
+886,Cortinas,,7.0,2024-04-15,Decoración
+1134,Aspiradora,,11.0,2024-04-15,Electrodomésticos
+1168,Cafetera,,2.0,2024-04-15,Electrodomésticos
+1454,Aspiradora,,4.0,2024-04-15,Electrodomésticos
+2266,Laptop,,5.0,2024-04-15,Electrónica
+2396,Laptop,,1.0,2024-04-15,Electrónica
+2673,Smartphone,,11.0,2024-04-15,Electrónica
+19,Lámpara de mesa,,6.0,2024-04-16,Decoración
+953,Espejo decorativo,,5.0,2024-04-16,Decoración
+1177,Horno eléctrico,,4.0,2024-04-16,Electrodomésticos
+1629,Batidora,,6.0,2024-04-16,Electrodomésticos
+1655,Lavadora,,1.0,2024-04-16,Electrodomésticos
+1803,Microondas,,11.0,2024-04-16,Electrodomésticos
+1864,Aspiradora,,3.0,2024-04-16,Electrodomésticos
+2019,Proyector,,7.0,2024-04-16,Electrónica
+2151,Parlantes Bluetooth,,7.0,2024-04-16,Electrónica
+2610,Consola de videojuegos,,9.0,2024-04-16,Electrónica
+2615,Auriculares,,11.0,2024-04-16,Electrónica
+2715,Auriculares,,7.0,2024-04-16,Electrónica
+1,Lámpara de mesa,,8.0,2024-04-17,Decoración
+138,Rincón de plantas,,2.0,2024-04-17,Decoración
+1009,Batidora,,8.0,2024-04-17,Electrodomésticos
+1118,Cafetera,,11.0,2024-04-17,Electrodomésticos
+1190,Plancha de vapor,,1.0,2024-04-17,Electrodomésticos
+1253,Microondas,,8.0,2024-04-17,Electrodomésticos
+1521,Freidora eléctrica,,10.0,2024-04-17,Electrodomésticos
+1532,Heladera,,2.0,2024-04-17,Electrodomésticos
+2368,SmartWatch,,5.0,2024-04-17,Electrónica
+925,Alfombra,,11.0,2024-04-18,Decoración
+1316,Secadora,,11.0,2024-04-18,Electrodomésticos
+1590,Plancha de vapor,,4.0,2024-04-18,Electrodomésticos
+1914,Aspiradora,,1.0,2024-04-18,Electrodomésticos
+2134,Tablet,,4.0,2024-04-18,Electrónica
+548,Rincón de plantas,,8.0,2024-04-19,Decoración
+905,Alfombra,,9.0,2024-04-19,Decoración
+1224,Aspiradora,,4.0,2024-04-19,Electrodomésticos
+1459,Batidora,,8.0,2024-04-19,Electrodomésticos
+1943,Microondas,,10.0,2024-04-19,Electrodomésticos
+2095,Auriculares,,3.0,2024-04-19,Electrónica
+2375,Auriculares,,10.0,2024-04-19,Electrónica
+198,Rincón de plantas,,11.0,2024-04-20,Decoración
+833,Espejo decorativo,,10.0,2024-04-20,Decoración
+1425,Lavadora,,8.0,2024-04-20,Electrodomésticos
+1680,Plancha de vapor,,9.0,2024-04-20,Electrodomésticos
+1701,Freidora eléctrica,,7.0,2024-04-20,Electrodomésticos
+2176,Laptop,,7.0,2024-04-20,Electrónica
+2413,Smartphone,,3.0,2024-04-20,Electrónica
+2844,Tablet,,7.0,2024-04-20,Electrónica
+249,Lámpara de mesa,,1.0,2024-04-21,Decoración
+452,Cuadro decorativo,,12.0,2024-04-21,Decoración
+563,Espejo decorativo,,10.0,2024-04-21,Decoración
+934,Jarrón decorativo,,11.0,2024-04-21,Decoración
+1193,Microondas,,4.0,2024-04-21,Electrodomésticos
+1230,Plancha de vapor,,2.0,2024-04-21,Electrodomésticos
+1307,Horno eléctrico,,11.0,2024-04-21,Electrodomésticos
+2212,Televisor,,11.0,2024-04-21,Electrónica
+2369,Proyector,,2.0,2024-04-21,Electrónica
+2523,Smartphone,,1.0,2024-04-21,Electrónica
+2611,Parlantes Bluetooth,,12.0,2024-04-21,Electrónica
+281,Lámpara de mesa,,8.0,2024-04-22,Decoración
+305,Alfombra,,2.0,2024-04-22,Decoración
+422,Cuadro decorativo,,9.0,2024-04-22,Decoración
+538,Rincón de plantas,,4.0,2024-04-22,Decoración
+741,Lámpara de mesa,,12.0,2024-04-22,Decoración
+1010,Plancha de vapor,,8.0,2024-04-22,Electrodomésticos
+1203,Microondas,,1.0,2024-04-22,Electrodomésticos
+1841,Freidora eléctrica,,2.0,2024-04-22,Electrodomésticos
+2887,Cámara digital,,1.0,2024-04-22,Electrónica
+209,Lámpara de mesa,,12.0,2024-04-23,Decoración
+299,Lámpara de mesa,,3.0,2024-04-23,Decoración
+1477,Horno eléctrico,,11.0,2024-04-23,Electrodomésticos
+1952,Heladera,,2.0,2024-04-23,Electrodomésticos
+2214,Tablet,,8.0,2024-04-23,Electrónica
+2993,Auriculares,,7.0,2024-04-23,Electrónica
+434,Jarrón decorativo,,2.0,2024-04-24,Decoración
+945,Alfombra,,12.0,2024-04-24,Decoración
+1057,Horno eléctrico,,3.0,2024-04-24,Electrodomésticos
+1320,Plancha de vapor,,4.0,2024-04-24,Electrodomésticos
+2227,Cámara digital,,8.0,2024-04-24,Electrónica
+2312,Televisor,,8.0,2024-04-24,Electrónica
+2565,Auriculares,,3.0,2024-04-24,Electrónica
+2962,Televisor,,5.0,2024-04-24,Electrónica
+159,Lámpara de mesa,,6.0,2024-04-25,Decoración
+320,Adorno de pared,,6.0,2024-04-25,Decoración
+341,Lámpara de mesa,,1.0,2024-04-25,Decoración
+673,Espejo decorativo,,7.0,2024-04-25,Decoración
+701,Lámpara de mesa,,3.0,2024-04-25,Decoración
+1041,Freidora eléctrica,,6.0,2024-04-25,Electrodomésticos
+1212,Heladera,,11.0,2024-04-25,Electrodomésticos
+1802,Heladera,,11.0,2024-04-25,Electrodomésticos
+1846,Secadora,,2.0,2024-04-25,Electrodomésticos
+2262,Televisor,,2.0,2024-04-25,Electrónica
+2713,Smartphone,,9.0,2024-04-25,Electrónica
+2827,Cámara digital,,2.0,2024-04-25,Electrónica
+765,Alfombra,,1.0,2024-04-26,Decoración
+1119,Batidora,,3.0,2024-04-26,Electrodomésticos
+2027,Cámara digital,,10.0,2024-04-26,Electrónica
+2088,SmartWatch,,9.0,2024-04-26,Electrónica
+2101,Parlantes Bluetooth,,2.0,2024-04-26,Electrónica
+2147,Cámara digital,,6.0,2024-04-26,Electrónica
+2363,Smartphone,,12.0,2024-04-26,Electrónica
+2504,Auriculares,,10.0,2024-04-26,Electrónica
+2580,Consola de videojuegos,,7.0,2024-04-26,Electrónica
+2646,Laptop,,8.0,2024-04-26,Electrónica
+51,Lámpara de mesa,,5.0,2024-04-27,Decoración
+359,Lámpara de mesa,,7.0,2024-04-27,Decoración
+375,Alfombra,,8.0,2024-04-27,Decoración
+537,Elementos de cerámica,,5.0,2024-04-27,Decoración
+844,Jarrón decorativo,,7.0,2024-04-27,Decoración
+1804,Aspiradora,,7.0,2024-04-27,Electrodomésticos
+2201,Parlantes Bluetooth,,7.0,2024-04-27,Electrónica
+2287,Cámara digital,,11.0,2024-04-27,Electrónica
+2465,Auriculares,,3.0,2024-04-27,Electrónica
+2528,SmartWatch,,1.0,2024-04-27,Electrónica
+2559,Proyector,,8.0,2024-04-27,Electrónica
+2633,Smartphone,,12.0,2024-04-27,Electrónica
+2645,Auriculares,,10.0,2024-04-27,Electrónica
+109,Lámpara de mesa,,9.0,2024-04-28,Decoración
+518,Rincón de plantas,,7.0,2024-04-28,Decoración
+1277,Horno eléctrico,,4.0,2024-04-28,Electrodomésticos
+1329,Batidora,,7.0,2024-04-28,Electrodomésticos
+1830,Plancha de vapor,,11.0,2024-04-28,Electrodomésticos
+1964,Aspiradora,,10.0,2024-04-28,Electrodomésticos
+2877,Cámara digital,,1.0,2024-04-28,Electrónica
+202,Cuadro decorativo,,4.0,2024-04-29,Decoración
+294,Jarrón decorativo,,3.0,2024-04-29,Decoración
+493,Espejo decorativo,,10.0,2024-04-29,Decoración
+799,Lámpara de mesa,,5.0,2024-04-29,Decoración
+1096,Secadora,,10.0,2024-04-29,Electrodomésticos
+1281,Freidora eléctrica,,12.0,2024-04-29,Electrodomésticos
+1715,Lavadora,,11.0,2024-04-29,Electrodomésticos
+2089,Proyector,,12.0,2024-04-29,Electrónica
+2367,Cámara digital,,8.0,2024-04-29,Electrónica
+124,Jarrón decorativo,,7.0,2024-04-30,Decoración
+177,Elementos de cerámica,,4.0,2024-04-30,Decoración
+255,Alfombra,,7.0,2024-04-30,Decoración
+709,Lámpara de mesa,,2.0,2024-04-30,Decoración
+975,Alfombra,,5.0,2024-04-30,Decoración
+988,Rincón de plantas,,1.0,2024-04-30,Decoración
+1036,Secadora,,7.0,2024-04-30,Electrodomésticos
+1205,Lavadora,,6.0,2024-04-30,Electrodomésticos
+1401,Freidora eléctrica,,7.0,2024-04-30,Electrodomésticos
+1762,Heladera,,10.0,2024-04-30,Electrodomésticos
+2629,Proyector,,1.0,2024-04-30,Electrónica
+306,Cortinas,,5.0,2024-05-01,Decoración
+475,Alfombra,,3.0,2024-05-01,Decoración
+901,Lámpara de mesa,,2.0,2024-05-01,Decoración
+972,Cuadro decorativo,,10.0,2024-05-01,Decoración
+1245,Lavadora,,12.0,2024-05-01,Electrodomésticos
+1726,Secadora,,7.0,2024-05-01,Electrodomésticos
+1973,Microondas,,11.0,2024-05-01,Electrodomésticos
+2182,Televisor,,11.0,2024-05-01,Electrónica
+2926,Laptop,,6.0,2024-05-01,Electrónica
+100,Adorno de pared,,8.0,2024-05-02,Decoración
+536,Cortinas,,1.0,2024-05-02,Decoración
+1028,Cafetera,,5.0,2024-05-02,Electrodomésticos
+1045,Lavadora,,4.0,2024-05-02,Electrodomésticos
+1152,Heladera,,5.0,2024-05-02,Electrodomésticos
+1217,Horno eléctrico,,8.0,2024-05-02,Electrodomésticos
+1310,Plancha de vapor,,9.0,2024-05-02,Electrodomésticos
+1842,Heladera,,1.0,2024-05-02,Electrodomésticos
+1969,Batidora,,1.0,2024-05-02,Electrodomésticos
+2191,Parlantes Bluetooth,,11.0,2024-05-02,Electrónica
+2510,Consola de videojuegos,,12.0,2024-05-02,Electrónica
+2621,Parlantes Bluetooth,,9.0,2024-05-02,Electrónica
+2775,Auriculares,,11.0,2024-05-02,Electrónica
+2988,SmartWatch,,4.0,2024-05-02,Electrónica
+220,Adorno de pared,,9.0,2024-05-03,Decoración
+819,Lámpara de mesa,,6.0,2024-05-03,Decoración
+1004,Aspiradora,,8.0,2024-05-03,Electrodomésticos
+1439,Batidora,,9.0,2024-05-03,Electrodomésticos
+1819,Batidora,,9.0,2024-05-03,Electrodomésticos
+2404,Auriculares,,4.0,2024-05-03,Electrónica
+2435,Auriculares,,3.0,2024-05-03,Electrónica
+2463,Smartphone,,2.0,2024-05-03,Electrónica
+2985,Auriculares,,3.0,2024-05-03,Electrónica
+16,Cortinas,,5.0,2024-05-04,Decoración
+342,Cuadro decorativo,,5.0,2024-05-04,Decoración
+806,Cortinas,,9.0,2024-05-04,Decoración
+903,Espejo decorativo,,2.0,2024-05-04,Decoración
+1056,Secadora,,10.0,2024-05-04,Electrodomésticos
+1666,Secadora,,4.0,2024-05-04,Electrodomésticos
+1672,Heladera,,12.0,2024-05-04,Electrodomésticos
+1932,Heladera,,9.0,2024-05-04,Electrodomésticos
+311,Lámpara de mesa,,2.0,2024-05-05,Decoración
+353,Espejo decorativo,,11.0,2024-05-05,Decoración
+650,Adorno de pared,,4.0,2024-05-05,Decoración
+656,Cortinas,,2.0,2024-05-05,Decoración
+1387,Horno eléctrico,,3.0,2024-05-05,Electrodomésticos
+1484,Aspiradora,,6.0,2024-05-05,Electrodomésticos
+1845,Lavadora,,5.0,2024-05-05,Electrodomésticos
+2403,Smartphone,,3.0,2024-05-05,Electrónica
+2445,Auriculares,,6.0,2024-05-05,Electrónica
+2898,SmartWatch,,10.0,2024-05-05,Electrónica
+98,Rincón de plantas,,6.0,2024-05-06,Decoración
+550,Adorno de pared,,8.0,2024-05-06,Decoración
+751,Lámpara de mesa,,11.0,2024-05-06,Decoración
+915,Alfombra,,11.0,2024-05-06,Decoración
+1304,Aspiradora,,8.0,2024-05-06,Electrodomésticos
+2211,Parlantes Bluetooth,,3.0,2024-05-06,Electrónica
+2264,Auriculares,,6.0,2024-05-06,Electrónica
+2708,SmartWatch,,10.0,2024-05-06,Electrónica
+2780,Consola de videojuegos,,6.0,2024-05-06,Electrónica
+2801,Parlantes Bluetooth,,1.0,2024-05-06,Electrónica
+998,Rincón de plantas,,1.0,2024-05-07,Decoración
+1748,Cafetera,,3.0,2024-05-07,Electrodomésticos
+1896,Secadora,,4.0,2024-05-07,Electrodomésticos
+1967,Horno eléctrico,,5.0,2024-05-07,Electrodomésticos
+2415,Auriculares,,5.0,2024-05-07,Electrónica
+22,Cuadro decorativo,,6.0,2024-05-08,Decoración
+491,Lámpara de mesa,,11.0,2024-05-08,Decoración
+873,Espejo decorativo,,6.0,2024-05-08,Decoración
+937,Elementos de cerámica,,2.0,2024-05-08,Decoración
+997,Elementos de cerámica,,10.0,2024-05-08,Decoración
+1000,Adorno de pared,,11.0,2024-05-08,Decoración
+1146,Secadora,,7.0,2024-05-08,Electrodomésticos
+1175,Lavadora,,2.0,2024-05-08,Electrodomésticos
+1747,Horno eléctrico,,2.0,2024-05-08,Electrodomésticos
+1970,Plancha de vapor,,5.0,2024-05-08,Electrodomésticos
+1972,Heladera,,3.0,2024-05-08,Electrodomésticos
+2163,Smartphone,,12.0,2024-05-08,Electrónica
+14,Jarrón decorativo,,5.0,2024-05-09,Decoración
+94,Jarrón decorativo,,1.0,2024-05-09,Decoración
+619,Lámpara de mesa,,11.0,2024-05-09,Decoración
+1108,Cafetera,,9.0,2024-05-09,Electrodomésticos
+1938,Cafetera,,11.0,2024-05-09,Electrodomésticos
+2473,Smartphone,,12.0,2024-05-09,Electrónica
+2840,Consola de videojuegos,,3.0,2024-05-09,Electrónica
+2974,Auriculares,,2.0,2024-05-09,Electrónica
+1151,Freidora eléctrica,,11.0,2024-05-10,Electrodomésticos
+1658,Cafetera,,12.0,2024-05-10,Electrodomésticos
+2131,Parlantes Bluetooth,,7.0,2024-05-10,Electrónica
+2333,Smartphone,,5.0,2024-05-10,Electrónica
+2649,Proyector,,5.0,2024-05-10,Electrónica
+2679,Proyector,,1.0,2024-05-10,Electrónica
+2941,Parlantes Bluetooth,,4.0,2024-05-10,Electrónica
+219,Lámpara de mesa,,10.0,2024-05-11,Decoración
+460,Adorno de pared,,6.0,2024-05-11,Decoración
+1116,Secadora,,8.0,2024-05-11,Electrodomésticos
+1407,Horno eléctrico,,11.0,2024-05-11,Electrodomésticos
+1468,Cafetera,,2.0,2024-05-11,Electrodomésticos
+2364,Auriculares,,10.0,2024-05-11,Electrónica
+2672,Televisor,,1.0,2024-05-11,Electrónica
+2772,Televisor,,3.0,2024-05-11,Electrónica
+495,Alfombra,,12.0,2024-05-12,Decoración
+973,Espejo decorativo,,5.0,2024-05-12,Decoración
+1269,Batidora,,5.0,2024-05-12,Electrodomésticos
+1765,Lavadora,,8.0,2024-05-12,Electrodomésticos
+1789,Batidora,,12.0,2024-05-12,Electrodomésticos
+2860,Consola de videojuegos,,6.0,2024-05-12,Electrónica
+2888,SmartWatch,,3.0,2024-05-12,Electrónica
+147,Elementos de cerámica,,2.0,2024-05-13,Decoración
+1087,Horno eléctrico,,7.0,2024-05-13,Electrodomésticos
+1103,Microondas,,2.0,2024-05-13,Electrodomésticos
+1682,Heladera,,1.0,2024-05-13,Electrodomésticos
+1966,Secadora,,9.0,2024-05-13,Electrodomésticos
+2022,Televisor,,3.0,2024-05-13,Electrónica
+2177,Cámara digital,,7.0,2024-05-13,Electrónica
+2776,Laptop,,1.0,2024-05-13,Electrónica
+2797,Cámara digital,,11.0,2024-05-13,Electrónica
+2875,Auriculares,,10.0,2024-05-13,Electrónica
+214,Jarrón decorativo,,6.0,2024-05-14,Decoración
+286,Cortinas,,4.0,2024-05-14,Decoración
+609,Lámpara de mesa,,9.0,2024-05-14,Decoración
+1122,Heladera,,5.0,2024-05-14,Electrodomésticos
+1787,Horno eléctrico,,5.0,2024-05-14,Electrodomésticos
+1955,Lavadora,,6.0,2024-05-14,Electrodomésticos
+2213,Smartphone,,9.0,2024-05-14,Electrónica
+2635,Auriculares,,11.0,2024-05-14,Electrónica
+2956,Laptop,,5.0,2024-05-14,Electrónica
+678,Rincón de plantas,,6.0,2024-05-15,Decoración
+1257,Horno eléctrico,,8.0,2024-05-15,Electrodomésticos
+1540,Plancha de vapor,,3.0,2024-05-15,Electrodomésticos
+1739,Batidora,,10.0,2024-05-15,Electrodomésticos
+1777,Horno eléctrico,,8.0,2024-05-15,Electrodomésticos
+1778,Cafetera,,12.0,2024-05-15,Electrodomésticos
+2726,Laptop,,12.0,2024-05-15,Electrónica
+2733,Smartphone,,5.0,2024-05-15,Electrónica
+2972,Televisor,,2.0,2024-05-15,Electrónica
+660,Adorno de pared,,9.0,2024-05-16,Decoración
+736,Cortinas,,5.0,2024-05-16,Decoración
+1606,Secadora,,5.0,2024-05-16,Electrodomésticos
+1756,Secadora,,11.0,2024-05-16,Electrodomésticos
+1823,Microondas,,6.0,2024-05-16,Electrodomésticos
+2509,Proyector,,2.0,2024-05-16,Electrónica
+2931,Parlantes Bluetooth,,2.0,2024-05-16,Electrónica
+244,Jarrón decorativo,,8.0,2024-05-17,Decoración
+448,Rincón de plantas,,9.0,2024-05-17,Decoración
+667,Elementos de cerámica,,9.0,2024-05-17,Decoración
+1006,Secadora,,5.0,2024-05-17,Electrodomésticos
+1181,Freidora eléctrica,,4.0,2024-05-17,Electrodomésticos
+1300,Plancha de vapor,,7.0,2024-05-17,Electrodomésticos
+1773,Microondas,,1.0,2024-05-17,Electrodomésticos
+2061,Parlantes Bluetooth,,8.0,2024-05-17,Electrónica
+2609,Proyector,,2.0,2024-05-17,Electrónica
+2767,Cámara digital,,11.0,2024-05-17,Electrónica
+2823,Smartphone,,11.0,2024-05-17,Electrónica
+2971,Parlantes Bluetooth,,7.0,2024-05-17,Electrónica
+2999,Consola de videojuegos,,4.0,2024-05-17,Electrónica
+477,Elementos de cerámica,,1.0,2024-05-18,Decoración
+920,Adorno de pared,,8.0,2024-05-18,Decoración
+1066,Secadora,,9.0,2024-05-18,Electrodomésticos
+1176,Secadora,,11.0,2024-05-18,Electrodomésticos
+1708,Cafetera,,11.0,2024-05-18,Electrodomésticos
+2288,SmartWatch,,11.0,2024-05-18,Electrónica
+2289,Proyector,,4.0,2024-05-18,Electrónica
+2409,Proyector,,10.0,2024-05-18,Electrónica
+2612,Televisor,,11.0,2024-05-18,Electrónica
+2904,Tablet,,3.0,2024-05-18,Electrónica
+405,Alfombra,,10.0,2024-05-19,Decoración
+575,Alfombra,,11.0,2024-05-19,Decoración
+721,Lámpara de mesa,,5.0,2024-05-19,Decoración
+908,Rincón de plantas,,1.0,2024-05-19,Decoración
+1377,Horno eléctrico,,8.0,2024-05-19,Electrodomésticos
+1667,Horno eléctrico,,8.0,2024-05-19,Electrodomésticos
+1905,Lavadora,,5.0,2024-05-19,Electrodomésticos
+2582,Televisor,,6.0,2024-05-19,Electrónica
+2978,SmartWatch,,9.0,2024-05-19,Electrónica
+453,Espejo decorativo,,9.0,2024-05-20,Decoración
+762,Cuadro decorativo,,9.0,2024-05-20,Decoración
+918,Rincón de plantas,,9.0,2024-05-20,Decoración
+976,Cortinas,,11.0,2024-05-20,Decoración
+1104,Aspiradora,,5.0,2024-05-20,Electrodomésticos
+1351,Freidora eléctrica,,2.0,2024-05-20,Electrodomésticos
+1694,Aspiradora,,9.0,2024-05-20,Electrodomésticos
+2482,Televisor,,1.0,2024-05-20,Electrónica
+44,Jarrón decorativo,,11.0,2024-05-21,Decoración
+54,Jarrón decorativo,,4.0,2024-05-21,Decoración
+106,Cortinas,,7.0,2024-05-21,Decoración
+319,Lámpara de mesa,,9.0,2024-05-21,Decoración
+414,Jarrón decorativo,,2.0,2024-05-21,Decoración
+981,Lámpara de mesa,,9.0,2024-05-21,Decoración
+1024,Aspiradora,,11.0,2024-05-21,Electrodomésticos
+1479,Batidora,,1.0,2024-05-21,Electrodomésticos
+1883,Microondas,,10.0,2024-05-21,Electrodomésticos
+2150,Consola de videojuegos,,5.0,2024-05-21,Electrónica
+2432,Televisor,,9.0,2024-05-21,Electrónica
+2676,Laptop,,9.0,2024-05-21,Electrónica
+312,Cuadro decorativo,,1.0,2024-05-22,Decoración
+425,Alfombra,,10.0,2024-05-22,Decoración
+483,Espejo decorativo,,11.0,2024-05-22,Decoración
+527,Elementos de cerámica,,3.0,2024-05-22,Decoración
+802,Cuadro decorativo,,5.0,2024-05-22,Decoración
+812,Cuadro decorativo,,10.0,2024-05-22,Decoración
+1198,Cafetera,,9.0,2024-05-22,Electrodomésticos
+1603,Microondas,,6.0,2024-05-22,Electrodomésticos
+1631,Freidora eléctrica,,5.0,2024-05-22,Electrodomésticos
+2802,Televisor,,9.0,2024-05-22,Electrónica
+2868,SmartWatch,,6.0,2024-05-22,Electrónica
+2895,Auriculares,,4.0,2024-05-22,Electrónica
+123,Espejo decorativo,,11.0,2024-05-23,Decoración
+672,Cuadro decorativo,,6.0,2024-05-23,Decoración
+859,Lámpara de mesa,,4.0,2024-05-23,Decoración
+1238,Cafetera,,12.0,2024-05-23,Electrodomésticos
+1417,Horno eléctrico,,10.0,2024-05-23,Electrodomésticos
+2189,Proyector,,3.0,2024-05-23,Electrónica
+2678,SmartWatch,,10.0,2024-05-23,Electrónica
+465,Alfombra,,2.0,2024-05-24,Decoración
+2907,Cámara digital,,9.0,2024-05-24,Electrónica
+476,Cortinas,,11.0,2024-05-25,Decoración
+583,Espejo decorativo,,9.0,2024-05-25,Decoración
+738,Rincón de plantas,,11.0,2024-05-25,Decoración
+1241,Freidora eléctrica,,6.0,2024-05-25,Electrodomésticos
+1526,Secadora,,7.0,2024-05-25,Electrodomésticos
+2004,Tablet,,11.0,2024-05-25,Electrónica
+2092,Televisor,,6.0,2024-05-25,Electrónica
+2116,Laptop,,8.0,2024-05-25,Electrónica
+2146,Laptop,,5.0,2024-05-25,Electrónica
+2652,Televisor,,4.0,2024-05-25,Electrónica
+29,Lámpara de mesa,,12.0,2024-05-26,Decoración
+568,Rincón de plantas,,1.0,2024-05-26,Decoración
+782,Cuadro decorativo,,6.0,2024-05-26,Decoración
+1025,Lavadora,,9.0,2024-05-26,Electrodomésticos
+1616,Secadora,,8.0,2024-05-26,Electrodomésticos
+1721,Freidora eléctrica,,5.0,2024-05-26,Electrodomésticos
+2041,Parlantes Bluetooth,,2.0,2024-05-26,Electrónica
+2073,Smartphone,,3.0,2024-05-26,Electrónica
+137,Elementos de cerámica,,11.0,2024-05-27,Decoración
+1050,Plancha de vapor,,1.0,2024-05-27,Electrodomésticos
+1226,Secadora,,10.0,2024-05-27,Electrodomésticos
+1380,Plancha de vapor,,2.0,2024-05-27,Electrodomésticos
+1446,Secadora,,10.0,2024-05-27,Electrodomésticos
+1543,Microondas,,9.0,2024-05-27,Electrodomésticos
+1608,Cafetera,,4.0,2024-05-27,Electrodomésticos
+1702,Heladera,,2.0,2024-05-27,Electrodomésticos
+1940,Plancha de vapor,,1.0,2024-05-27,Electrodomésticos
+2011,Parlantes Bluetooth,,7.0,2024-05-27,Electrónica
+2876,Laptop,,3.0,2024-05-27,Electrónica
+224,Jarrón decorativo,,1.0,2024-05-28,Decoración
+510,Adorno de pared,,5.0,2024-05-28,Decoración
+897,Elementos de cerámica,,7.0,2024-05-28,Decoración
+1080,Plancha de vapor,,6.0,2024-05-28,Electrodomésticos
+1368,Cafetera,,7.0,2024-05-28,Electrodomésticos
+1613,Microondas,,5.0,2024-05-28,Electrodomésticos
+1732,Heladera,,11.0,2024-05-28,Electrodomésticos
+2067,Cámara digital,,7.0,2024-05-28,Electrónica
+13,Espejo decorativo,,1.0,2024-05-29,Decoración
+110,Adorno de pared,,1.0,2024-05-29,Decoración
+784,Jarrón decorativo,,6.0,2024-05-29,Decoración
+902,Cuadro decorativo,,9.0,2024-05-29,Decoración
+1275,Lavadora,,11.0,2024-05-29,Electrodomésticos
+1478,Cafetera,,2.0,2024-05-29,Electrodomésticos
+1719,Batidora,,10.0,2024-05-29,Electrodomésticos
+2125,Auriculares,,2.0,2024-05-29,Electrónica
+2251,Parlantes Bluetooth,,8.0,2024-05-29,Electrónica
+2847,Cámara digital,,4.0,2024-05-29,Electrónica
+82,Cuadro decorativo,,5.0,2024-05-30,Decoración
+111,Lámpara de mesa,,12.0,2024-05-30,Decoración
+432,Cuadro decorativo,,12.0,2024-05-30,Decoración
+1632,Heladera,,8.0,2024-05-30,Electrodomésticos
+166,Cortinas,,8.0,2024-05-31,Decoración
+482,Cuadro decorativo,,7.0,2024-05-31,Decoración
+995,Alfombra,,10.0,2024-05-31,Decoración
+1343,Microondas,,12.0,2024-05-31,Electrodomésticos
+1418,Cafetera,,12.0,2024-05-31,Electrodomésticos
+2659,Proyector,,3.0,2024-05-31,Electrónica
+2745,Auriculares,,7.0,2024-05-31,Electrónica
+2842,Televisor,,5.0,2024-05-31,Electrónica
+2995,Laptop,,6.0,2024-05-31,Electrónica
+376,Cortinas,,2.0,2024-06-01,Decoración
+530,Adorno de pared,,5.0,2024-06-01,Decoración
+1040,Plancha de vapor,,2.0,2024-06-01,Electrodomésticos
+1929,Batidora,,10.0,2024-06-01,Electrodomésticos
+2481,Parlantes Bluetooth,,8.0,2024-06-01,Electrónica
+2929,Proyector,,7.0,2024-06-01,Electrónica
+160,Adorno de pared,,12.0,2024-06-02,Decoración
+253,Espejo decorativo,,5.0,2024-06-02,Decoración
+334,Jarrón decorativo,,12.0,2024-06-02,Decoración
+378,Rincón de plantas,,10.0,2024-06-02,Decoración
+459,Lámpara de mesa,,4.0,2024-06-02,Decoración
+524,Jarrón decorativo,,4.0,2024-06-02,Decoración
+1003,Microondas,,9.0,2024-06-02,Electrodomésticos
+1051,Freidora eléctrica,,8.0,2024-06-02,Electrodomésticos
+1076,Secadora,,4.0,2024-06-02,Electrodomésticos
+1476,Secadora,,6.0,2024-06-02,Electrodomésticos
+1552,Heladera,,5.0,2024-06-02,Electrodomésticos
+1602,Heladera,,9.0,2024-06-02,Electrodomésticos
+1664,Aspiradora,,12.0,2024-06-02,Electrodomésticos
+1822,Heladera,,12.0,2024-06-02,Electrodomésticos
+2046,Laptop,,6.0,2024-06-02,Electrónica
+2126,Laptop,,4.0,2024-06-02,Electrónica
+1082,Heladera,,12.0,2024-06-03,Electrodomésticos
+1327,Horno eléctrico,,2.0,2024-06-03,Electrodomésticos
+1370,Plancha de vapor,,10.0,2024-06-03,Electrodomésticos
+1923,Microondas,,4.0,2024-06-03,Electrodomésticos
+2055,Auriculares,,9.0,2024-06-03,Electrónica
+2207,Cámara digital,,4.0,2024-06-03,Electrónica
+992,Cuadro decorativo,,3.0,2024-06-04,Decoración
+1063,Microondas,,12.0,2024-06-04,Electrodomésticos
+1518,Cafetera,,2.0,2024-06-04,Electrodomésticos
+1563,Microondas,,2.0,2024-06-04,Electrodomésticos
+2017,Cámara digital,,8.0,2024-06-04,Electrónica
+2468,SmartWatch,,11.0,2024-06-04,Electrónica
+2807,Cámara digital,,6.0,2024-06-04,Electrónica
+433,Espejo decorativo,,10.0,2024-06-05,Decoración
+1199,Batidora,,10.0,2024-06-05,Electrodomésticos
+1227,Horno eléctrico,,2.0,2024-06-05,Electrodomésticos
+1334,Aspiradora,,7.0,2024-06-05,Electrodomésticos
+1347,Horno eléctrico,,7.0,2024-06-05,Electrodomésticos
+1382,Microondas,,9.0,2024-06-05,Electrodomésticos
+740,Adorno de pared,,9.0,2024-06-06,Decoración
+766,Cortinas,,8.0,2024-06-06,Decoración
+890,Adorno de pared,,6.0,2024-06-06,Decoración
+1030,Plancha de vapor,,1.0,2024-06-06,Electrodomésticos
+1127,Horno eléctrico,,6.0,2024-06-06,Electrodomésticos
+1297,Horno eléctrico,,12.0,2024-06-06,Electrodomésticos
+1888,Cafetera,,4.0,2024-06-06,Electrodomésticos
+2040,Consola de videojuegos,,11.0,2024-06-06,Electrónica
+2674,Tablet,,3.0,2024-06-06,Electrónica
+66,Cortinas,,2.0,2024-06-07,Decoración
+257,Elementos de cerámica,,7.0,2024-06-07,Decoración
+296,Cortinas,,2.0,2024-06-07,Decoración
+333,Espejo decorativo,,5.0,2024-06-07,Decoración
+2624,Tablet,,2.0,2024-06-07,Electrónica
+2750,Consola de videojuegos,,9.0,2024-06-07,Electrónica
+2854,Tablet,,7.0,2024-06-07,Electrónica
+648,Rincón de plantas,,6.0,2024-06-08,Decoración
+686,Cortinas,,12.0,2024-06-08,Decoración
+910,Adorno de pared,,3.0,2024-06-08,Decoración
+1075,Lavadora,,5.0,2024-06-08,Electrodomésticos
+1474,Aspiradora,,11.0,2024-06-08,Electrodomésticos
+1729,Batidora,,9.0,2024-06-08,Electrodomésticos
+1735,Lavadora,,7.0,2024-06-08,Electrodomésticos
+1870,Plancha de vapor,,11.0,2024-06-08,Electrodomésticos
+2138,SmartWatch,,4.0,2024-06-08,Electrónica
+2308,SmartWatch,,9.0,2024-06-08,Electrónica
+2321,Parlantes Bluetooth,,5.0,2024-06-08,Electrónica
+2957,Cámara digital,,6.0,2024-06-08,Electrónica
+28,Rincón de plantas,,10.0,2024-06-09,Decoración
+1179,Batidora,,3.0,2024-06-09,Electrodomésticos
+1276,Secadora,,12.0,2024-06-09,Electrodomésticos
+2105,Auriculares,,12.0,2024-06-09,Electrónica
+1120,Plancha de vapor,,7.0,2024-06-10,Electrodomésticos
+2292,Televisor,,12.0,2024-06-10,Electrónica
+2418,SmartWatch,,3.0,2024-06-10,Electrónica
+2601,Parlantes Bluetooth,,7.0,2024-06-10,Electrónica
+637,Elementos de cerámica,,4.0,2024-06-11,Decoración
+810,Adorno de pared,,7.0,2024-06-11,Decoración
+1437,Horno eléctrico,,8.0,2024-06-11,Electrodomésticos
+1720,Plancha de vapor,,12.0,2024-06-11,Electrodomésticos
+2065,Auriculares,,10.0,2024-06-11,Electrónica
+2235,Auriculares,,12.0,2024-06-11,Electrónica
+2458,SmartWatch,,9.0,2024-06-11,Electrónica
+2552,Televisor,,7.0,2024-06-11,Electrónica
+2819,Proyector,,8.0,2024-06-11,Electrónica
+2859,Proyector,,3.0,2024-06-11,Electrónica
+2955,Auriculares,,7.0,2024-06-11,Electrónica
+297,Elementos de cerámica,,10.0,2024-06-12,Decoración
+771,Lámpara de mesa,,2.0,2024-06-12,Decoración
+1154,Aspiradora,,4.0,2024-06-12,Electrodomésticos
+1662,Microondas,,1.0,2024-06-12,Electrodomésticos
+2084,Tablet,,9.0,2024-06-12,Electrónica
+2164,Tablet,,8.0,2024-06-12,Electrónica
+2256,Laptop,,4.0,2024-06-12,Electrónica
+2746,Laptop,,7.0,2024-06-12,Electrónica
+191,Lámpara de mesa,,1.0,2024-06-13,Decoración
+350,Adorno de pared,,12.0,2024-06-13,Decoración
+824,Jarrón decorativo,,8.0,2024-06-13,Decoración
+982,Cuadro decorativo,,10.0,2024-06-13,Decoración
+1246,Secadora,,6.0,2024-06-13,Electrodomésticos
+2344,Tablet,,5.0,2024-06-13,Electrónica
+2740,Consola de videojuegos,,5.0,2024-06-13,Electrónica
+2754,Tablet,,3.0,2024-06-13,Electrónica
+90,Adorno de pared,,2.0,2024-06-14,Decoración
+764,Jarrón decorativo,,10.0,2024-06-14,Decoración
+1992,Microondas,,12.0,2024-06-14,Electrodomésticos
+2123,Smartphone,,6.0,2024-06-14,Electrónica
+2377,Cámara digital,,9.0,2024-06-14,Electrónica
+2568,SmartWatch,,5.0,2024-06-14,Electrónica
+2728,SmartWatch,,2.0,2024-06-14,Electrónica
+2811,Parlantes Bluetooth,,7.0,2024-06-14,Electrónica
+208,Rincón de plantas,,10.0,2024-06-15,Decoración
+1091,Freidora eléctrica,,7.0,2024-06-15,Electrodomésticos
+1535,Lavadora,,10.0,2024-06-15,Electrodomésticos
+2014,Tablet,,8.0,2024-06-15,Electrónica
+2026,Laptop,,6.0,2024-06-15,Electrónica
+143,Espejo decorativo,,9.0,2024-06-16,Decoración
+187,Elementos de cerámica,,8.0,2024-06-16,Decoración
+712,Cuadro decorativo,,2.0,2024-06-16,Decoración
+1990,Plancha de vapor,,3.0,2024-06-16,Electrodomésticos
+2349,Proyector,,8.0,2024-06-16,Electrónica
+2896,Laptop,,4.0,2024-06-16,Electrónica
+485,Alfombra,,2.0,2024-06-17,Decoración
+534,Jarrón decorativo,,5.0,2024-06-17,Decoración
+767,Elementos de cerámica,,11.0,2024-06-17,Decoración
+1560,Plancha de vapor,,9.0,2024-06-17,Electrodomésticos
+261,Lámpara de mesa,,7.0,2024-06-18,Decoración
+344,Jarrón decorativo,,1.0,2024-06-18,Decoración
+358,Rincón de plantas,,7.0,2024-06-18,Decoración
+625,Alfombra,,3.0,2024-06-18,Decoración
+1288,Cafetera,,2.0,2024-06-18,Electrodomésticos
+2765,Auriculares,,8.0,2024-06-18,Electrónica
+777,Elementos de cerámica,,1.0,2024-06-19,Decoración
+1069,Batidora,,1.0,2024-06-19,Electrodomésticos
+1244,Aspiradora,,4.0,2024-06-19,Electrodomésticos
+1428,Cafetera,,11.0,2024-06-19,Electrodomésticos
+1722,Microondas,,3.0,2024-06-19,Electrodomésticos
+2120,Consola de videojuegos,,6.0,2024-06-19,Electrónica
+2455,Auriculares,,3.0,2024-06-19,Electrónica
+388,Rincón de plantas,,12.0,2024-06-20,Decoración
+1018,Cafetera,,1.0,2024-06-20,Electrodomésticos
+1628,Cafetera,,2.0,2024-06-20,Electrodomésticos
+2127,Cámara digital,,12.0,2024-06-20,Electrónica
+2516,Laptop,,7.0,2024-06-20,Electrónica
+410,Adorno de pared,,3.0,2024-06-21,Decoración
+1350,Plancha de vapor,,5.0,2024-06-21,Electrodomésticos
+1547,Horno eléctrico,,2.0,2024-06-21,Electrodomésticos
+1843,Microondas,,11.0,2024-06-21,Electrodomésticos
+2290,Consola de videojuegos,,7.0,2024-06-21,Electrónica
+267,Elementos de cerámica,,11.0,2024-06-22,Decoración
+330,Adorno de pared,,6.0,2024-06-22,Decoración
+966,Cortinas,,10.0,2024-06-22,Decoración
+1196,Secadora,,3.0,2024-06-22,Electrodomésticos
+2324,Tablet,,9.0,2024-06-22,Electrónica
+416,Cortinas,,3.0,2024-06-23,Decoración
+756,Cortinas,,4.0,2024-06-23,Decoración
+834,Jarrón decorativo,,4.0,2024-06-23,Decoración
+1084,Aspiradora,,7.0,2024-06-23,Electrodomésticos
+1442,Microondas,,5.0,2024-06-23,Electrodomésticos
+2192,Televisor,,12.0,2024-06-23,Electrónica
+2461,Parlantes Bluetooth,,11.0,2024-06-23,Electrónica
+383,Espejo decorativo,,7.0,2024-06-24,Decoración
+578,Rincón de plantas,,9.0,2024-06-24,Decoración
+603,Espejo decorativo,,11.0,2024-06-24,Decoración
+1172,Microondas,,12.0,2024-06-24,Electrodomésticos
+1291,Freidora eléctrica,,1.0,2024-06-24,Electrodomésticos
+1833,Microondas,,2.0,2024-06-24,Electrodomésticos
+1858,Cafetera,,4.0,2024-06-24,Electrodomésticos
+2091,Parlantes Bluetooth,,10.0,2024-06-24,Electrónica
+2158,SmartWatch,,1.0,2024-06-24,Electrónica
+287,Elementos de cerámica,,2.0,2024-06-25,Decoración
+1192,Microondas,,12.0,2024-06-25,Electrodomésticos
+1541,Freidora eléctrica,,5.0,2024-06-25,Electrodomésticos
+1825,Lavadora,,1.0,2024-06-25,Electrodomésticos
+2057,Cámara digital,,10.0,2024-06-25,Electrónica
+2254,Tablet,,6.0,2024-06-25,Electrónica
+2328,SmartWatch,,3.0,2024-06-25,Electrónica
+2512,Televisor,,9.0,2024-06-25,Electrónica
+179,Lámpara de mesa,,1.0,2024-06-26,Decoración
+489,Lámpara de mesa,,10.0,2024-06-26,Decoración
+677,Elementos de cerámica,,9.0,2024-06-26,Decoración
+815,Alfombra,,7.0,2024-06-26,Decoración
+1335,Lavadora,,6.0,2024-06-26,Electrodomésticos
+1712,Microondas,,2.0,2024-06-26,Electrodomésticos
+1931,Freidora eléctrica,,5.0,2024-06-26,Electrodomésticos
+2499,Proyector,,1.0,2024-06-26,Electrónica
+2700,Consola de videojuegos,,12.0,2024-06-26,Electrónica
+146,Cortinas,,9.0,2024-06-27,Decoración
+283,Espejo decorativo,,2.0,2024-06-27,Decoración
+711,Lámpara de mesa,,1.0,2024-06-27,Decoración
+831,Lámpara de mesa,,12.0,2024-06-27,Decoración
+1083,Microondas,,3.0,2024-06-27,Electrodomésticos
+1549,Batidora,,6.0,2024-06-27,Electrodomésticos
+2884,Tablet,,4.0,2024-06-27,Electrónica
+71,Lámpara de mesa,,2.0,2024-06-28,Decoración
+916,Cortinas,,1.0,2024-06-28,Decoración
+1448,Cafetera,,4.0,2024-06-28,Electrodomésticos
+1668,Cafetera,,12.0,2024-06-28,Electrodomésticos
+2730,Consola de videojuegos,,2.0,2024-06-28,Electrónica
+2743,Smartphone,,9.0,2024-06-28,Electrónica
+2836,Laptop,,10.0,2024-06-28,Electrónica
+2919,Proyector,,6.0,2024-06-28,Electrónica
+10,Adorno de pared,,10.0,2024-06-29,Decoración
+125,Alfombra,,2.0,2024-06-29,Decoración
+502,Cuadro decorativo,,10.0,2024-06-29,Decoración
+1390,Plancha de vapor,,8.0,2024-06-29,Electrodomésticos
+1826,Secadora,,9.0,2024-06-29,Electrodomésticos
+2008,SmartWatch,,9.0,2024-06-29,Electrónica
+2024,Tablet,,6.0,2024-06-29,Electrónica
+2259,Proyector,,2.0,2024-06-29,Electrónica
+2747,Cámara digital,,7.0,2024-06-29,Electrónica
+2932,Televisor,,5.0,2024-06-29,Electrónica
+411,Lámpara de mesa,,4.0,2024-06-30,Decoración
+846,Cortinas,,8.0,2024-06-30,Decoración
+994,Jarrón decorativo,,4.0,2024-06-30,Decoración
+1107,Horno eléctrico,,3.0,2024-06-30,Electrodomésticos
+1927,Horno eléctrico,,12.0,2024-06-30,Electrodomésticos
+2006,Laptop,,3.0,2024-06-30,Electrónica
+2741,Parlantes Bluetooth,,6.0,2024-06-30,Electrónica
+2771,Parlantes Bluetooth,,2.0,2024-06-30,Electrónica
+363,Espejo decorativo,,1.0,2024-07-01,Decoración
+585,Alfombra,,3.0,2024-07-01,Decoración
+2394,Tablet,,11.0,2024-07-01,Electrónica
+2525,Auriculares,,11.0,2024-07-01,Electrónica
+2744,Auriculares,,1.0,2024-07-01,Electrónica
+2787,Cámara digital,,2.0,2024-07-01,Electrónica
+443,Espejo decorativo,,1.0,2024-07-02,Decoración
+735,Alfombra,,5.0,2024-07-02,Decoración
+795,Alfombra,,10.0,2024-07-02,Decoración
+1011,Freidora eléctrica,,7.0,2024-07-02,Electrodomésticos
+1296,Secadora,,10.0,2024-07-02,Electrodomésticos
+1799,Batidora,,2.0,2024-07-02,Electrodomésticos
+1998,Cafetera,,7.0,2024-07-02,Electrodomésticos
+2343,Smartphone,,11.0,2024-07-02,Electrónica
+2358,SmartWatch,,3.0,2024-07-02,Electrónica
+2906,Laptop,,12.0,2024-07-02,Electrónica
+2968,SmartWatch,,1.0,2024-07-02,Electrónica
+352,Cuadro decorativo,,5.0,2024-07-03,Decoración
+865,Alfombra,,6.0,2024-07-03,Decoración
+1058,Cafetera,,6.0,2024-07-03,Electrodomésticos
+1292,Microondas,,2.0,2024-07-03,Electrodomésticos
+1958,Cafetera,,12.0,2024-07-03,Electrodomésticos
+2756,Laptop,,12.0,2024-07-03,Electrónica
+2770,Consola de videojuegos,,8.0,2024-07-03,Electrónica
+165,Alfombra,,2.0,2024-07-04,Decoración
+360,Adorno de pared,,9.0,2024-07-04,Decoración
+516,Cortinas,,7.0,2024-07-04,Decoración
+1937,Horno eléctrico,,7.0,2024-07-04,Electrodomésticos
+1941,Freidora eléctrica,,2.0,2024-07-04,Electrodomésticos
+2237,Cámara digital,,11.0,2024-07-04,Electrónica
+335,Alfombra,,1.0,2024-07-05,Decoración
+931,Lámpara de mesa,,9.0,2024-07-05,Decoración
+979,Lámpara de mesa,,2.0,2024-07-05,Decoración
+1072,Microondas,,1.0,2024-07-05,Electrodomésticos
+1147,Horno eléctrico,,11.0,2024-07-05,Electrodomésticos
+1805,Lavadora,,2.0,2024-07-05,Electrodomésticos
+2265,Auriculares,,12.0,2024-07-05,Electrónica
+513,Espejo decorativo,,11.0,2024-07-06,Decoración
+716,Cortinas,,4.0,2024-07-06,Decoración
+838,Rincón de plantas,,4.0,2024-07-06,Decoración
+1770,Plancha de vapor,,9.0,2024-07-06,Electrodomésticos
+1792,Microondas,,6.0,2024-07-06,Electrodomésticos
+2861,Parlantes Bluetooth,,6.0,2024-07-06,Electrónica
+215,Alfombra,,3.0,2024-07-07,Decoración
+354,Jarrón decorativo,,3.0,2024-07-07,Decoración
+569,Lámpara de mesa,,12.0,2024-07-07,Decoración
+827,Elementos de cerámica,,5.0,2024-07-07,Decoración
+965,Alfombra,,4.0,2024-07-07,Decoración
+986,Cortinas,,10.0,2024-07-07,Decoración
+1112,Microondas,,5.0,2024-07-07,Electrodomésticos
+1355,Lavadora,,9.0,2024-07-07,Electrodomésticos
+1903,Microondas,,8.0,2024-07-07,Electrodomésticos
+1936,Secadora,,12.0,2024-07-07,Electrodomésticos
+2666,Laptop,,1.0,2024-07-07,Electrónica
+2910,Consola de videojuegos,,7.0,2024-07-07,Electrónica
+233,Espejo decorativo,,5.0,2024-07-08,Decoración
+796,Cortinas,,6.0,2024-07-08,Decoración
+2889,Proyector,,7.0,2024-07-08,Electrónica
+228,Rincón de plantas,,2.0,2024-07-09,Decoración
+268,Rincón de plantas,,10.0,2024-07-09,Decoración
+526,Cortinas,,12.0,2024-07-09,Decoración
+622,Cuadro decorativo,,4.0,2024-07-09,Decoración
+941,Lámpara de mesa,,12.0,2024-07-09,Decoración
+1180,Plancha de vapor,,2.0,2024-07-09,Electrodomésticos
+1675,Lavadora,,6.0,2024-07-09,Electrodomésticos
+2239,Proyector,,5.0,2024-07-09,Electrónica
+2293,Smartphone,,4.0,2024-07-09,Electrónica
+2466,Laptop,,1.0,2024-07-09,Electrónica
+2604,Auriculares,,3.0,2024-07-09,Electrónica
+2719,Proyector,,7.0,2024-07-09,Electrónica
+154,Jarrón decorativo,,11.0,2024-07-10,Decoración
+790,Adorno de pared,,5.0,2024-07-10,Decoración
+2579,Proyector,,6.0,2024-07-10,Electrónica
+96,Cortinas,,9.0,2024-07-11,Decoración
+307,Elementos de cerámica,,7.0,2024-07-11,Decoración
+769,Candelabro,,2.0,2024-07-11,Decoración
+858,Rincón de plantas,,11.0,2024-07-11,Decoración
+1746,Secadora,,5.0,2024-07-11,Electrodomésticos
+1884,Aspiradora,,4.0,2024-07-11,Electrodomésticos
+1899,Batidora,,1.0,2024-07-11,Electrodomésticos
+2053,Smartphone,,4.0,2024-07-11,Electrónica
+2143,Smartphone,,1.0,2024-07-11,Electrónica
+2997,SmartWatch,,3.0,2024-07-11,Electrónica
+61,Lámpara de mesa,,11.0,2024-07-12,Decoración
+291,Lámpara de mesa,,4.0,2024-07-12,Decoración
+463,Espejo decorativo,,11.0,2024-07-12,Decoración
+1306,Secadora,,6.0,2024-07-12,Electrodomésticos
+1427,Horno eléctrico,,11.0,2024-07-12,Electrodomésticos
+1525,Lavadora,,10.0,2024-07-12,Electrodomésticos
+1536,Secadora,,6.0,2024-07-12,Electrodomésticos
+55,Alfombra,,12.0,2024-07-13,Decoración
+241,Lámpara de mesa,,3.0,2024-07-13,Decoración
+691,Lámpara de mesa,,2.0,2024-07-13,Decoración
+1123,Microondas,,7.0,2024-07-13,Electrodomésticos
+1755,Lavadora,,9.0,2024-07-13,Electrodomésticos
+1985,Lavadora,,2.0,2024-07-13,Electrodomésticos
+1997,Horno eléctrico,,5.0,2024-07-13,Electrodomésticos
+2425,Auriculares,,7.0,2024-07-13,Electrónica
+2469,Proyector,,8.0,2024-07-13,Electrónica
+2927,Cámara digital,,9.0,2024-07-13,Electrónica
+964,Jarrón decorativo,,7.0,2024-07-14,Decoración
+1078,Cafetera,,1.0,2024-07-14,Electrodomésticos
+2247,Cámara digital,,7.0,2024-07-14,Electrónica
+2495,Auriculares,,4.0,2024-07-14,Electrónica
+2911,Parlantes Bluetooth,,2.0,2024-07-14,Electrónica
+105,Alfombra,,9.0,2024-07-15,Decoración
+149,Candelabro,,9.0,2024-07-15,Decoración
+173,Espejo decorativo,,6.0,2024-07-15,Decoración
+783,Espejo decorativo,,7.0,2024-07-15,Decoración
+1373,Microondas,,2.0,2024-07-15,Electrodomésticos
+1494,Aspiradora,,6.0,2024-07-15,Electrodomésticos
+1533,Microondas,,9.0,2024-07-15,Electrodomésticos
+1604,Aspiradora,,8.0,2024-07-15,Electrodomésticos
+2625,Auriculares,,6.0,2024-07-15,Electrónica
+2991,Televisor,,4.0,2024-07-15,Electrónica
+63,Espejo decorativo,,11.0,2024-07-16,Decoración
+200,Adorno de pared,,5.0,2024-07-16,Decoración
+201,Lámpara de mesa,,1.0,2024-07-16,Decoración
+298,Rincón de plantas,,12.0,2024-07-16,Decoración
+1037,Horno eléctrico,,8.0,2024-07-16,Electrodomésticos
+1795,Lavadora,,8.0,2024-07-16,Electrodomésticos
+1824,Aspiradora,,12.0,2024-07-16,Electrodomésticos
+1926,Secadora,,2.0,2024-07-16,Electrodomésticos
+2280,Consola de videojuegos,,3.0,2024-07-16,Electrónica
+129,Candelabro,,5.0,2024-07-17,Decoración
+1047,Horno eléctrico,,3.0,2024-07-17,Electrodomésticos
+1135,Lavadora,,12.0,2024-07-17,Electrodomésticos
+1653,Microondas,,9.0,2024-07-17,Electrodomésticos
+1862,Microondas,,6.0,2024-07-17,Electrodomésticos
+1910,Plancha de vapor,,5.0,2024-07-17,Electrodomésticos
+1947,Horno eléctrico,,7.0,2024-07-17,Electrodomésticos
+2570,Consola de videojuegos,,6.0,2024-07-17,Electrónica
+2643,Smartphone,,1.0,2024-07-17,Electrónica
+369,Candelabro,,11.0,2024-07-18,Decoración
+1170,Plancha de vapor,,11.0,2024-07-18,Electrodomésticos
+1237,Horno eléctrico,,8.0,2024-07-18,Electrodomésticos
+1614,Aspiradora,,7.0,2024-07-18,Electrodomésticos
+1663,Microondas,,10.0,2024-07-18,Electrodomésticos
+1714,Aspiradora,,12.0,2024-07-18,Electrodomésticos
+2834,Auriculares,,4.0,2024-07-18,Electrónica
+2855,Auriculares,,2.0,2024-07-18,Electrónica
+155,Alfombra,,10.0,2024-07-19,Decoración
+157,Elementos de cerámica,,12.0,2024-07-19,Decoración
+2350,Consola de videojuegos,,4.0,2024-07-19,Electrónica
+2555,Auriculares,,1.0,2024-07-19,Electrónica
+2567,Cámara digital,,6.0,2024-07-19,Electrónica
+2954,Auriculares,,7.0,2024-07-19,Electrónica
+37,Elementos de cerámica,,1.0,2024-07-20,Decoración
+87,Elementos de cerámica,,3.0,2024-07-20,Decoración
+391,Lámpara de mesa,,2.0,2024-07-20,Decoración
+488,Rincón de plantas,,1.0,2024-07-20,Decoración
+1157,Horno eléctrico,,4.0,2024-07-20,Electrodomésticos
+1333,Microondas,,8.0,2024-07-20,Electrodomésticos
+1364,Aspiradora,,11.0,2024-07-20,Electrodomésticos
+1909,Batidora,,5.0,2024-07-20,Electrodomésticos
+2184,Auriculares,,2.0,2024-07-20,Electrónica
+2326,Laptop,,11.0,2024-07-20,Electrónica
+2484,Auriculares,,10.0,2024-07-20,Electrónica
+2866,Laptop,,1.0,2024-07-20,Electrónica
+77,Elementos de cerámica,,8.0,2024-07-21,Decoración
+1195,Lavadora,,5.0,2024-07-21,Electrodomésticos
+1402,Microondas,,9.0,2024-07-21,Electrodomésticos
+1491,Freidora eléctrica,,1.0,2024-07-21,Electrodomésticos
+2314,Auriculares,,9.0,2024-07-21,Electrónica
+2362,Televisor,,11.0,2024-07-21,Electrónica
+2596,Laptop,,4.0,2024-07-21,Electrónica
+121,Lámpara de mesa,,9.0,2024-07-22,Decoración
+258,Rincón de plantas,,9.0,2024-07-22,Decoración
+870,Adorno de pared,,4.0,2024-07-22,Decoración
+1249,Batidora,,10.0,2024-07-22,Electrodomésticos
+2799,Proyector,,8.0,2024-07-22,Electrónica
+12,Cuadro decorativo,,1.0,2024-07-23,Decoración
+602,Cuadro decorativo,,11.0,2024-07-23,Decoración
+1444,Aspiradora,,2.0,2024-07-23,Electrodomésticos
+1847,Horno eléctrico,,6.0,2024-07-23,Electrodomésticos
+2221,Parlantes Bluetooth,,2.0,2024-07-23,Electrónica
+2397,Cámara digital,,4.0,2024-07-23,Electrónica
+2524,Auriculares,,7.0,2024-07-23,Electrónica
+554,Jarrón decorativo,,7.0,2024-07-24,Decoración
+1016,Secadora,,12.0,2024-07-24,Electrodomésticos
+1397,Horno eléctrico,,2.0,2024-07-24,Electrodomésticos
+1575,Lavadora,,9.0,2024-07-24,Electrodomésticos
+1745,Lavadora,,8.0,2024-07-24,Electrodomésticos
+1816,Secadora,,4.0,2024-07-24,Electrodomésticos
+2023,Smartphone,,12.0,2024-07-24,Electrónica
+2070,Consola de videojuegos,,6.0,2024-07-24,Electrónica
+2593,Smartphone,,7.0,2024-07-24,Electrónica
+32,Cuadro decorativo,,6.0,2024-07-25,Decoración
+309,Candelabro,,8.0,2024-07-25,Decoración
+321,Lámpara de mesa,,7.0,2024-07-25,Decoración
+473,Espejo decorativo,,1.0,2024-07-25,Decoración
+1220,Plancha de vapor,,1.0,2024-07-25,Electrodomésticos
+1231,Freidora eléctrica,,3.0,2024-07-25,Electrodomésticos
+1279,Batidora,,10.0,2024-07-25,Electrodomésticos
+2709,Proyector,,6.0,2024-07-25,Electrónica
+2891,Parlantes Bluetooth,,12.0,2024-07-25,Electrónica
+3000,Parlantes Bluetooth,,11.0,2024-07-25,Electrónica
+1242,Microondas,,9.0,2024-07-26,Electrodomésticos
+2301,Parlantes Bluetooth,,9.0,2024-07-26,Electrónica
+2390,Consola de videojuegos,,4.0,2024-07-26,Electrónica
+2561,Parlantes Bluetooth,,1.0,2024-07-26,Electrónica
+2712,Televisor,,8.0,2024-07-26,Electrónica
+2857,Cámara digital,,10.0,2024-07-26,Electrónica
+2901,Parlantes Bluetooth,,10.0,2024-07-26,Electrónica
+290,Adorno de pared,,12.0,2024-07-27,Decoración
+1827,Horno eléctrico,,9.0,2024-07-27,Electrodomésticos
+1829,Batidora,,1.0,2024-07-27,Electrodomésticos
+2045,Auriculares,,5.0,2024-07-27,Electrónica
+2518,SmartWatch,,3.0,2024-07-27,Electrónica
+2853,Smartphone,,1.0,2024-07-27,Electrónica
+631,Lámpara de mesa,,5.0,2024-07-28,Decoración
+1213,Microondas,,5.0,2024-07-28,Electrodomésticos
+1506,Secadora,,11.0,2024-07-28,Electrodomésticos
+1561,Freidora eléctrica,,12.0,2024-07-28,Electrodomésticos
+1811,Freidora eléctrica,,3.0,2024-07-28,Electrodomésticos
+2159,Proyector,,6.0,2024-07-28,Electrónica
+2491,Parlantes Bluetooth,,9.0,2024-07-28,Electrónica
+2786,Laptop,,11.0,2024-07-28,Electrónica
+571,Lámpara de mesa,,9.0,2024-07-29,Decoración
+845,Alfombra,,3.0,2024-07-29,Decoración
+1375,Lavadora,,5.0,2024-07-29,Electrodomésticos
+1413,Microondas,,11.0,2024-07-29,Electrodomésticos
+1505,Lavadora,,12.0,2024-07-29,Electrodomésticos
+1915,Lavadora,,12.0,2024-07-29,Electrodomésticos
+791,Lámpara de mesa,,6.0,2024-07-30,Decoración
+826,Cortinas,,1.0,2024-07-30,Decoración
+1317,Horno eléctrico,,1.0,2024-07-30,Electrodomésticos
+1723,Microondas,,9.0,2024-07-30,Electrodomésticos
+2054,Tablet,,9.0,2024-07-30,Electrónica
+2318,SmartWatch,,9.0,2024-07-30,Electrónica
+2372,Televisor,,7.0,2024-07-30,Electrónica
+2475,Auriculares,,1.0,2024-07-30,Electrónica
+2628,SmartWatch,,7.0,2024-07-30,Electrónica
+2722,Televisor,,11.0,2024-07-30,Electrónica
+2762,Televisor,,11.0,2024-07-30,Electrónica
+1068,Cafetera,,1.0,2024-07-31,Electrodomésticos
+1458,Cafetera,,3.0,2024-07-31,Electrodomésticos
+1475,Lavadora,,10.0,2024-07-31,Electrodomésticos
+1944,Aspiradora,,1.0,2024-07-31,Electrodomésticos
+2130,Consola de videojuegos,,6.0,2024-07-31,Electrónica
+2225,Auriculares,,7.0,2024-07-31,Electrónica
+2408,SmartWatch,,5.0,2024-07-31,Electrónica
+2488,SmartWatch,,5.0,2024-07-31,Electrónica
+139,Candelabro,,2.0,2024-08-01,Decoración
+423,Espejo decorativo,,4.0,2024-08-01,Decoración
+533,Espejo decorativo,,6.0,2024-08-01,Decoración
+860,Adorno de pared,,9.0,2024-08-01,Decoración
+1155,Lavadora,,3.0,2024-08-01,Electrodomésticos
+1331,Freidora eléctrica,,2.0,2024-08-01,Electrodomésticos
+1854,Aspiradora,,8.0,2024-08-01,Electrodomésticos
+2050,Consola de videojuegos,,12.0,2024-08-01,Electrónica
+2439,Proyector,,3.0,2024-08-01,Electrónica
+2452,Televisor,,8.0,2024-08-01,Electrónica
+2592,Televisor,,2.0,2024-08-01,Electrónica
+2641,Parlantes Bluetooth,,11.0,2024-08-01,Electrónica
+535,Alfombra,,1.0,2024-08-02,Decoración
+692,Cuadro decorativo,,2.0,2024-08-02,Decoración
+1002,Microondas,,8.0,2024-08-02,Electrodomésticos
+1208,Cafetera,,4.0,2024-08-02,Electrodomésticos
+1278,Cafetera,,8.0,2024-08-02,Electrodomésticos
+1483,Microondas,,7.0,2024-08-02,Electrodomésticos
+1902,Microondas,,3.0,2024-08-02,Electrodomésticos
+2216,Laptop,,11.0,2024-08-02,Electrónica
+2880,Consola de videojuegos,,12.0,2024-08-02,Electrónica
+2937,Cámara digital,,6.0,2024-08-02,Electrónica
+174,Jarrón decorativo,,3.0,2024-08-03,Decoración
+525,Alfombra,,12.0,2024-08-03,Decoración
+528,Rincón de plantas,,6.0,2024-08-03,Decoración
+1398,Cafetera,,10.0,2024-08-03,Electrodomésticos
+1531,Freidora eléctrica,,9.0,2024-08-03,Electrodomésticos
+1717,Horno eléctrico,,8.0,2024-08-03,Electrodomésticos
+2093,Smartphone,,7.0,2024-08-03,Electrónica
+2514,Tablet,,10.0,2024-08-03,Electrónica
+2563,Smartphone,,1.0,2024-08-03,Electrónica
+2737,Cámara digital,,8.0,2024-08-03,Electrónica
+264,Jarrón decorativo,,5.0,2024-08-04,Decoración
+372,Cuadro decorativo,,6.0,2024-08-04,Decoración
+748,Rincón de plantas,,3.0,2024-08-04,Decoración
+1013,Microondas,,1.0,2024-08-04,Electrodomésticos
+1019,Batidora,,10.0,2024-08-04,Electrodomésticos
+1438,Cafetera,,8.0,2024-08-04,Electrodomésticos
+1661,Freidora eléctrica,,2.0,2024-08-04,Electrodomésticos
+1775,Lavadora,,6.0,2024-08-04,Electrodomésticos
+2114,Tablet,,3.0,2024-08-04,Electrónica
+2336,Laptop,,9.0,2024-08-04,Electrónica
+2578,SmartWatch,,7.0,2024-08-04,Electrónica
+2620,Consola de videojuegos,,7.0,2024-08-04,Electrónica
+2717,Cámara digital,,6.0,2024-08-04,Electrónica
+2800,Consola de videojuegos,,2.0,2024-08-04,Electrónica
+1174,Aspiradora,,8.0,2024-08-05,Electrodomésticos
+1405,Lavadora,,10.0,2024-08-05,Electrodomésticos
+2042,Televisor,,4.0,2024-08-05,Electrónica
+2549,Proyector,,11.0,2024-08-05,Electrónica
+2729,Proyector,,11.0,2024-08-05,Electrónica
+2790,Consola de videojuegos,,1.0,2024-08-05,Electrónica
+1312,Microondas,,10.0,2024-08-06,Electrodomésticos
+1419,Batidora,,1.0,2024-08-06,Electrodomésticos
+1500,Plancha de vapor,,12.0,2024-08-06,Electrodomésticos
+1683,Microondas,,2.0,2024-08-06,Electrodomésticos
+1757,Horno eléctrico,,8.0,2024-08-06,Electrodomésticos
+2299,Proyector,,2.0,2024-08-06,Electrónica
+843,Espejo decorativo,,12.0,2024-08-07,Decoración
+1017,Horno eléctrico,,8.0,2024-08-07,Electrodomésticos
+1284,Aspiradora,,7.0,2024-08-07,Electrodomésticos
+2249,Proyector,,9.0,2024-08-07,Electrónica
+2922,Televisor,,12.0,2024-08-07,Electrónica
+1406,Secadora,,8.0,2024-08-08,Electrodomésticos
+1580,Plancha de vapor,,7.0,2024-08-08,Electrodomésticos
+1725,Lavadora,,6.0,2024-08-08,Electrodomésticos
+1922,Microondas,,6.0,2024-08-08,Electrodomésticos
+2815,Auriculares,,12.0,2024-08-08,Electrónica
+2839,Proyector,,12.0,2024-08-08,Electrónica
+586,Cortinas,,7.0,2024-08-09,Decoración
+739,Candelabro,,11.0,2024-08-09,Decoración
+1202,Microondas,,11.0,2024-08-09,Electrodomésticos
+1654,Aspiradora,,1.0,2024-08-09,Electrodomésticos
+1809,Batidora,,4.0,2024-08-09,Electrodomésticos
+2798,SmartWatch,,12.0,2024-08-09,Electrónica
+2989,Televisor,,4.0,2024-08-09,Electrónica
+295,Alfombra,,10.0,2024-08-10,Decoración
+1259,Batidora,,12.0,2024-08-10,Electrodomésticos
+2076,Laptop,,2.0,2024-08-10,Electrónica
+2078,SmartWatch,,8.0,2024-08-10,Electrónica
+2186,Laptop,,5.0,2024-08-10,Electrónica
+289,Candelabro,,1.0,2024-08-11,Decoración
+1289,Batidora,,7.0,2024-08-11,Electrodomésticos
+1695,Lavadora,,2.0,2024-08-11,Electrodomésticos
+2153,Smartphone,,4.0,2024-08-11,Electrónica
+2622,Televisor,,8.0,2024-08-11,Electrónica
+2665,Auriculares,,2.0,2024-08-11,Electrónica
+126,Cortinas,,1.0,2024-08-12,Decoración
+148,Rincón de plantas,,6.0,2024-08-12,Decoración
+246,Cortinas,,7.0,2024-08-12,Decoración
+700,Adorno de pared,,1.0,2024-08-12,Decoración
+938,Rincón de plantas,,4.0,2024-08-12,Decoración
+1678,Cafetera,,11.0,2024-08-12,Electrodomésticos
+1801,Freidora eléctrica,,3.0,2024-08-12,Electrodomésticos
+2139,Proyector,,3.0,2024-08-12,Electrónica
+2257,Cámara digital,,2.0,2024-08-12,Electrónica
+101,Lámpara de mesa,,12.0,2024-08-13,Decoración
+1299,Batidora,,3.0,2024-08-13,Electrodomésticos
+1514,Aspiradora,,3.0,2024-08-13,Electrodomésticos
+1589,Batidora,,7.0,2024-08-13,Electrodomésticos
+2016,Laptop,,10.0,2024-08-13,Electrónica
+2224,Tablet,,3.0,2024-08-13,Electrónica
+2894,Tablet,,7.0,2024-08-13,Electrónica
+207,Elementos de cerámica,,3.0,2024-08-14,Decoración
+1054,Aspiradora,,2.0,2024-08-14,Electrodomésticos
+1256,Secadora,,7.0,2024-08-14,Electrodomésticos
+1625,Lavadora,,3.0,2024-08-14,Electrodomésticos
+1957,Horno eléctrico,,3.0,2024-08-14,Electrodomésticos
+2072,Televisor,,11.0,2024-08-14,Electrónica
+2260,Consola de videojuegos,,4.0,2024-08-14,Electrónica
+2407,Cámara digital,,1.0,2024-08-14,Electrónica
+2637,Cámara digital,,10.0,2024-08-14,Electrónica
+168,Rincón de plantas,,9.0,2024-08-15,Decoración
+392,Cuadro decorativo,,2.0,2024-08-15,Decoración
+651,Lámpara de mesa,,11.0,2024-08-15,Decoración
+1421,Freidora eléctrica,,6.0,2024-08-15,Electrodomésticos
+1591,Freidora eléctrica,,12.0,2024-08-15,Electrodomésticos
+1894,Aspiradora,,5.0,2024-08-15,Electrodomésticos
+2307,Cámara digital,,6.0,2024-08-15,Electrónica
+2967,Cámara digital,,3.0,2024-08-15,Electrónica
+170,Adorno de pared,,11.0,2024-08-16,Decoración
+469,Candelabro,,10.0,2024-08-16,Decoración
+1105,Lavadora,,4.0,2024-08-16,Electrodomésticos
+2639,Proyector,,4.0,2024-08-16,Electrónica
+245,Alfombra,,11.0,2024-08-17,Decoración
+1950,Plancha de vapor,,1.0,2024-08-17,Electrodomésticos
+2395,Auriculares,,11.0,2024-08-17,Electrónica
+2564,Tablet,,6.0,2024-08-17,Electrónica
+2791,Parlantes Bluetooth,,10.0,2024-08-17,Electrónica
+2963,Smartphone,,6.0,2024-08-17,Electrónica
+744,Jarrón decorativo,,7.0,2024-08-18,Decoración
+1153,Microondas,,5.0,2024-08-18,Electrodomésticos
+1339,Batidora,,1.0,2024-08-18,Electrodomésticos
+2199,Proyector,,3.0,2024-08-18,Electrónica
+2229,Proyector,,6.0,2024-08-18,Electrónica
+2540,Consola de videojuegos,,6.0,2024-08-18,Electrónica
+271,Lámpara de mesa,,2.0,2024-08-19,Decoración
+429,Candelabro,,5.0,2024-08-19,Decoración
+647,Elementos de cerámica,,3.0,2024-08-19,Decoración
+689,Candelabro,,3.0,2024-08-19,Decoración
+115,Alfombra,,6.0,2024-08-20,Decoración
+133,Espejo decorativo,,11.0,2024-08-20,Decoración
+180,Adorno de pared,,11.0,2024-08-20,Decoración
+274,Jarrón decorativo,,3.0,2024-08-20,Decoración
+540,Adorno de pared,,3.0,2024-08-20,Decoración
+611,Lámpara de mesa,,7.0,2024-08-20,Decoración
+638,Rincón de plantas,,5.0,2024-08-20,Decoración
+710,Adorno de pared,,11.0,2024-08-20,Decoración
+1609,Batidora,,8.0,2024-08-20,Electrodomésticos
+1688,Cafetera,,3.0,2024-08-20,Electrodomésticos
+2494,Tablet,,1.0,2024-08-20,Electrónica
+2537,Cámara digital,,9.0,2024-08-20,Electrónica
+2575,Auriculares,,9.0,2024-08-20,Electrónica
+2862,Televisor,,8.0,2024-08-20,Electrónica
+35,Alfombra,,11.0,2024-08-21,Decoración
+508,Rincón de plantas,,2.0,2024-08-21,Decoración
+940,Adorno de pared,,4.0,2024-08-21,Decoración
+1022,Microondas,,5.0,2024-08-21,Electrodomésticos
+1124,Aspiradora,,4.0,2024-08-21,Electrodomésticos
+1143,Microondas,,7.0,2024-08-21,Electrodomésticos
+1665,Lavadora,,9.0,2024-08-21,Electrodomésticos
+1693,Microondas,,5.0,2024-08-21,Electrodomésticos
+2021,Parlantes Bluetooth,,2.0,2024-08-21,Electrónica
+2160,Consola de videojuegos,,3.0,2024-08-21,Electrónica
+2338,SmartWatch,,1.0,2024-08-21,Electrónica
+203,Espejo decorativo,,6.0,2024-08-22,Decoración
+404,Jarrón decorativo,,8.0,2024-08-22,Decoración
+490,Adorno de pared,,8.0,2024-08-22,Decoración
+504,Jarrón decorativo,,3.0,2024-08-22,Decoración
+747,Elementos de cerámica,,10.0,2024-08-22,Decoración
+1060,Plancha de vapor,,12.0,2024-08-22,Electrodomésticos
+1467,Horno eléctrico,,10.0,2024-08-22,Electrodomésticos
+2156,Laptop,,7.0,2024-08-22,Electrónica
+2215,Auriculares,,8.0,2024-08-22,Electrónica
+2508,SmartWatch,,3.0,2024-08-22,Electrónica
+2517,Cámara digital,,6.0,2024-08-22,Electrónica
+2892,Televisor,,9.0,2024-08-22,Electrónica
+230,Adorno de pared,,1.0,2024-08-23,Decoración
+869,Candelabro,,4.0,2024-08-23,Decoración
+955,Alfombra,,7.0,2024-08-23,Decoración
+1039,Batidora,,1.0,2024-08-23,Electrodomésticos
+1635,Lavadora,,7.0,2024-08-23,Electrodomésticos
+1939,Batidora,,10.0,2024-08-23,Electrodomésticos
+2048,SmartWatch,,2.0,2024-08-23,Electrónica
+2241,Parlantes Bluetooth,,8.0,2024-08-23,Electrónica
+2535,Auriculares,,11.0,2024-08-23,Electrónica
+412,Cuadro decorativo,,9.0,2024-08-24,Decoración
+450,Adorno de pared,,6.0,2024-08-24,Decoración
+604,Jarrón decorativo,,11.0,2024-08-24,Decoración
+823,Espejo decorativo,,6.0,2024-08-24,Decoración
+1074,Aspiradora,,8.0,2024-08-24,Electrodomésticos
+1114,Aspiradora,,10.0,2024-08-24,Electrodomésticos
+2161,Parlantes Bluetooth,,8.0,2024-08-24,Electrónica
+2382,Televisor,,4.0,2024-08-24,Electrónica
+2648,SmartWatch,,2.0,2024-08-24,Electrónica
+2966,Laptop,,2.0,2024-08-24,Electrónica
+803,Espejo decorativo,,1.0,2024-08-25,Decoración
+1162,Microondas,,11.0,2024-08-25,Electrodomésticos
+1338,Cafetera,,7.0,2024-08-25,Electrodomésticos
+1935,Lavadora,,2.0,2024-08-25,Electrodomésticos
+1962,Microondas,,6.0,2024-08-25,Electrodomésticos
+2527,Cámara digital,,7.0,2024-08-25,Electrónica
+2681,Parlantes Bluetooth,,12.0,2024-08-25,Electrónica
+675,Alfombra,,10.0,2024-08-26,Decoración
+807,Elementos de cerámica,,9.0,2024-08-26,Decoración
+866,Cortinas,,8.0,2024-08-26,Decoración
+1130,Plancha de vapor,,11.0,2024-08-26,Electrodomésticos
+1612,Microondas,,5.0,2024-08-26,Electrodomésticos
+2300,Consola de videojuegos,,8.0,2024-08-26,Electrónica
+2423,Smartphone,,1.0,2024-08-26,Electrónica
+2804,Tablet,,11.0,2024-08-26,Electrónica
+248,Rincón de plantas,,4.0,2024-08-27,Decoración
+789,Candelabro,,5.0,2024-08-27,Decoración
+1869,Batidora,,7.0,2024-08-27,Electrodomésticos
+2243,Smartphone,,1.0,2024-08-27,Electrónica
+2298,SmartWatch,,1.0,2024-08-27,Electrónica
+2539,Proyector,,7.0,2024-08-27,Electrónica
+2806,Laptop,,5.0,2024-08-27,Electrónica
+2928,SmartWatch,,8.0,2024-08-27,Electrónica
+11,Lámpara de mesa,,12.0,2024-08-28,Decoración
+397,Elementos de cerámica,,2.0,2024-08-28,Decoración
+480,Adorno de pared,,10.0,2024-08-28,Decoración
+579,Lámpara de mesa,,7.0,2024-08-28,Decoración
+1342,Microondas,,12.0,2024-08-28,Electrodomésticos
+1507,Horno eléctrico,,5.0,2024-08-28,Electrodomésticos
+1994,Aspiradora,,7.0,2024-08-28,Electrodomésticos
+2460,Consola de videojuegos,,12.0,2024-08-28,Electrónica
+2531,Parlantes Bluetooth,,4.0,2024-08-28,Electrónica
+302,Cuadro decorativo,,11.0,2024-08-29,Decoración
+551,Lámpara de mesa,,6.0,2024-08-29,Decoración
+1737,Horno eléctrico,,7.0,2024-08-29,Electrodomésticos
+2032,Televisor,,12.0,2024-08-29,Electrónica
+2142,Televisor,,10.0,2024-08-29,Electrónica
+2261,Parlantes Bluetooth,,3.0,2024-08-29,Electrónica
+279,Lámpara de mesa,,4.0,2024-08-30,Decoración
+484,Jarrón decorativo,,6.0,2024-08-30,Decoración
+723,Espejo decorativo,,1.0,2024-08-30,Decoración
+726,Cortinas,,6.0,2024-08-30,Decoración
+1035,Lavadora,,2.0,2024-08-30,Electrodomésticos
+1341,Freidora eléctrica,,1.0,2024-08-30,Electrodomésticos
+1472,Microondas,,10.0,2024-08-30,Electrodomésticos
+1863,Microondas,,9.0,2024-08-30,Electrodomésticos
+1960,Plancha de vapor,,12.0,2024-08-30,Electrodomésticos
+2655,Auriculares,,9.0,2024-08-30,Electrónica
+193,Espejo decorativo,,6.0,2024-08-31,Decoración
+325,Alfombra,,3.0,2024-08-31,Decoración
+444,Jarrón decorativo,,5.0,2024-08-31,Decoración
+847,Elementos de cerámica,,1.0,2024-08-31,Decoración
+922,Cuadro decorativo,,7.0,2024-08-31,Decoración
+1026,Secadora,,10.0,2024-08-31,Electrodomésticos
+1282,Microondas,,10.0,2024-08-31,Electrodomésticos
+1523,Microondas,,10.0,2024-08-31,Electrodomésticos
+2361,Parlantes Bluetooth,,8.0,2024-08-31,Electrónica
+2642,Televisor,,5.0,2024-08-31,Electrónica
+280,Adorno de pared,,9.0,2024-09-01,Decoración
+487,Elementos de cerámica,,5.0,2024-09-01,Decoración
+732,Cuadro decorativo,,9.0,2024-09-01,Decoración
+921,Lámpara de mesa,,4.0,2024-09-01,Decoración
+1218,Cafetera,,9.0,2024-09-01,Electrodomésticos
+1684,Aspiradora,,2.0,2024-09-01,Electrodomésticos
+2015,Auriculares,,5.0,2024-09-01,Electrónica
+2313,Smartphone,,1.0,2024-09-01,Electrónica
+2464,Tablet,,9.0,2024-09-01,Electrónica
+78,Rincón de plantas,,5.0,2024-09-02,Decoración
+2534,Tablet,,5.0,2024-09-02,Electrónica
+2599,Proyector,,6.0,2024-09-02,Electrónica
+2630,Consola de videojuegos,,1.0,2024-09-02,Electrónica
+2654,Tablet,,12.0,2024-09-02,Electrónica
+2751,Parlantes Bluetooth,,8.0,2024-09-02,Electrónica
+2779,Proyector,,8.0,2024-09-02,Electrónica
+447,Elementos de cerámica,,1.0,2024-09-03,Decoración
+644,Jarrón decorativo,,2.0,2024-09-03,Decoración
+2049,Proyector,,7.0,2024-09-03,Electrónica
+2195,Auriculares,,11.0,2024-09-03,Electrónica
+2796,Laptop,,6.0,2024-09-03,Electrónica
+2969,Proyector,,2.0,2024-09-03,Electrónica
+2760,Consola de videojuegos,,7.0,2024-09-04,Electrónica
+664,Jarrón decorativo,,6.0,2024-09-05,Decoración
+1149,Batidora,,8.0,2024-09-05,Electrodomésticos
+1207,Horno eléctrico,,3.0,2024-09-05,Electrodomésticos
+1285,Lavadora,,5.0,2024-09-05,Electrodomésticos
+1861,Freidora eléctrica,,7.0,2024-09-05,Electrodomésticos
+2219,Proyector,,5.0,2024-09-05,Electrónica
+2434,Tablet,,9.0,2024-09-05,Electrónica
+2936,Laptop,,3.0,2024-09-05,Electrónica
+176,Cortinas,,6.0,2024-09-06,Decoración
+216,Cortinas,,6.0,2024-09-06,Decoración
+467,Elementos de cerámica,,12.0,2024-09-06,Decoración
+515,Alfombra,,10.0,2024-09-06,Decoración
+665,Alfombra,,7.0,2024-09-06,Decoración
+1255,Lavadora,,7.0,2024-09-06,Electrodomésticos
+1760,Plancha de vapor,,6.0,2024-09-06,Electrodomésticos
+1895,Lavadora,,9.0,2024-09-06,Electrodomésticos
+2405,Auriculares,,8.0,2024-09-06,Electrónica
+2453,Smartphone,,6.0,2024-09-06,Electrónica
+2616,Laptop,,4.0,2024-09-06,Electrónica
+2644,Tablet,,8.0,2024-09-06,Electrónica
+2702,Televisor,,6.0,2024-09-06,Electrónica
+99,Lámpara de mesa,,6.0,2024-09-07,Decoración
+519,Lámpara de mesa,,3.0,2024-09-07,Decoración
+593,Espejo decorativo,,6.0,2024-09-07,Decoración
+607,Elementos de cerámica,,4.0,2024-09-07,Decoración
+1171,Freidora eléctrica,,9.0,2024-09-07,Electrodomésticos
+1383,Microondas,,6.0,2024-09-07,Electrodomésticos
+2716,Laptop,,3.0,2024-09-07,Electrónica
+1184,Aspiradora,,3.0,2024-09-08,Electrodomésticos
+1399,Batidora,,8.0,2024-09-08,Electrodomésticos
+1440,Plancha de vapor,,7.0,2024-09-08,Electrodomésticos
+1486,Secadora,,5.0,2024-09-08,Electrodomésticos
+2181,Parlantes Bluetooth,,12.0,2024-09-08,Electrónica
+2193,Smartphone,,3.0,2024-09-08,Electrónica
+2205,Auriculares,,6.0,2024-09-08,Electrónica
+2360,Consola de videojuegos,,7.0,2024-09-08,Electrónica
+2723,Smartphone,,11.0,2024-09-08,Electrónica
+118,Rincón de plantas,,6.0,2024-09-09,Decoración
+399,Lámpara de mesa,,10.0,2024-09-09,Decoración
+402,Cuadro decorativo,,9.0,2024-09-09,Decoración
+958,Rincón de plantas,,1.0,2024-09-09,Decoración
+1053,Microondas,,10.0,2024-09-09,Electrodomésticos
+1954,Aspiradora,,3.0,2024-09-09,Electrodomésticos
+2066,Laptop,,2.0,2024-09-09,Electrónica
+2384,Tablet,,6.0,2024-09-09,Electrónica
+34,Jarrón decorativo,,1.0,2024-09-10,Decoración
+468,Rincón de plantas,,11.0,2024-09-10,Decoración
+574,Jarrón decorativo,,3.0,2024-09-10,Decoración
+818,Rincón de plantas,,6.0,2024-09-10,Decoración
+1391,Freidora eléctrica,,2.0,2024-09-10,Electrodomésticos
+1490,Plancha de vapor,,6.0,2024-09-10,Electrodomésticos
+1573,Microondas,,4.0,2024-09-10,Electrodomésticos
+41,Lámpara de mesa,,8.0,2024-09-11,Decoración
+572,Cuadro decorativo,,5.0,2024-09-11,Decoración
+814,Jarrón decorativo,,12.0,2024-09-11,Decoración
+1404,Aspiradora,,11.0,2024-09-11,Electrodomésticos
+1643,Microondas,,12.0,2024-09-11,Electrodomésticos
+2327,Cámara digital,,12.0,2024-09-11,Electrónica
+2346,Laptop,,3.0,2024-09-11,Electrónica
+377,Elementos de cerámica,,9.0,2024-09-12,Decoración
+724,Jarrón decorativo,,11.0,2024-09-12,Decoración
+856,Cortinas,,2.0,2024-09-12,Decoración
+935,Alfombra,,5.0,2024-09-12,Decoración
+1166,Secadora,,2.0,2024-09-12,Electrodomésticos
+1270,Plancha de vapor,,1.0,2024-09-12,Electrodomésticos
+1432,Microondas,,8.0,2024-09-12,Electrodomésticos
+2279,Proyector,,10.0,2024-09-12,Electrónica
+2471,Parlantes Bluetooth,,1.0,2024-09-12,Electrónica
+2497,Cámara digital,,5.0,2024-09-12,Electrónica
+2720,Consola de videojuegos,,7.0,2024-09-12,Electrónica
+2828,SmartWatch,,12.0,2024-09-12,Electrónica
+357,Elementos de cerámica,,7.0,2024-09-13,Decoración
+682,Cuadro decorativo,,11.0,2024-09-13,Decoración
+943,Espejo decorativo,,4.0,2024-09-13,Decoración
+1412,Microondas,,9.0,2024-09-13,Electrodomésticos
+1551,Freidora eléctrica,,9.0,2024-09-13,Electrodomésticos
+1706,Secadora,,5.0,2024-09-13,Electrodomésticos
+1851,Freidora eléctrica,,5.0,2024-09-13,Electrodomésticos
+2795,Auriculares,,5.0,2024-09-13,Electrónica
+2805,Auriculares,,7.0,2024-09-13,Electrónica
+2902,Televisor,,2.0,2024-09-13,Electrónica
+81,Lámpara de mesa,,9.0,2024-09-14,Decoración
+192,Cuadro decorativo,,5.0,2024-09-14,Decoración
+456,Cortinas,,10.0,2024-09-14,Decoración
+877,Elementos de cerámica,,12.0,2024-09-14,Decoración
+1539,Batidora,,4.0,2024-09-14,Electrodomésticos
+1673,Microondas,,12.0,2024-09-14,Electrodomésticos
+1689,Batidora,,7.0,2024-09-14,Electrodomésticos
+1838,Cafetera,,9.0,2024-09-14,Electrodomésticos
+1986,Secadora,,6.0,2024-09-14,Electrodomésticos
+2296,Laptop,,9.0,2024-09-14,Electrónica
+2521,Parlantes Bluetooth,,2.0,2024-09-14,Electrónica
+2755,Auriculares,,8.0,2024-09-14,Electrónica
+2986,Laptop,,8.0,2024-09-14,Electrónica
+247,Elementos de cerámica,,5.0,2024-09-15,Decoración
+927,Elementos de cerámica,,12.0,2024-09-15,Decoración
+1593,Microondas,,3.0,2024-09-15,Electrodomésticos
+2505,Auriculares,,7.0,2024-09-15,Electrónica
+2557,Cámara digital,,5.0,2024-09-15,Electrónica
+7,Elementos de cerámica,,1.0,2024-09-16,Decoración
+713,Espejo decorativo,,5.0,2024-09-16,Decoración
+1266,Secadora,,9.0,2024-09-16,Electrodomésticos
+1426,Secadora,,4.0,2024-09-16,Electrodomésticos
+1587,Horno eléctrico,,2.0,2024-09-16,Electrodomésticos
+1783,Microondas,,3.0,2024-09-16,Electrodomésticos
+2278,SmartWatch,,5.0,2024-09-16,Electrónica
+2366,Laptop,,4.0,2024-09-16,Electrónica
+2526,Laptop,,7.0,2024-09-16,Electrónica
+2848,SmartWatch,,5.0,2024-09-16,Electrónica
+2939,Proyector,,9.0,2024-09-16,Electrónica
+254,Jarrón decorativo,,9.0,2024-09-17,Decoración
+1038,Cafetera,,10.0,2024-09-17,Electrodomésticos
+1044,Aspiradora,,1.0,2024-09-17,Electrodomésticos
+1191,Freidora eléctrica,,6.0,2024-09-17,Electrodomésticos
+1363,Microondas,,6.0,2024-09-17,Electrodomésticos
+2148,SmartWatch,,9.0,2024-09-17,Electrónica
+2234,Tablet,,5.0,2024-09-17,Electrónica
+2236,Laptop,,1.0,2024-09-17,Electrónica
+2485,Auriculares,,8.0,2024-09-17,Electrónica
+2711,Parlantes Bluetooth,,9.0,2024-09-17,Electrónica
+1232,Microondas,,6.0,2024-09-18,Electrodomésticos
+242,Cuadro decorativo,,11.0,2024-09-19,Decoración
+512,Cuadro decorativo,,7.0,2024-09-19,Decoración
+900,Adorno de pared,,9.0,2024-09-19,Decoración
+1129,Batidora,,3.0,2024-09-19,Electrodomésticos
+1389,Batidora,,9.0,2024-09-19,Electrodomésticos
+1585,Lavadora,,8.0,2024-09-19,Electrodomésticos
+1699,Batidora,,5.0,2024-09-19,Electrodomésticos
+2152,Televisor,,3.0,2024-09-19,Electrónica
+2330,Consola de videojuegos,,4.0,2024-09-19,Electrónica
+2606,Laptop,,2.0,2024-09-19,Electrónica
+2753,Smartphone,,12.0,2024-09-19,Electrónica
+1258,Cafetera,,6.0,2024-09-20,Electrodomésticos
+441,Lámpara de mesa,,11.0,2024-09-21,Decoración
+1538,Cafetera,,7.0,2024-09-21,Electrodomésticos
+1763,Microondas,,12.0,2024-09-21,Electrodomésticos
+1945,Lavadora,,10.0,2024-09-21,Electrodomésticos
+2430,Consola de videojuegos,,7.0,2024-09-21,Electrónica
+3,Espejo decorativo,,1.0,2024-09-22,Decoración
+250,Adorno de pared,,7.0,2024-09-22,Decoración
+573,Espejo decorativo,,4.0,2024-09-22,Decoración
+1681,Freidora eléctrica,,4.0,2024-09-22,Electrodomésticos
+1949,Batidora,,5.0,2024-09-22,Electrodomésticos
+68,Rincón de plantas,,4.0,2024-09-23,Decoración
+194,Jarrón decorativo,,11.0,2024-09-23,Decoración
+461,Lámpara de mesa,,3.0,2024-09-23,Decoración
+717,Elementos de cerámica,,11.0,2024-09-23,Decoración
+932,Cuadro decorativo,,4.0,2024-09-23,Decoración
+1782,Heladera,,12.0,2024-09-23,Electrodomésticos
+2331,Parlantes Bluetooth,,6.0,2024-09-23,Electrónica
+2632,Televisor,,2.0,2024-09-23,Electrónica
+478,Rincón de plantas,,10.0,2024-09-24,Decoración
+531,Lámpara de mesa,,4.0,2024-09-24,Decoración
+580,Adorno de pared,,12.0,2024-09-24,Decoración
+960,Adorno de pared,,8.0,2024-09-24,Decoración
+1298,Cafetera,,6.0,2024-09-24,Electrodomésticos
+1461,Freidora eléctrica,,12.0,2024-09-24,Electrodomésticos
+2446,Laptop,,2.0,2024-09-24,Electrónica
+93,Espejo decorativo,,9.0,2024-09-25,Decoración
+437,Elementos de cerámica,,9.0,2024-09-25,Decoración
+750,Adorno de pared,,2.0,2024-09-25,Decoración
+956,Cortinas,,2.0,2024-09-25,Decoración
+1359,Batidora,,11.0,2024-09-25,Electrodomésticos
+1482,Heladera,,12.0,2024-09-25,Electrodomésticos
+2202,Televisor,,7.0,2024-09-25,Electrónica
+2248,SmartWatch,,8.0,2024-09-25,Electrónica
+2317,Cámara digital,,7.0,2024-09-25,Electrónica
+2500,Consola de videojuegos,,8.0,2024-09-25,Electrónica
+103,Espejo decorativo,,11.0,2024-09-26,Decoración
+666,Cortinas,,4.0,2024-09-26,Decoración
+698,Rincón de plantas,,10.0,2024-09-26,Decoración
+1228,Cafetera,,4.0,2024-09-26,Electrodomésticos
+2400,Consola de videojuegos,,12.0,2024-09-26,Electrónica
+2793,Smartphone,,8.0,2024-09-26,Electrónica
+2994,Auriculares,,9.0,2024-09-26,Electrónica
+379,Lámpara de mesa,,7.0,2024-09-27,Decoración
+409,Lámpara de mesa,,5.0,2024-09-27,Decoración
+445,Alfombra,,12.0,2024-09-27,Decoración
+842,Cuadro decorativo,,2.0,2024-09-27,Decoración
+1674,Aspiradora,,8.0,2024-09-27,Electrodomésticos
+2000,Plancha de vapor,,3.0,2024-09-27,Electrodomésticos
+2190,Consola de videojuegos,,3.0,2024-09-27,Electrónica
+2686,Laptop,,11.0,2024-09-27,Electrónica
+304,Jarrón decorativo,,4.0,2024-09-28,Decoración
+562,Cuadro decorativo,,3.0,2024-09-28,Decoración
+1247,Horno eléctrico,,4.0,2024-09-28,Electrodomésticos
+2117,Cámara digital,,11.0,2024-09-28,Electrónica
+2341,Parlantes Bluetooth,,2.0,2024-09-28,Electrónica
+2820,Consola de videojuegos,,6.0,2024-09-28,Electrónica
+26,Cortinas,,11.0,2024-09-29,Decoración
+614,Jarrón decorativo,,7.0,2024-09-29,Decoración
+1268,Cafetera,,12.0,2024-09-29,Electrodomésticos
+1408,Cafetera,,11.0,2024-09-29,Electrodomésticos
+1522,Heladera,,12.0,2024-09-29,Electrodomésticos
+1528,Cafetera,,12.0,2024-09-29,Electrodomésticos
+1679,Batidora,,12.0,2024-09-29,Electrodomésticos
+1704,Aspiradora,,9.0,2024-09-29,Electrodomésticos
+2168,SmartWatch,,8.0,2024-09-29,Electrónica
+2450,Consola de videojuegos,,4.0,2024-09-29,Electrónica
+2467,Cámara digital,,7.0,2024-09-29,Electrónica
+2600,Consola de videojuegos,,3.0,2024-09-29,Electrónica
+2864,Tablet,,6.0,2024-09-29,Electrónica
+2925,Auriculares,,4.0,2024-09-29,Electrónica
+232,Cuadro decorativo,,6.0,2024-09-30,Decoración
+385,Alfombra,,3.0,2024-09-30,Decoración
+415,Alfombra,,5.0,2024-09-30,Decoración
+500,Adorno de pared,,4.0,2024-09-30,Decoración
+565,Alfombra,,2.0,2024-09-30,Decoración
+683,Espejo decorativo,,5.0,2024-09-30,Decoración
+705,Alfombra,,3.0,2024-09-30,Decoración
+899,Candelabro,,6.0,2024-09-30,Decoración
+996,Cortinas,,3.0,2024-09-30,Decoración
+1187,Horno eléctrico,,8.0,2024-09-30,Electrodomésticos
+1411,Freidora eléctrica,,5.0,2024-09-30,Electrodomésticos
+1511,Freidora eléctrica,,2.0,2024-09-30,Electrodomésticos
+1644,Aspiradora,,11.0,2024-09-30,Electrodomésticos
+2031,Parlantes Bluetooth,,4.0,2024-09-30,Electrónica
+2141,Parlantes Bluetooth,,12.0,2024-09-30,Electrónica
+521,Lámpara de mesa,,6.0,2024-10-01,Decoración
+590,Adorno de pared,,8.0,2024-10-01,Decoración
+892,Cuadro decorativo,,3.0,2024-10-01,Decoración
+968,Rincón de plantas,,3.0,2024-10-01,Decoración
+1062,Heladera,,4.0,2024-10-01,Electrodomésticos
+1423,Microondas,,12.0,2024-10-01,Electrodomésticos
+2271,Parlantes Bluetooth,,1.0,2024-10-01,Electrónica
+2295,Auriculares,,2.0,2024-10-01,Electrónica
+1345,Lavadora,,4.0,2024-10-02,Electrodomésticos
+2012,Televisor,,7.0,2024-10-02,Electrónica
+2226,Laptop,,5.0,2024-10-02,Electrónica
+2442,Televisor,,4.0,2024-10-02,Electrónica
+2576,Laptop,,10.0,2024-10-02,Electrónica
+2656,Laptop,,9.0,2024-10-02,Electrónica
+2915,Auriculares,,11.0,2024-10-02,Electrónica
+38,Rincón de plantas,,4.0,2024-10-03,Decoración
+681,Lámpara de mesa,,1.0,2024-10-03,Decoración
+1815,Lavadora,,5.0,2024-10-03,Electrodomésticos
+2703,Smartphone,,12.0,2024-10-03,Electrónica
+2725,Auriculares,,1.0,2024-10-03,Electrónica
+786,Cortinas,,8.0,2024-10-04,Decoración
+1358,Cafetera,,12.0,2024-10-04,Electrodomésticos
+1709,Batidora,,10.0,2024-10-04,Electrodomésticos
+1857,Horno eléctrico,,5.0,2024-10-04,Electrodomésticos
+2406,Laptop,,10.0,2024-10-04,Electrónica
+2538,SmartWatch,,12.0,2024-10-04,Electrónica
+753,Espejo decorativo,,4.0,2024-10-05,Decoración
+898,Rincón de plantas,,11.0,2024-10-05,Decoración
+924,Jarrón decorativo,,11.0,2024-10-05,Decoración
+1650,Plancha de vapor,,2.0,2024-10-05,Electrodomésticos
+1779,Batidora,,4.0,2024-10-05,Electrodomésticos
+1796,Secadora,,11.0,2024-10-05,Electrodomésticos
+2841,Parlantes Bluetooth,,10.0,2024-10-05,Electrónica
+1280,Plancha de vapor,,7.0,2024-10-06,Electrodomésticos
+1595,Lavadora,,4.0,2024-10-06,Electrodomésticos
+1711,Freidora eléctrica,,2.0,2024-10-06,Electrodomésticos
+2417,Cámara digital,,2.0,2024-10-06,Electrónica
+2443,Smartphone,,5.0,2024-10-06,Electrónica
+158,Rincón de plantas,,8.0,2024-10-07,Decoración
+223,Espejo decorativo,,3.0,2024-10-07,Decoración
+474,Jarrón decorativo,,10.0,2024-10-07,Decoración
+1032,Heladera,,11.0,2024-10-07,Electrodomésticos
+1141,Freidora eléctrica,,12.0,2024-10-07,Electrodomésticos
+1738,Cafetera,,3.0,2024-10-07,Electrodomésticos
+2188,SmartWatch,,4.0,2024-10-07,Electrónica
+2433,Smartphone,,5.0,2024-10-07,Electrónica
+2515,Auriculares,,1.0,2024-10-07,Electrónica
+2608,SmartWatch,,5.0,2024-10-07,Electrónica
+2831,Parlantes Bluetooth,,10.0,2024-10-07,Electrónica
+6,Cortinas,,11.0,2024-10-08,Decoración
+670,Adorno de pared,,7.0,2024-10-08,Decoración
+816,Cortinas,,11.0,2024-10-08,Decoración
+991,Lámpara de mesa,,12.0,2024-10-08,Decoración
+1204,Aspiradora,,2.0,2024-10-08,Electrodomésticos
+2533,Smartphone,,1.0,2024-10-08,Electrónica
+2598,SmartWatch,,7.0,2024-10-08,Electrónica
+2724,Tablet,,5.0,2024-10-08,Electrónica
+2738,SmartWatch,,3.0,2024-10-08,Electrónica
+134,Jarrón decorativo,,11.0,2024-10-09,Decoración
+2353,Smartphone,,8.0,2024-10-09,Electrónica
+2376,Laptop,,5.0,2024-10-09,Electrónica
+60,Adorno de pared,,9.0,2024-10-10,Decoración
+117,Elementos de cerámica,,4.0,2024-10-10,Decoración
+364,Jarrón decorativo,,12.0,2024-10-10,Decoración
+498,Rincón de plantas,,4.0,2024-10-10,Decoración
+668,Rincón de plantas,,8.0,2024-10-10,Decoración
+1133,Microondas,,3.0,2024-10-10,Electrodomésticos
+1221,Freidora eléctrica,,11.0,2024-10-10,Electrodomésticos
+1233,Microondas,,12.0,2024-10-10,Electrodomésticos
+1239,Batidora,,2.0,2024-10-10,Electrodomésticos
+1724,Aspiradora,,1.0,2024-10-10,Electrodomésticos
+2389,Proyector,,5.0,2024-10-10,Electrónica
+2671,Parlantes Bluetooth,,6.0,2024-10-10,Electrónica
+2692,Televisor,,2.0,2024-10-10,Electrónica
+2998,Proyector,,10.0,2024-10-10,Electrónica
+382,Cuadro decorativo,,3.0,2024-10-11,Decoración
+438,Rincón de plantas,,10.0,2024-10-11,Decoración
+584,Jarrón decorativo,,8.0,2024-10-11,Decoración
+778,Rincón de plantas,,5.0,2024-10-11,Decoración
+867,Elementos de cerámica,,5.0,2024-10-11,Decoración
+1113,Microondas,,3.0,2024-10-11,Electrodomésticos
+1567,Horno eléctrico,,4.0,2024-10-11,Electrodomésticos
+1610,Plancha de vapor,,1.0,2024-10-11,Electrodomésticos
+2258,SmartWatch,,5.0,2024-10-11,Electrónica
+2732,Televisor,,5.0,2024-10-11,Electrónica
+97,Elementos de cerámica,,9.0,2024-10-12,Decoración
+317,Elementos de cerámica,,11.0,2024-10-12,Decoración
+472,Cuadro decorativo,,2.0,2024-10-12,Decoración
+725,Alfombra,,11.0,2024-10-12,Decoración
+1890,Plancha de vapor,,9.0,2024-10-12,Electrodomésticos
+2137,Cámara digital,,1.0,2024-10-12,Electrónica
+2242,Televisor,,7.0,2024-10-12,Electrónica
+2352,Televisor,,2.0,2024-10-12,Electrónica
+2359,Proyector,,10.0,2024-10-12,Electrónica
+2470,Consola de videojuegos,,9.0,2024-10-12,Electrónica
+2821,Parlantes Bluetooth,,9.0,2024-10-12,Electrónica
+646,Cortinas,,6.0,2024-10-13,Decoración
+1034,Aspiradora,,2.0,2024-10-13,Electrodomésticos
+2075,Auriculares,,7.0,2024-10-13,Electrónica
+2710,Consola de videojuegos,,7.0,2024-10-13,Electrónica
+182,Cuadro decorativo,,11.0,2024-10-14,Decoración
+1178,Cafetera,,8.0,2024-10-14,Electrodomésticos
+1687,Horno eléctrico,,5.0,2024-10-14,Electrodomésticos
+1850,Plancha de vapor,,5.0,2024-10-14,Electrodomésticos
+2291,Parlantes Bluetooth,,5.0,2024-10-14,Electrónica
+520,Adorno de pared,,5.0,2024-10-15,Decoración
+564,Jarrón decorativo,,7.0,2024-10-15,Decoración
+990,Adorno de pared,,3.0,2024-10-15,Decoración
+999,Candelabro,,5.0,2024-10-15,Decoración
+1308,Cafetera,,7.0,2024-10-15,Electrodomésticos
+2667,Cámara digital,,4.0,2024-10-15,Electrónica
+2960,Consola de videojuegos,,11.0,2024-10-15,Electrónica
+1321,Freidora eléctrica,,4.0,2024-10-16,Electrodomésticos
+1637,Horno eléctrico,,11.0,2024-10-16,Electrodomésticos
+2427,Cámara digital,,1.0,2024-10-16,Electrónica
+2448,SmartWatch,,12.0,2024-10-16,Electrónica
+266,Cortinas,,5.0,2024-10-17,Decoración
+278,Rincón de plantas,,10.0,2024-10-17,Decoración
+329,Candelabro,,11.0,2024-10-17,Decoración
+355,Alfombra,,4.0,2024-10-17,Decoración
+440,Adorno de pared,,2.0,2024-10-17,Decoración
+1326,Secadora,,7.0,2024-10-18,Electrodomésticos
+1512,Heladera,,10.0,2024-10-18,Electrodomésticos
+1534,Aspiradora,,8.0,2024-10-18,Electrodomésticos
+2614,Auriculares,,4.0,2024-10-18,Electrónica
+9,Candelabro,,5.0,2024-10-19,Decoración
+1574,Aspiradora,,10.0,2024-10-19,Electrodomésticos
+1615,Lavadora,,1.0,2024-10-19,Electrodomésticos
+1713,Microondas,,5.0,2024-10-19,Electrodomésticos
+1859,Batidora,,8.0,2024-10-19,Electrodomésticos
+2886,Laptop,,12.0,2024-10-19,Electrónica
+33,Espejo decorativo,,7.0,2024-10-20,Decoración
+72,Cuadro decorativo,,1.0,2024-10-20,Decoración
+2923,Smartphone,,5.0,2024-10-20,Electrónica
+2933,Smartphone,,5.0,2024-10-20,Electrónica
+591,Lámpara de mesa,,1.0,2024-10-21,Decoración
+620,Adorno de pared,,4.0,2024-10-21,Decoración
+680,Adorno de pared,,3.0,2024-10-21,Decoración
+864,Jarrón decorativo,,2.0,2024-10-21,Decoración
+1215,Lavadora,,10.0,2024-10-21,Electrodomésticos
+1385,Lavadora,,3.0,2024-10-21,Electrodomésticos
+18,Rincón de plantas,,3.0,2024-10-22,Decoración
+776,Cortinas,,1.0,2024-10-22,Decoración
+942,Cuadro decorativo,,8.0,2024-10-22,Decoración
+1766,Secadora,,9.0,2024-10-22,Electrodomésticos
+1891,Freidora eléctrica,,6.0,2024-10-22,Electrodomésticos
+2043,Smartphone,,4.0,2024-10-22,Electrónica
+2128,SmartWatch,,6.0,2024-10-22,Electrónica
+2472,Televisor,,1.0,2024-10-22,Electrónica
+2940,Consola de videojuegos,,6.0,2024-10-22,Electrónica
+596,Cortinas,,7.0,2024-10-23,Decoración
+1206,Secadora,,1.0,2024-10-23,Electrodomésticos
+1214,Aspiradora,,3.0,2024-10-23,Electrodomésticos
+2051,Parlantes Bluetooth,,9.0,2024-10-23,Electrónica
+2071,Parlantes Bluetooth,,12.0,2024-10-23,Electrónica
+2094,Auriculares,,5.0,2024-10-23,Electrónica
+2562,Televisor,,9.0,2024-10-23,Electrónica
+2914,Auriculares,,5.0,2024-10-23,Electrónica
+2965,Auriculares,,11.0,2024-10-23,Electrónica
+1716,Secadora,,10.0,2024-10-24,Electrodomésticos
+1925,Lavadora,,4.0,2024-10-24,Electrodomésticos
+2183,Smartphone,,7.0,2024-10-24,Electrónica
+2783,Smartphone,,8.0,2024-10-24,Electrónica
+1014,Aspiradora,,12.0,2024-10-25,Electrodomésticos
+1357,Horno eléctrico,,11.0,2024-10-25,Electrodomésticos
+1388,Cafetera,,1.0,2024-10-25,Electrodomésticos
+2103,Smartphone,,10.0,2024-10-25,Electrónica
+2132,Televisor,,7.0,2024-10-25,Electrónica
+2311,Parlantes Bluetooth,,6.0,2024-10-25,Electrónica
+2607,Cámara digital,,10.0,2024-10-25,Electrónica
+2781,Parlantes Bluetooth,,12.0,2024-10-25,Electrónica
+114,Jarrón decorativo,,6.0,2024-10-26,Decoración
+690,Adorno de pared,,8.0,2024-10-26,Decoración
+853,Espejo decorativo,,7.0,2024-10-26,Decoración
+1354,Aspiradora,,4.0,2024-10-26,Electrodomésticos
+1449,Batidora,,12.0,2024-10-26,Electrodomésticos
+1577,Horno eléctrico,,1.0,2024-10-26,Electrodomésticos
+1676,Secadora,,9.0,2024-10-26,Electrodomésticos
+1733,Microondas,,11.0,2024-10-26,Electrodomésticos
+1987,Horno eléctrico,,6.0,2024-10-26,Electrodomésticos
+2198,SmartWatch,,7.0,2024-10-26,Electrónica
+2285,Auriculares,,1.0,2024-10-26,Electrónica
+2878,SmartWatch,,5.0,2024-10-26,Electrónica
+25,Alfombra,,1.0,2024-10-27,Decoración
+674,Jarrón decorativo,,9.0,2024-10-27,Decoración
+755,Alfombra,,3.0,2024-10-27,Decoración
+835,Alfombra,,6.0,2024-10-27,Decoración
+1005,Lavadora,,3.0,2024-10-27,Electrodomésticos
+1033,Microondas,,3.0,2024-10-27,Electrodomésticos
+1092,Heladera,,6.0,2024-10-27,Electrodomésticos
+1094,Aspiradora,,8.0,2024-10-27,Electrodomésticos
+1349,Batidora,,5.0,2024-10-27,Electrodomésticos
+1519,Batidora,,11.0,2024-10-27,Electrodomésticos
+1601,Freidora eléctrica,,11.0,2024-10-27,Electrodomésticos
+2808,SmartWatch,,9.0,2024-10-27,Electrónica
+343,Espejo decorativo,,4.0,2024-10-28,Decoración
+499,Candelabro,,2.0,2024-10-28,Decoración
+857,Elementos de cerámica,,8.0,2024-10-28,Decoración
+1144,Aspiradora,,7.0,2024-10-28,Electrodomésticos
+1487,Horno eléctrico,,9.0,2024-10-28,Electrodomésticos
+1659,Batidora,,6.0,2024-10-28,Electrodomésticos
+1911,Freidora eléctrica,,1.0,2024-10-28,Electrodomésticos
+2217,Cámara digital,,11.0,2024-10-28,Electrónica
+657,Elementos de cerámica,,3.0,2024-10-29,Decoración
+1556,Secadora,,3.0,2024-10-29,Electrodomésticos
+1930,Plancha de vapor,,5.0,2024-10-29,Electrodomésticos
+2033,Smartphone,,11.0,2024-10-29,Electrónica
+2107,Cámara digital,,3.0,2024-10-29,Electrónica
+2529,Proyector,,4.0,2024-10-29,Electrónica
+2553,Smartphone,,3.0,2024-10-29,Electrónica
+2660,Consola de videojuegos,,4.0,2024-10-29,Electrónica
+2774,Auriculares,,7.0,2024-10-29,Electrónica
+190,Adorno de pared,,10.0,2024-10-30,Decoración
+1395,Lavadora,,12.0,2024-10-30,Electrodomésticos
+1403,Microondas,,1.0,2024-10-30,Electrodomésticos
+1872,Heladera,,2.0,2024-10-30,Electrodomésticos
+2081,Parlantes Bluetooth,,10.0,2024-10-30,Electrónica
+2449,Proyector,,4.0,2024-10-30,Electrónica
+2536,Laptop,,1.0,2024-10-30,Electrónica
+47,Elementos de cerámica,,11.0,2024-10-31,Decoración
+58,Rincón de plantas,,12.0,2024-10-31,Decoración
+346,Cortinas,,3.0,2024-10-31,Decoración
+523,Espejo decorativo,,12.0,2024-10-31,Decoración
+539,Candelabro,,12.0,2024-10-31,Decoración
+2166,Laptop,,5.0,2024-10-31,Electrónica
+2178,SmartWatch,,8.0,2024-10-31,Electrónica
+2238,SmartWatch,,6.0,2024-10-31,Electrónica
+2483,Smartphone,,4.0,2024-10-31,Electrónica
+2817,Cámara digital,,9.0,2024-10-31,Electrónica
+2890,Consola de videojuegos,,5.0,2024-10-31,Electrónica
+4,Jarrón decorativo,,12.0,2024-11-01,Decoración
+284,Jarrón decorativo,,7.0,2024-11-01,Decoración
+582,Cuadro decorativo,,10.0,2024-11-01,Decoración
+2657,Cámara digital,,8.0,2024-11-01,Electrónica
+2736,Laptop,,1.0,2024-11-01,Electrónica
+5,Alfombra,,4.0,2024-11-02,Decoración
+102,Cuadro decorativo,,3.0,2024-11-02,Decoración
+605,Alfombra,,6.0,2024-11-02,Decoración
+773,Espejo decorativo,,8.0,2024-11-02,Decoración
+808,Rincón de plantas,,11.0,2024-11-02,Decoración
+1293,Microondas,,11.0,2024-11-02,Electrodomésticos
+1415,Lavadora,,10.0,2024-11-02,Electrodomésticos
+1559,Batidora,,4.0,2024-11-02,Electrodomésticos
+1780,Plancha de vapor,,1.0,2024-11-02,Electrodomésticos
+1049,Batidora,,8.0,2024-11-03,Electrodomésticos
+1420,Plancha de vapor,,6.0,2024-11-03,Electrodomésticos
+610,Adorno de pared,,8.0,2024-11-04,Decoración
+1262,Heladera,,1.0,2024-11-04,Electrodomésticos
+27,Elementos de cerámica,,11.0,2024-11-05,Decoración
+552,Cuadro decorativo,,11.0,2024-11-05,Decoración
+587,Elementos de cerámica,,9.0,2024-11-05,Decoración
+642,Cuadro decorativo,,7.0,2024-11-05,Decoración
+1071,Freidora eléctrica,,2.0,2024-11-05,Electrodomésticos
+1283,Microondas,,9.0,2024-11-05,Electrodomésticos
+1466,Secadora,,5.0,2024-11-05,Electrodomésticos
+1810,Plancha de vapor,,11.0,2024-11-05,Electrodomésticos
+142,Cuadro decorativo,,10.0,2024-11-06,Decoración
+464,Jarrón decorativo,,11.0,2024-11-06,Decoración
+597,Elementos de cerámica,,8.0,2024-11-06,Decoración
+634,Jarrón decorativo,,4.0,2024-11-06,Decoración
+719,Lámpara de mesa,,2.0,2024-11-06,Decoración
+758,Rincón de plantas,,10.0,2024-11-06,Decoración
+875,Alfombra,,5.0,2024-11-06,Decoración
+2412,Televisor,,8.0,2024-11-06,Electrónica
+263,Espejo decorativo,,6.0,2024-11-07,Decoración
+273,Espejo decorativo,,10.0,2024-11-07,Decoración
+825,Alfombra,,1.0,2024-11-07,Decoración
+862,Cuadro decorativo,,8.0,2024-11-07,Decoración
+1493,Microondas,,12.0,2024-11-07,Electrodomésticos
+1790,Plancha de vapor,,5.0,2024-11-07,Electrodomésticos
+1875,Lavadora,,6.0,2024-11-07,Electrodomésticos
+2113,Smartphone,,2.0,2024-11-07,Electrónica
+2250,Consola de videojuegos,,11.0,2024-11-07,Electrónica
+2335,Auriculares,,8.0,2024-11-07,Electrónica
+2357,Cámara digital,,1.0,2024-11-07,Electrónica
+2401,Parlantes Bluetooth,,11.0,2024-11-07,Electrónica
+2909,Proyector,,12.0,2024-11-07,Electrónica
+636,Cortinas,,1.0,2024-11-08,Decoración
+761,Lámpara de mesa,,10.0,2024-11-08,Decoración
+951,Lámpara de mesa,,9.0,2024-11-08,Decoración
+1098,Cafetera,,7.0,2024-11-08,Electrodomésticos
+1348,Cafetera,,10.0,2024-11-08,Electrodomésticos
+2351,Parlantes Bluetooth,,3.0,2024-11-08,Electrónica
+2411,Parlantes Bluetooth,,8.0,2024-11-08,Electrónica
+481,Lámpara de mesa,,3.0,2024-11-09,Decoración
+576,Cortinas,,8.0,2024-11-09,Decoración
+861,Lámpara de mesa,,4.0,2024-11-09,Decoración
+889,Lámpara de mesa,,7.0,2024-11-09,Decoración
+1527,Horno eléctrico,,3.0,2024-11-09,Electrodomésticos
+2507,Cámara digital,,8.0,2024-11-09,Electrónica
+2589,Proyector,,8.0,2024-11-09,Electrónica
+2850,Consola de videojuegos,,4.0,2024-11-09,Electrónica
+2908,SmartWatch,,4.0,2024-11-09,Electrónica
+327,Elementos de cerámica,,9.0,2024-11-10,Decoración
+1021,Freidora eléctrica,,6.0,2024-11-10,Electrodomésticos
+1200,Plancha de vapor,,10.0,2024-11-10,Electrodomésticos
+1243,Microondas,,12.0,2024-11-10,Electrodomésticos
+1619,Batidora,,3.0,2024-11-10,Electrodomésticos
+2010,Consola de videojuegos,,2.0,2024-11-10,Electrónica
+2087,Cámara digital,,3.0,2024-11-10,Electrónica
+2573,Smartphone,,7.0,2024-11-10,Electrónica
+217,Elementos de cerámica,,2.0,2024-11-11,Decoración
+272,Cuadro decorativo,,10.0,2024-11-11,Decoración
+545,Alfombra,,1.0,2024-11-11,Decoración
+688,Rincón de plantas,,11.0,2024-11-11,Decoración
+1430,Plancha de vapor,,9.0,2024-11-11,Electrodomésticos
+1497,Horno eléctrico,,10.0,2024-11-11,Electrodomésticos
+1509,Batidora,,10.0,2024-11-11,Electrodomésticos
+2060,Consola de videojuegos,,5.0,2024-11-11,Electrónica
+2263,Smartphone,,6.0,2024-11-11,Electrónica
+2558,SmartWatch,,7.0,2024-11-11,Electrónica
+2814,Auriculares,,9.0,2024-11-11,Electrónica
+420,Adorno de pared,,4.0,2024-11-12,Decoración
+514,Jarrón decorativo,,10.0,2024-11-12,Decoración
+544,Jarrón decorativo,,5.0,2024-11-12,Decoración
+880,Adorno de pared,,10.0,2024-11-12,Decoración
+1908,Cafetera,,3.0,2024-11-12,Electrodomésticos
+655,Alfombra,,11.0,2024-11-13,Decoración
+1111,Freidora eléctrica,,12.0,2024-11-13,Electrodomésticos
+2118,SmartWatch,,5.0,2024-11-13,Electrónica
+2208,SmartWatch,,10.0,2024-11-13,Electrónica
+36,Cortinas,,5.0,2024-11-14,Decoración
+316,Cortinas,,2.0,2024-11-14,Decoración
+885,Alfombra,,1.0,2024-11-14,Decoración
+1566,Secadora,,8.0,2024-11-14,Electrodomésticos
+1753,Microondas,,9.0,2024-11-14,Electrodomésticos
+2316,Laptop,,3.0,2024-11-14,Electrónica
+2374,Auriculares,,12.0,2024-11-14,Electrónica
+2958,SmartWatch,,10.0,2024-11-14,Electrónica
+671,Lámpara de mesa,,7.0,2024-11-15,Decoración
+1462,Heladera,,12.0,2024-11-15,Electrodomésticos
+1463,Microondas,,10.0,2024-11-15,Electrodomésticos
+1517,Horno eléctrico,,8.0,2024-11-15,Electrodomésticos
+1564,Aspiradora,,1.0,2024-11-15,Electrodomésticos
+1621,Freidora eléctrica,,9.0,2024-11-15,Electrodomésticos
+1749,Batidora,,9.0,2024-11-15,Electrodomésticos
+1912,Heladera,,8.0,2024-11-15,Electrodomésticos
+2727,Cámara digital,,12.0,2024-11-15,Electrónica
+618,Rincón de plantas,,8.0,2024-11-16,Decoración
+944,Jarrón decorativo,,1.0,2024-11-16,Decoración
+1015,Lavadora,,12.0,2024-11-16,Electrodomésticos
+1671,Freidora eléctrica,,8.0,2024-11-16,Electrodomésticos
+2025,Auriculares,,2.0,2024-11-16,Electrónica
+2602,Televisor,,4.0,2024-11-16,Electrónica
+21,Lámpara de mesa,,12.0,2024-11-17,Decoración
+227,Elementos de cerámica,,11.0,2024-11-17,Decoración
+361,Lámpara de mesa,,2.0,2024-11-17,Decoración
+757,Elementos de cerámica,,10.0,2024-11-17,Decoración
+779,Lámpara de mesa,,9.0,2024-11-17,Decoración
+1137,Horno eléctrico,,7.0,2024-11-17,Electrodomésticos
+1165,Lavadora,,9.0,2024-11-17,Electrodomésticos
+1651,Freidora eléctrica,,10.0,2024-11-17,Electrodomésticos
+2074,Auriculares,,1.0,2024-11-17,Electrónica
+2631,Parlantes Bluetooth,,11.0,2024-11-17,Electrónica
+2881,Parlantes Bluetooth,,11.0,2024-11-17,Electrónica
+70,Adorno de pared,,12.0,2024-11-18,Decoración
+371,Lámpara de mesa,,12.0,2024-11-18,Decoración
+389,Lámpara de mesa,,4.0,2024-11-18,Decoración
+431,Lámpara de mesa,,6.0,2024-11-18,Decoración
+883,Espejo decorativo,,8.0,2024-11-18,Decoración
+1142,Heladera,,3.0,2024-11-18,Electrodomésticos
+1314,Aspiradora,,6.0,2024-11-18,Electrodomésticos
+1365,Lavadora,,1.0,2024-11-18,Electrodomésticos
+1605,Lavadora,,1.0,2024-11-18,Electrodomésticos
+1691,Freidora eléctrica,,12.0,2024-11-18,Electrodomésticos
+1818,Cafetera,,1.0,2024-11-18,Electrodomésticos
+1942,Heladera,,12.0,2024-11-18,Electrodomésticos
+1991,Freidora eléctrica,,5.0,2024-11-18,Electrodomésticos
+2274,Auriculares,,1.0,2024-11-18,Electrónica
+2441,Parlantes Bluetooth,,4.0,2024-11-18,Electrónica
+2638,SmartWatch,,5.0,2024-11-18,Electrónica
+136,Cortinas,,7.0,2024-11-19,Decoración
+589,Lámpara de mesa,,2.0,2024-11-19,Decoración
+801,Lámpara de mesa,,9.0,2024-11-19,Decoración
+1159,Batidora,,7.0,2024-11-19,Electrodomésticos
+1836,Secadora,,4.0,2024-11-19,Electrodomésticos
+1913,Microondas,,12.0,2024-11-19,Electrodomésticos
+2872,Televisor,,3.0,2024-11-19,Electrónica
+119,Lámpara de mesa,,11.0,2024-11-20,Decoración
+152,Cuadro decorativo,,4.0,2024-11-20,Decoración
+592,Cuadro decorativo,,9.0,2024-11-20,Decoración
+676,Cortinas,,5.0,2024-11-20,Decoración
+1079,Batidora,,2.0,2024-11-20,Electrodomésticos
+1302,Heladera,,2.0,2024-11-20,Electrodomésticos
+1498,Cafetera,,7.0,2024-11-20,Electrodomésticos
+1774,Aspiradora,,3.0,2024-11-20,Electrodomésticos
+1881,Freidora eléctrica,,9.0,2024-11-20,Electrodomésticos
+1993,Microondas,,5.0,2024-11-20,Electrodomésticos
+2009,Proyector,,10.0,2024-11-20,Electrónica
+2591,Parlantes Bluetooth,,8.0,2024-11-20,Electrónica
+1542,Microondas,,3.0,2024-11-21,Electrodomésticos
+1951,Freidora eléctrica,,5.0,2024-11-21,Electrodomésticos
+2179,Proyector,,11.0,2024-11-21,Electrónica
+2977,Cámara digital,,12.0,2024-11-21,Electrónica
+384,Jarrón decorativo,,6.0,2024-11-22,Decoración
+837,Elementos de cerámica,,12.0,2024-11-22,Decoración
+907,Elementos de cerámica,,8.0,2024-11-22,Decoración
+1309,Batidora,,5.0,2024-11-22,Electrodomésticos
+1759,Batidora,,2.0,2024-11-22,Electrodomésticos
+2391,Parlantes Bluetooth,,10.0,2024-11-22,Electrónica
+338,Rincón de plantas,,12.0,2024-11-23,Decoración
+394,Jarrón decorativo,,10.0,2024-11-23,Decoración
+785,Alfombra,,5.0,2024-11-23,Decoración
+2194,Auriculares,,11.0,2024-11-23,Electrónica
+2410,Consola de videojuegos,,10.0,2024-11-23,Electrónica
+2479,Proyector,,3.0,2024-11-23,Electrónica
+2670,Consola de videojuegos,,3.0,2024-11-23,Electrónica
+238,Rincón de plantas,,12.0,2024-11-24,Decoración
+923,Espejo decorativo,,2.0,2024-11-24,Decoración
+1692,Microondas,,9.0,2024-11-24,Electrodomésticos
+2149,Proyector,,5.0,2024-11-24,Electrónica
+2303,Smartphone,,12.0,2024-11-24,Electrónica
+2387,Cámara digital,,5.0,2024-11-24,Electrónica
+2651,Parlantes Bluetooth,,6.0,2024-11-24,Electrónica
+2970,Consola de videojuegos,,5.0,2024-11-24,Electrónica
+1328,Cafetera,,3.0,2024-11-25,Electrodomésticos
+1396,Secadora,,4.0,2024-11-25,Electrodomésticos
+1828,Cafetera,,12.0,2024-11-25,Electrodomésticos
+2172,Televisor,,8.0,2024-11-25,Electrónica
+2371,Parlantes Bluetooth,,4.0,2024-11-25,Electrónica
+153,Espejo decorativo,,10.0,2024-11-26,Decoración
+225,Alfombra,,6.0,2024-11-26,Decoración
+326,Cortinas,,2.0,2024-11-26,Decoración
+331,Lámpara de mesa,,3.0,2024-11-26,Decoración
+1043,Microondas,,3.0,2024-11-26,Electrodomésticos
+1158,Cafetera,,7.0,2024-11-26,Electrodomésticos
+1301,Freidora eléctrica,,5.0,2024-11-26,Electrodomésticos
+1544,Aspiradora,,8.0,2024-11-26,Electrodomésticos
+1771,Freidora eléctrica,,2.0,2024-11-26,Electrodomésticos
+1781,Freidora eléctrica,,7.0,2024-11-26,Electrodomésticos
+1928,Cafetera,,2.0,2024-11-26,Electrodomésticos
+1980,Plancha de vapor,,2.0,2024-11-26,Electrodomésticos
+2086,Laptop,,7.0,2024-11-26,Electrónica
+2569,Proyector,,5.0,2024-11-26,Electrónica
+2707,Cámara digital,,6.0,2024-11-26,Electrónica
+451,Lámpara de mesa,,7.0,2024-11-27,Decoración
+715,Alfombra,,3.0,2024-11-27,Decoración
+1100,Plancha de vapor,,5.0,2024-11-27,Electrodomésticos
+1211,Freidora eléctrica,,7.0,2024-11-27,Electrodomésticos
+1352,Microondas,,3.0,2024-11-27,Electrodomésticos
+1576,Secadora,,4.0,2024-11-27,Electrodomésticos
+2111,Parlantes Bluetooth,,2.0,2024-11-27,Electrónica
+2253,Smartphone,,12.0,2024-11-27,Electrónica
+2421,Parlantes Bluetooth,,11.0,2024-11-27,Electrónica
+703,Espejo decorativo,,8.0,2024-11-28,Decoración
+1055,Lavadora,,11.0,2024-11-28,Electrodomésticos
+1718,Cafetera,,10.0,2024-11-28,Electrodomésticos
+1976,Secadora,,7.0,2024-11-28,Electrodomésticos
+2392,Televisor,,9.0,2024-11-28,Electrónica
+2586,Laptop,,2.0,2024-11-28,Electrónica
+2675,Auriculares,,6.0,2024-11-28,Electrónica
+184,Jarrón decorativo,,10.0,2024-11-29,Decoración
+798,Rincón de plantas,,3.0,2024-11-29,Decoración
+813,Espejo decorativo,,3.0,2024-11-29,Decoración
+974,Jarrón decorativo,,7.0,2024-11-29,Decoración
+1252,Microondas,,4.0,2024-11-29,Electrodomésticos
+1634,Aspiradora,,12.0,2024-11-29,Electrodomésticos
+1867,Horno eléctrico,,9.0,2024-11-29,Electrodomésticos
+2447,Cámara digital,,5.0,2024-11-29,Electrónica
+2976,Laptop,,9.0,2024-11-29,Electrónica
+413,Espejo decorativo,,7.0,2024-11-30,Decoración
+566,Cortinas,,8.0,2024-11-30,Decoración
+775,Alfombra,,7.0,2024-11-30,Decoración
+1727,Horno eléctrico,,2.0,2024-11-30,Electrodomésticos
+1769,Batidora,,2.0,2024-11-30,Electrodomésticos
+2109,Proyector,,8.0,2024-11-30,Electrónica
+2385,Auriculares,,4.0,2024-11-30,Electrónica
+2459,Proyector,,2.0,2024-11-30,Electrónica
+2556,Laptop,,10.0,2024-11-30,Electrónica
+2640,Consola de videojuegos,,9.0,2024-11-30,Electrónica
+2757,Cámara digital,,7.0,2024-11-30,Electrónica
+293,Espejo decorativo,,9.0,2024-12-01,Decoración
+511,Lámpara de mesa,,1.0,2024-12-01,Decoración
+881,Lámpara de mesa,,3.0,2024-12-01,Decoración
+936,Cortinas,,2.0,2024-12-01,Decoración
+1160,Plancha de vapor,,2.0,2024-12-01,Electrodomésticos
+1460,Plancha de vapor,,9.0,2024-12-01,Electrodomésticos
+1598,Cafetera,,5.0,2024-12-01,Electrodomésticos
+1849,Batidora,,9.0,2024-12-01,Electrodomésticos
+2386,Laptop,,7.0,2024-12-01,Electrónica
+57,Elementos de cerámica,,12.0,2024-12-02,Decoración
+144,Jarrón decorativo,,3.0,2024-12-02,Decoración
+640,Adorno de pared,,7.0,2024-12-02,Decoración
+863,Espejo decorativo,,9.0,2024-12-02,Decoración
+1101,Freidora eléctrica,,11.0,2024-12-02,Electrodomésticos
+1163,Microondas,,7.0,2024-12-02,Electrodomésticos
+1235,Lavadora,,7.0,2024-12-02,Electrodomésticos
+1367,Horno eléctrico,,8.0,2024-12-02,Electrodomésticos
+1797,Horno eléctrico,,9.0,2024-12-02,Electrodomésticos
+1880,Plancha de vapor,,5.0,2024-12-02,Electrodomésticos
+2036,Laptop,,4.0,2024-12-02,Electrónica
+2140,Consola de videojuegos,,7.0,2024-12-02,Electrónica
+2658,SmartWatch,,3.0,2024-12-02,Electrónica
+322,Cuadro decorativo,,6.0,2024-12-03,Decoración
+532,Cuadro decorativo,,4.0,2024-12-03,Decoración
+1379,Batidora,,5.0,2024-12-03,Electrodomésticos
+1865,Lavadora,,5.0,2024-12-03,Electrodomésticos
+2662,Televisor,,10.0,2024-12-03,Electrónica
+2846,Laptop,,10.0,2024-12-03,Electrónica
+555,Alfombra,,9.0,2024-12-04,Decoración
+1110,Plancha de vapor,,10.0,2024-12-04,Electrodomésticos
+1131,Freidora eléctrica,,5.0,2024-12-04,Electrodomésticos
+1324,Aspiradora,,5.0,2024-12-04,Electrodomésticos
+1636,Secadora,,6.0,2024-12-04,Electrodomésticos
+1656,Secadora,,7.0,2024-12-04,Electrodomésticos
+2197,Cámara digital,,6.0,2024-12-04,Electrónica
+2867,Cámara digital,,9.0,2024-12-04,Electrónica
+31,Lámpara de mesa,,8.0,2024-12-05,Decoración
+175,Alfombra,,2.0,2024-12-05,Decoración
+455,Alfombra,,11.0,2024-12-05,Decoración
+1469,Batidora,,8.0,2024-12-05,Electrodomésticos
+2090,Consola de videojuegos,,9.0,2024-12-05,Electrónica
+2206,Laptop,,7.0,2024-12-05,Electrónica
+2682,Televisor,,7.0,2024-12-05,Electrónica
+2689,Proyector,,9.0,2024-12-05,Electrónica
+1086,Secadora,,9.0,2024-12-06,Electrodomésticos
+1194,Aspiradora,,1.0,2024-12-06,Electrodomésticos
+1555,Lavadora,,3.0,2024-12-06,Electrodomésticos
+2332,Televisor,,11.0,2024-12-06,Electrónica
+2849,Proyector,,11.0,2024-12-06,Electrónica
+303,Espejo decorativo,,11.0,2024-12-07,Decoración
+561,Lámpara de mesa,,11.0,2024-12-07,Decoración
+876,Cortinas,,6.0,2024-12-07,Decoración
+1596,Secadora,,6.0,2024-12-07,Electrodomésticos
+1906,Secadora,,8.0,2024-12-07,Electrodomésticos
+2210,Consola de videojuegos,,11.0,2024-12-07,Electrónica
+130,Adorno de pared,,3.0,2024-12-08,Decoración
+542,Cuadro decorativo,,9.0,2024-12-08,Decoración
+1020,Plancha de vapor,,2.0,2024-12-08,Electrodomésticos
+1264,Aspiradora,,6.0,2024-12-08,Electrodomésticos
+1392,Microondas,,8.0,2024-12-08,Electrodomésticos
+2687,Cámara digital,,11.0,2024-12-08,Electrónica
+2949,Proyector,,10.0,2024-12-08,Electrónica
+1023,Microondas,,1.0,2024-12-09,Electrodomésticos
+1197,Horno eléctrico,,10.0,2024-12-09,Electrodomésticos
+1641,Freidora eléctrica,,5.0,2024-12-09,Electrodomésticos
+2597,Cámara digital,,1.0,2024-12-09,Electrónica
+67,Elementos de cerámica,,12.0,2024-12-10,Decoración
+265,Alfombra,,12.0,2024-12-10,Decoración
+313,Espejo decorativo,,1.0,2024-12-10,Decoración
+1267,Horno eléctrico,,7.0,2024-12-10,Electrodomésticos
+1447,Horno eléctrico,,9.0,2024-12-10,Electrodomésticos
+2020,Consola de videojuegos,,6.0,2024-12-10,Electrónica
+2337,Cámara digital,,9.0,2024-12-10,Electrónica
+2348,SmartWatch,,11.0,2024-12-10,Electrónica
+42,Cuadro decorativo,,11.0,2024-12-11,Decoración
+62,Cuadro decorativo,,11.0,2024-12-11,Decoración
+989,Lámpara de mesa,,7.0,2024-12-11,Decoración
+1553,Microondas,,10.0,2024-12-11,Electrodomésticos
+1640,Plancha de vapor,,4.0,2024-12-11,Electrodomésticos
+1975,Lavadora,,6.0,2024-12-11,Electrodomésticos
+2144,Auriculares,,11.0,2024-12-11,Electrónica
+2277,Cámara digital,,7.0,2024-12-11,Electrónica
+2818,SmartWatch,,1.0,2024-12-11,Electrónica
+128,Rincón de plantas,,6.0,2024-12-12,Decoración
+1029,Batidora,,5.0,2024-12-12,Electrodomésticos
+1414,Aspiradora,,10.0,2024-12-12,Electrodomésticos
+1471,Freidora eléctrica,,8.0,2024-12-12,Electrodomésticos
+1959,Batidora,,2.0,2024-12-12,Electrodomésticos
+2106,Laptop,,1.0,2024-12-12,Electrónica
+2734,Auriculares,,5.0,2024-12-12,Electrónica
+2893,Smartphone,,3.0,2024-12-12,Electrónica
+458,Rincón de plantas,,7.0,2024-12-13,Decoración
+663,Espejo decorativo,,4.0,2024-12-13,Decoración
+1647,Horno eléctrico,,10.0,2024-12-13,Electrodomésticos
+427,Elementos de cerámica,,6.0,2024-12-14,Decoración
+759,Lámpara de mesa,,11.0,2024-12-14,Decoración
+1077,Horno eléctrico,,5.0,2024-12-14,Electrodomésticos
+1223,Microondas,,3.0,2024-12-14,Electrodomésticos
+1465,Lavadora,,8.0,2024-12-14,Electrodomésticos
+1579,Batidora,,5.0,2024-12-14,Electrodomésticos
+2145,Auriculares,,9.0,2024-12-14,Electrónica
+2380,Consola de videojuegos,,2.0,2024-12-14,Electrónica
+2879,Proyector,,12.0,2024-12-14,Electrónica
+181,Lámpara de mesa,,8.0,2024-12-15,Decoración
+529,Lámpara de mesa,,6.0,2024-12-15,Decoración
+546,Cortinas,,10.0,2024-12-15,Decoración
+567,Elementos de cerámica,,8.0,2024-12-15,Decoración
+948,Rincón de plantas,,6.0,2024-12-15,Decoración
+1001,Rincón de plantas,,9.0,2024-12-15,Decoración
+1126,Secadora,,1.0,2024-12-15,Electrodomésticos
+1325,Lavadora,,6.0,2024-12-15,Electrodomésticos
+1470,Plancha de vapor,,3.0,2024-12-15,Electrodomésticos
+1492,Heladera,,10.0,2024-12-15,Electrodomésticos
+1834,Aspiradora,,6.0,2024-12-15,Electrodomésticos
+1840,Plancha de vapor,,9.0,2024-12-15,Electrodomésticos
+1897,Horno eléctrico,,3.0,2024-12-15,Electrodomésticos
+2520,Consola de videojuegos,,10.0,2024-12-15,Electrónica
+2626,Laptop,,8.0,2024-12-15,Electrónica
+2759,Proyector,,7.0,2024-12-15,Electrónica
+69,Lámpara de mesa,,11.0,2024-12-16,Decoración
+370,Adorno de pared,,8.0,2024-12-16,Decoración
+628,Rincón de plantas,,11.0,2024-12-16,Decoración
+706,Cortinas,,7.0,2024-12-16,Decoración
+980,Adorno de pared,,6.0,2024-12-16,Decoración
+1586,Secadora,,5.0,2024-12-16,Electrodomésticos
+1989,Batidora,,7.0,2024-12-16,Electrodomésticos
+2135,Auriculares,,4.0,2024-12-16,Electrónica
+2342,Televisor,,2.0,2024-12-16,Electrónica
+2581,Parlantes Bluetooth,,9.0,2024-12-16,Electrónica
+2843,Smartphone,,8.0,2024-12-16,Electrónica
+2921,Parlantes Bluetooth,,8.0,2024-12-16,Electrónica
+471,Lámpara de mesa,,10.0,2024-12-17,Decoración
+626,Cortinas,,11.0,2024-12-17,Decoración
+653,Espejo decorativo,,8.0,2024-12-17,Decoración
+742,Cuadro decorativo,,6.0,2024-12-17,Decoración
+1393,Microondas,,11.0,2024-12-17,Electrodomésticos
+1504,Aspiradora,,2.0,2024-12-17,Electrodomésticos
+1639,Batidora,,11.0,2024-12-17,Electrodomésticos
+1832,Heladera,,12.0,2024-12-17,Electrodomésticos
+2064,Tablet,,7.0,2024-12-17,Electrónica
+75,Alfombra,,5.0,2024-12-18,Decoración
+729,Lámpara de mesa,,3.0,2024-12-18,Decoración
+1731,Freidora eléctrica,,3.0,2024-12-18,Electrodomésticos
+2339,Proyector,,7.0,2024-12-18,Electrónica
+2663,Smartphone,,10.0,2024-12-18,Electrónica
+2869,Proyector,,9.0,2024-12-18,Electrónica
+112,Cuadro decorativo,,9.0,2024-12-19,Decoración
+793,Espejo decorativo,,2.0,2024-12-19,Decoración
+1061,Freidora eléctrica,,11.0,2024-12-19,Electrodomésticos
+2167,Cámara digital,,3.0,2024-12-19,Electrónica
+2833,Smartphone,,9.0,2024-12-19,Electrónica
+15,Alfombra,,6.0,2024-12-20,Decoración
+1059,Batidora,,9.0,2024-12-20,Electrodomésticos
+1624,Aspiradora,,9.0,2024-12-20,Electrodomésticos
+1887,Horno eléctrico,,2.0,2024-12-20,Electrodomésticos
+2230,Consola de videojuegos,,10.0,2024-12-20,Electrónica
+2451,Parlantes Bluetooth,,2.0,2024-12-20,Electrónica
+222,Cuadro decorativo,,1.0,2024-12-21,Decoración
+800,Adorno de pared,,3.0,2024-12-21,Decoración
+1594,Aspiradora,,8.0,2024-12-21,Electrodomésticos
+1752,Heladera,,7.0,2024-12-21,Electrodomésticos
+2320,Consola de videojuegos,,8.0,2024-12-21,Electrónica
+108,Rincón de plantas,,1.0,2024-12-22,Decoración
+917,Elementos de cerámica,,8.0,2024-12-22,Decoración
+1088,Cafetera,,9.0,2024-12-22,Electrodomésticos
+1128,Cafetera,,2.0,2024-12-22,Electrodomésticos
+1216,Secadora,,2.0,2024-12-22,Electrodomésticos
+1386,Secadora,,7.0,2024-12-22,Electrodomésticos
+1597,Horno eléctrico,,3.0,2024-12-22,Electrodomésticos
+1652,Heladera,,11.0,2024-12-22,Electrodomésticos
+1767,Horno eléctrico,,1.0,2024-12-22,Electrodomésticos
+1968,Cafetera,,2.0,2024-12-22,Electrodomésticos
+2845,Auriculares,,10.0,2024-12-22,Electrónica
+301,Lámpara de mesa,,6.0,2024-12-23,Decoración
+497,Elementos de cerámica,,4.0,2024-12-23,Decoración
+559,Lámpara de mesa,,2.0,2024-12-23,Decoración
+894,Jarrón decorativo,,12.0,2024-12-23,Decoración
+1416,Secadora,,1.0,2024-12-23,Electrodomésticos
+1728,Cafetera,,11.0,2024-12-23,Electrodomésticos
+2355,Auriculares,,8.0,2024-12-23,Electrónica
+2429,Proyector,,6.0,2024-12-23,Electrónica
+2574,Tablet,,5.0,2024-12-23,Electrónica
+2764,Tablet,,11.0,2024-12-23,Electrónica
+2905,Auriculares,,2.0,2024-12-23,Electrónica
+1337,Horno eléctrico,,2.0,2024-12-24,Electrodomésticos
+1794,Aspiradora,,12.0,2024-12-24,Electrodomésticos
+2457,Cámara digital,,8.0,2024-12-24,Electrónica
+2513,Smartphone,,8.0,2024-12-24,Electrónica
+120,Adorno de pared,,6.0,2024-12-25,Decoración
+1273,Microondas,,8.0,2024-12-25,Electrodomésticos
+1318,Cafetera,,6.0,2024-12-25,Electrodomésticos
+1473,Microondas,,1.0,2024-12-25,Electrodomésticos
+1807,Horno eléctrico,,4.0,2024-12-25,Electrodomésticos
+1907,Horno eléctrico,,1.0,2024-12-25,Electrodomésticos
+1996,Secadora,,9.0,2024-12-25,Electrodomésticos
+2422,Televisor,,10.0,2024-12-25,Electrónica
+2511,Parlantes Bluetooth,,5.0,2024-12-25,Electrónica
+2863,Smartphone,,5.0,2024-12-25,Electrónica
+76,Cortinas,,10.0,2024-12-26,Decoración
+122,Cuadro decorativo,,12.0,2024-12-26,Decoración
+494,Jarrón decorativo,,5.0,2024-12-26,Decoración
+506,Cortinas,,6.0,2024-12-26,Decoración
+1520,Plancha de vapor,,8.0,2024-12-26,Electrodomésticos
+1876,Secadora,,4.0,2024-12-26,Electrodomésticos
+2605,Auriculares,,3.0,2024-12-26,Electrónica
+2899,Proyector,,1.0,2024-12-26,Electrónica
+2961,Parlantes Bluetooth,,3.0,2024-12-26,Electrónica
+1236,Secadora,,11.0,2024-12-27,Electrodomésticos
+1429,Batidora,,8.0,2024-12-27,Electrodomésticos
+1853,Microondas,,1.0,2024-12-27,Electrodomésticos
+2414,Tablet,,5.0,2024-12-27,Electrónica
+2951,Parlantes Bluetooth,,6.0,2024-12-27,Electrónica
+2990,Smartphone,,11.0,2024-12-27,Electrónica
+167,Elementos de cerámica,,6.0,2024-12-28,Decoración
+1274,Aspiradora,,9.0,2024-12-28,Electrodomésticos
+1530,Plancha de vapor,,2.0,2024-12-28,Electrodomésticos
+2038,SmartWatch,,5.0,2024-12-28,Electrónica
+2204,Tablet,,12.0,2024-12-28,Electrónica
+231,Lámpara de mesa,,9.0,2024-12-29,Decoración
+240,Adorno de pared,,7.0,2024-12-29,Decoración
+486,Cortinas,,11.0,2024-12-29,Decoración
+639,Lámpara de mesa,,7.0,2024-12-29,Decoración
+743,Espejo decorativo,,8.0,2024-12-29,Decoración
+1139,Batidora,,10.0,2024-12-29,Electrodomésticos
+1161,Freidora eléctrica,,2.0,2024-12-29,Electrodomésticos
+1893,Microondas,,3.0,2024-12-29,Electrodomésticos
+2309,Proyector,,3.0,2024-12-29,Electrónica
+2424,Tablet,,4.0,2024-12-29,Electrónica
+235,Alfombra,,6.0,2024-12-30,Decoración
+418,Rincón de plantas,,8.0,2024-12-30,Decoración
+909,Lámpara de mesa,,5.0,2024-12-30,Decoración
+1583,Microondas,,9.0,2024-12-30,Electrodomésticos
+1837,Horno eléctrico,,9.0,2024-12-30,Electrodomésticos
+2276,Laptop,,9.0,2024-12-30,Electrónica
+2696,Laptop,,4.0,2024-12-30,Electrónica
+2913,Smartphone,,7.0,2024-12-30,Electrónica
+2930,Consola de videojuegos,,6.0,2024-12-30,Electrónica
