@@ -1,0 +1,3036 @@
+id_venta,producto,precio,cantidad,fecha_venta,categoria,precio_total
+792,Cuadro decorativo,$69.94,5,02/01/2024,Decoración,349.70
+811,Lámpara de mesa,$105.10,5,02/01/2024,Decoración,525.50
+1156,Secadora,$97.96,3,02/01/2024,Electrodomésticos,293.88
+1372,Heladera,$114.35,8,02/01/2024,Electrodomésticos,914.80
+1546,Secadora,$106.21,4,02/01/2024,Electrodomésticos,424.84
+1697,Horno eléctrico,$35.35,9,02/01/2024,Electrodomésticos,318.15
+1710,Plancha de vapor,$65.43,2,02/01/2024,Electrodomésticos,130.86
+2959,Proyector,$88.17,9,02/01/2024,Electrónica,793.53
+318,Rincón de plantas,$79.86,11,03/01/2024,Decoración,878.46
+419,Candelabro,$66.11,8,03/01/2024,Decoración,528.88
+1374,Aspiradora,$95.90,5,03/01/2024,Electrodomésticos,479.50
+1571,Freidora eléctrica,$111.18,1,03/01/2024,Electrodomésticos,111.18
+1814,Aspiradora,$70.91,2,03/01/2024,Electrodomésticos,141.82
+2769,Proyector,$43.62,11,03/01/2024,Electrónica,479.82
+2794,Tablet,$67.97,9,03/01/2024,Electrónica,611.73
+2824,Tablet,$74.09,5,03/01/2024,Electrónica,370.45
+446,Cortinas,$62.10,4,04/01/2024,Decoración,248.40
+630,Adorno de pared,$71.99,9,04/01/2024,Decoración,647.91
+794,Jarrón decorativo,$96.97,7,04/01/2024,Decoración,678.79
+882,Cuadro decorativo,$101.92,9,04/01/2024,Decoración,917.28
+969,Candelabro,$90.70,12,04/01/2024,Decoración,1088.40
+1445,Lavadora,$28.41,10,04/01/2024,Electrodomésticos,284.10
+1971,Freidora eléctrica,$122.25,11,04/01/2024,Electrodomésticos,1344.75
+2209,Proyector,$32.15,1,04/01/2024,Electrónica,32.15
+256,Cortinas,$86.82,8,05/01/2024,Decoración,694.56
+606,Cortinas,$106.66,11,05/01/2024,Decoración,1173.26
+704,Jarrón decorativo,$57.22,9,05/01/2024,Decoración,514.98
+1362,Heladera,$109.49,11,05/01/2024,Electrodomésticos,1204.39
+2155,Auriculares,$84.80,10,05/01/2024,Electrónica,848.00
+2947,Cámara digital,$107.78,3,05/01/2024,Electrónica,323.34
+1495,Lavadora,$38.99,6,06/01/2024,Electrodomésticos,233.94
+1572,Cafetera,$61.40,9,06/01/2024,Electrodomésticos,552.60
+2180,Consola de videojuegos,$102.57,9,06/01/2024,Electrónica,923.13
+2487,Cámara digital,$50.76,3,06/01/2024,Electrónica,152.28
+2603,Smartphone,$87.05,5,06/01/2024,Electrónica,435.25
+2885,Auriculares,$100.40,6,06/01/2024,Electrónica,602.40
+17,Elementos de cerámica,$108.48,11,07/01/2024,Decoración,1193.28
+183,Espejo decorativo,$82.76,8,07/01/2024,Decoración,662.08
+560,Adorno de pared,$57.62,6,07/01/2024,Decoración,345.72
+632,Cuadro decorativo,$30.49,12,07/01/2024,Decoración,365.88
+699,Candelabro,$34.23,12,07/01/2024,Decoración,410.76
+1150,Plancha de vapor,$33.63,10,07/01/2024,Electrodomésticos,336.30
+1400,Plancha de vapor,$26.91,5,07/01/2024,Electrodomésticos,134.55
+1496,Secadora,$95.33,11,07/01/2024,Electrodomésticos,1048.63
+1524,Aspiradora,$65.55,8,07/01/2024,Electrodomésticos,524.40
+1550,Plancha de vapor,$51.51,7,07/01/2024,Electrodomésticos,360.57
+2174,Auriculares,$116.04,11,07/01/2024,Electrónica,1276.44
+2773,Smartphone,$107.51,5,07/01/2024,Electrónica,537.55
+2920,Consola de videojuegos,$29.49,2,07/01/2024,Electrónica,58.98
+84,Jarrón decorativo,$37.05,4,08/01/2024,Decoración,148.20
+349,Candelabro,$57.65,6,08/01/2024,Decoración,345.90
+687,Elementos de cerámica,$27.68,8,08/01/2024,Decoración,221.44
+696,Cortinas,$32.57,8,08/01/2024,Decoración,260.56
+1734,Aspiradora,$50.86,4,08/01/2024,Electrodomésticos,203.44
+2173,Smartphone,$54.19,12,08/01/2024,Electrónica,650.28
+2283,Smartphone,$70.07,11,08/01/2024,Electrónica,770.77
+2501,Parlantes Bluetooth,$87.78,1,08/01/2024,Electrónica,87.78
+2918,SmartWatch,$82.18,10,08/01/2024,Electrónica,821.80
+386,Cortinas,$85.71,8,09/01/2024,Decoración,685.68
+599,Candelabro,$47.22,5,09/01/2024,Decoración,236.10
+633,Espejo decorativo,$60.39,2,09/01/2024,Decoración,120.78
+714,Jarrón decorativo,$42.46,8,09/01/2024,Decoración,339.68
+871,Lámpara de mesa,$79.64,11,09/01/2024,Decoración,876.04
+1132,Cafetera,$29.88,10,09/01/2024,Electrodomésticos,298.80
+1443,Microondas,$67.39,8,09/01/2024,Electrodomésticos,539.12
+1584,Aspiradora,$99.58,7,09/01/2024,Electrodomésticos,697.06
+1617,Horno eléctrico,$68.53,8,09/01/2024,Electrodomésticos,548.24
+1649,Batidora,$39.26,11,09/01/2024,Electrodomésticos,431.86
+2917,Cámara digital,$120.87,7,09/01/2024,Electrónica,846.09
+315,Alfombra,$122.07,9,10/01/2024,Decoración,1098.63
+553,Espejo decorativo,$96.29,9,10/01/2024,Decoración,866.61
+817,Elementos de cerámica,$106.31,1,10/01/2024,Decoración,106.31
+830,Adorno de pared,$67.23,10,10/01/2024,Decoración,672.30
+854,Jarrón decorativo,$42.83,5,10/01/2024,Decoración,214.15
+1090,Plancha de vapor,$66.15,8,10/01/2024,Electrodomésticos,529.20
+1464,Aspiradora,$36.38,5,10/01/2024,Electrodomésticos,181.90
+1933,Microondas,$46.05,6,10/01/2024,Electrodomésticos,276.30
+308,Rincón de plantas,$31.70,11,11/01/2024,Decoración,348.70
+718,Rincón de plantas,$29.88,8,11/01/2024,Decoración,239.04
+804,Jarrón decorativo,$87.84,7,11/01/2024,Decoración,614.88
+963,Espejo decorativo,$32.34,5,11/01/2024,Decoración,161.70
+1167,Horno eléctrico,$119.70,6,11/01/2024,Electrodomésticos,718.20
+1234,Aspiradora,$36.89,7,11/01/2024,Electrodomésticos,258.23
+1319,Batidora,$79.98,12,11/01/2024,Electrodomésticos,959.76
+1885,Lavadora,$120.75,10,11/01/2024,Electrodomésticos,1207.50
+2268,SmartWatch,$48.45,2,11/01/2024,Electrónica,96.90
+2325,Auriculares,$117.43,11,11/01/2024,Electrónica,1291.73
+2761,Parlantes Bluetooth,$29.89,9,11/01/2024,Electrónica,269.01
+243,Espejo decorativo,$55.61,1,12/01/2024,Decoración,55.61
+1441,Freidora eléctrica,$52.57,11,12/01/2024,Electrodomésticos,578.27
+2428,SmartWatch,$115.00,10,12/01/2024,Electrónica,1150.00
+2583,Smartphone,$67.93,10,12/01/2024,Electrónica,679.30
+2980,Consola de videojuegos,$110.60,12,12/01/2024,Electrónica,1327.20
+88,Rincón de plantas,$109.33,9,13/01/2024,Decoración,983.97
+501,Lámpara de mesa,$35.20,6,13/01/2024,Decoración,211.20
+507,Elementos de cerámica,$111.10,1,13/01/2024,Decoración,111.10
+669,Lámpara de mesa,$96.79,5,13/01/2024,Decoración,483.95
+987,Elementos de cerámica,$102.62,3,13/01/2024,Decoración,307.86
+1548,Cafetera,$35.73,12,13/01/2024,Electrodomésticos,428.76
+2822,Televisor,$57.34,1,13/01/2024,Electrónica,57.34
+2924,Tablet,$32.30,1,13/01/2024,Electrónica,32.30
+20,Adorno de pared,$90.21,2,14/01/2024,Decoración,180.42
+53,Espejo decorativo,$115.45,7,14/01/2024,Decoración,808.15
+608,Rincón de plantas,$64.67,10,14/01/2024,Decoración,646.70
+993,Espejo decorativo,$98.26,1,14/01/2024,Decoración,98.26
+1065,Lavadora,$43.98,6,14/01/2024,Electrodomésticos,263.88
+1599,Batidora,$96.78,12,14/01/2024,Electrodomésticos,1161.36
+1638,Cafetera,$123.96,9,14/01/2024,Electrodomésticos,1115.64
+1685,Lavadora,$84.80,3,14/01/2024,Electrodomésticos,254.40
+2685,Auriculares,$27.36,10,14/01/2024,Electrónica,273.60
+169,Lámpara de mesa,$76.32,9,15/01/2024,Decoración,686.88
+236,Cortinas,$118.69,9,15/01/2024,Decoración,1068.21
+260,Adorno de pared,$101.48,9,15/01/2024,Decoración,913.32
+977,Elementos de cerámica,$74.35,5,15/01/2024,Decoración,371.75
+1271,Freidora eléctrica,$119.46,2,15/01/2024,Electrodomésticos,238.92
+2098,SmartWatch,$75.65,5,15/01/2024,Electrónica,378.25
+2196,Laptop,$31.69,1,15/01/2024,Electrónica,31.69
+2590,Consola de videojuegos,$99.14,6,15/01/2024,Electrónica,594.84
+2788,SmartWatch,$30.38,8,15/01/2024,Electrónica,243.04
+2803,Smartphone,$95.73,5,15/01/2024,Electrónica,478.65
+2874,Tablet,$117.47,2,15/01/2024,Electrónica,234.94
+113,Espejo decorativo,$75.93,10,16/01/2024,Decoración,759.30
+503,Espejo decorativo,$101.91,3,16/01/2024,Decoración,305.73
+832,Cuadro decorativo,$30.59,1,16/01/2024,Decoración,30.59
+962,Cuadro decorativo,$40.97,11,16/01/2024,Decoración,450.67
+1250,Plancha de vapor,$98.55,6,16/01/2024,Electrodomésticos,591.30
+1431,Freidora eléctrica,$83.95,8,16/01/2024,Electrodomésticos,671.60
+1920,Plancha de vapor,$86.65,6,16/01/2024,Electrodomésticos,519.90
+2129,Proyector,$107.98,6,16/01/2024,Electrónica,647.88
+2220,Consola de videojuegos,$31.57,1,16/01/2024,Electrónica,31.57
+2477,Cámara digital,$38.37,9,16/01/2024,Electrónica,345.33
+2789,Proyector,$115.19,11,16/01/2024,Electrónica,1267.09
+2935,Auriculares,$80.29,2,16/01/2024,Electrónica,160.58
+131,Lámpara de mesa,$58.32,10,17/01/2024,Decoración,583.20
+178,Rincón de plantas,$81.50,1,17/01/2024,Decoración,81.50
+368,Rincón de plantas,$87.40,9,17/01/2024,Decoración,786.60
+627,Elementos de cerámica,,,17/01/2024,Decoración,0.00
+684,Jarrón decorativo,$106.89,6,17/01/2024,Decoración,641.34
+1750,Plancha de vapor,$94.53,2,17/01/2024,Electrodomésticos,189.06
+2171,Parlantes Bluetooth,,,17/01/2024,Electrónica,0.00
+2284,Tablet,$69.35,4,17/01/2024,Electrónica,277.40
+2402,Televisor,$117.53,9,17/01/2024,Electrónica,1057.77
+2698,SmartWatch,$76.47,7,17/01/2024,Electrónica,535.29
+430,Adorno de pared,$81.76,5,18/01/2024,Decoración,408.80
+588,Rincón de plantas,$80.17,3,18/01/2024,Decoración,240.51
+1626,Secadora,$102.73,6,18/01/2024,Electrodomésticos,616.38
+1900,Plancha de vapor,$45.14,1,18/01/2024,Electrodomésticos,45.14
+2119,Proyector,$84.10,11,18/01/2024,Electrónica,925.10
+2244,Auriculares,$63.67,5,18/01/2024,Electrónica,318.35
+2297,Cámara digital,$119.43,5,18/01/2024,Electrónica,597.15
+2416,Laptop,$81.74,10,18/01/2024,Electrónica,817.40
+2431,Parlantes Bluetooth,$69.40,1,18/01/2024,Electrónica,69.40
+2792,Televisor,$84.96,5,18/01/2024,Electrónica,424.80
+30,Adorno de pared,$76.92,6,19/01/2024,Decoración,461.52
+49,Lámpara de mesa,$52.95,6,19/01/2024,Decoración,317.70
+104,Jarrón decorativo,$103.13,8,19/01/2024,Decoración,825.04
+323,Espejo decorativo,$123.21,7,19/01/2024,Decoración,862.47
+395,Alfombra,$33.48,12,19/01/2024,Decoración,401.76
+851,Lámpara de mesa,$85.23,6,19/01/2024,Decoración,511.38
+1125,Lavadora,$97.73,12,19/01/2024,Electrodomésticos,1172.76
+1332,Cafetera,$98.21,11,19/01/2024,Electrodomésticos,1080.31
+1806,Secadora,$27.45,10,19/01/2024,Electrodomésticos,274.50
+2231,Parlantes Bluetooth,$42.98,7,19/01/2024,Electrónica,300.86
+401,Lámpara de mesa,$69.47,8,20/01/2024,Decoración,555.76
+788,Rincón de plantas,$85.75,3,20/01/2024,Decoración,257.25
+1007,Horno eléctrico,$98.42,8,20/01/2024,Electrodomésticos,787.36
+1489,Batidora,$95.59,3,20/01/2024,Electrodomésticos,286.77
+2187,Cámara digital,$108.61,2,20/01/2024,Electrónica,217.22
+2588,SmartWatch,$83.01,11,20/01/2024,Electrónica,913.11
+2721,Parlantes Bluetooth,$40.74,6,20/01/2024,Electrónica,244.44
+2897,Cámara digital,$71.45,5,20/01/2024,Electrónica,357.25
+2987,Cámara digital,$91.13,8,20/01/2024,Electrónica,729.04
+59,Lámpara de mesa,$121.72,8,21/01/2024,Decoración,973.76
+754,Jarrón decorativo,$91.53,12,21/01/2024,Decoración,1098.36
+1117,Horno eléctrico,$103.57,1,21/01/2024,Electrodomésticos,103.57
+1140,Plancha de vapor,$27.61,7,21/01/2024,Electrodomésticos,193.27
+1145,Lavadora,$67.20,11,21/01/2024,Electrodomésticos,739.20
+1286,Secadora,$84.50,11,21/01/2024,Electrodomésticos,929.50
+1754,Aspiradora,$104.86,8,21/01/2024,Electrodomésticos,838.88
+1882,Cafetera,$51.16,12,21/01/2024,Electrodomésticos,613.92
+2560,Consola de videojuegos,$87.23,5,21/01/2024,Electrónica,436.15
+442,Cuadro decorativo,$29.17,1,22/01/2024,Decoración,29.17
+547,Elementos de cerámica,$83.81,6,22/01/2024,Decoración,502.86
+984,Jarrón decorativo,$26.97,5,22/01/2024,Decoración,134.85
+1106,Secadora,$91.54,2,22/01/2024,Electrodomésticos,183.08
+1808,Cafetera,$45.98,3,22/01/2024,Electrodomésticos,137.94
+1981,Freidora eléctrica,$48.68,8,22/01/2024,Electrodomésticos,389.44
+80,Adorno de pared,$51.56,5,23/01/2024,Decoración,257.80
+189,Lámpara de mesa,$26.42,2,23/01/2024,Decoración,52.84
+839,Lámpara de mesa,$96.37,5,23/01/2024,Decoración,481.85
+947,Elementos de cerámica,$117.34,1,23/01/2024,Decoración,117.34
+1592,Cafetera,$86.79,3,23/01/2024,Electrodomésticos,260.37
+2690,Consola de videojuegos,$102.40,2,23/01/2024,Electrónica,204.80
+39,Lámpara de mesa,$57.35,12,24/01/2024,Decoración,688.20
+164,Jarrón decorativo,$66.27,1,24/01/2024,Decoración,66.27
+196,Cortinas,$90.87,4,24/01/2024,Decoración,363.48
+768,Rincón de plantas,$89.47,2,24/01/2024,Decoración,178.94
+1515,Lavadora,$108.37,1,24/01/2024,Electrodomésticos,108.37
+1786,Secadora,$40.63,3,24/01/2024,Electrodomésticos,121.89
+1977,Horno eléctrico,$45.79,7,24/01/2024,Electrodomésticos,320.53
+2354,Tablet,$27.98,8,24/01/2024,Electrónica,223.84
+2543,Smartphone,$91.39,7,24/01/2024,Electrónica,639.73
+2623,Smartphone,$27.32,7,24/01/2024,Electrónica,191.24
+2982,Televisor,$26.70,9,24/01/2024,Electrónica,240.30
+85,Alfombra,$71.14,2,25/01/2024,Decoración,142.28
+983,Espejo decorativo,$123.22,10,25/01/2024,Decoración,1232.20
+1378,Cafetera,$96.94,4,25/01/2024,Electrodomésticos,387.76
+1485,Lavadora,$66.16,4,25/01/2024,Electrodomésticos,264.64
+1503,Microondas,$39.45,9,25/01/2024,Electrodomésticos,355.05
+2121,Parlantes Bluetooth,$100.60,6,25/01/2024,Electrónica,603.60
+2340,Consola de videojuegos,$109.68,5,25/01/2024,Electrónica,548.40
+2502,Televisor,$77.83,8,25/01/2024,Electrónica,622.64
+2619,Proyector,$70.10,10,25/01/2024,Electrónica,701.00
+2735,Auriculares,$93.37,10,25/01/2024,Electrónica,933.70
+2948,SmartWatch,$29.15,2,25/01/2024,Electrónica,58.30
+73,Espejo decorativo,$52.58,9,26/01/2024,Decoración,473.22
+621,Lámpara de mesa,$70.60,6,26/01/2024,Decoración,423.60
+787,Elementos de cerámica,$106.39,6,26/01/2024,Decoración,638.34
+933,Espejo decorativo,$110.02,1,26/01/2024,Decoración,110.02
+1768,Cafetera,$120.32,9,26/01/2024,Electrodomésticos,1082.88
+2252,Televisor,$89.27,8,26/01/2024,Electrónica,714.16
+2305,Auriculares,$31.03,9,26/01/2024,Electrónica,279.27
+218,Rincón de plantas,$120.32,1,27/01/2024,Decoración,120.32
+310,Adorno de pared,$103.79,2,27/01/2024,Decoración,207.58
+496,Cortinas,$37.02,5,27/01/2024,Decoración,185.10
+1360,Plancha de vapor,$95.10,2,27/01/2024,Electrodomésticos,190.20
+1744,Aspiradora,$28.79,12,27/01/2024,Electrodomésticos,345.48
+1877,Horno eléctrico,$53.46,4,27/01/2024,Electrodomésticos,213.84
+2165,Auriculares,$47.24,9,27/01/2024,Electrónica,425.16
+2218,SmartWatch,$54.84,1,27/01/2024,Electrónica,54.84
+2222,Televisor,$33.19,9,27/01/2024,Electrónica,298.71
+2546,Laptop,$30.31,2,27/01/2024,Electrónica,60.62
+617,Elementos de cerámica,$28.22,4,28/01/2024,Decoración,112.88
+641,Lámpara de mesa,$95.46,10,28/01/2024,Decoración,954.60
+912,Cuadro decorativo,$111.56,9,28/01/2024,Decoración,1004.04
+1999,Batidora,$103.27,3,28/01/2024,Electrodomésticos,309.81
+2323,Smartphone,$34.50,1,28/01/2024,Electrónica,34.50
+2636,Laptop,$33.07,10,28/01/2024,Electrónica,330.70
+2693,Smartphone,$115.81,1,28/01/2024,Electrónica,115.81
+373,Espejo decorativo,$29.77,11,29/01/2024,Decoración,327.47
+1452,Cafetera,$88.56,8,29/01/2024,Electrodomésticos,708.48
+1645,Lavadora,$76.50,3,29/01/2024,Electrodomésticos,229.50
+2228,SmartWatch,$100.06,7,29/01/2024,Electrónica,700.42
+2240,Consola de videojuegos,$43.35,8,29/01/2024,Electrónica,346.80
+2245,Auriculares,$53.45,8,29/01/2024,Electrónica,427.60
+2653,Smartphone,$121.22,6,29/01/2024,Electrónica,727.32
+2870,Consola de videojuegos,$72.39,1,29/01/2024,Electrónica,72.39
+2938,SmartWatch,$122.68,1,29/01/2024,Electrónica,122.68
+2953,Smartphone,$121.00,12,29/01/2024,Electrónica,1452.00
+1046,Secadora,$109.00,11,30/01/2024,Electrodomésticos,1199.00
+1886,Secadora,$47.91,1,30/01/2024,Electrodomésticos,47.91
+1965,Lavadora,$43.52,7,30/01/2024,Electrodomésticos,304.64
+2005,Auriculares,$56.56,4,30/01/2024,Electrónica,226.24
+2273,Smartphone,$59.33,2,30/01/2024,Electrónica,118.66
+2522,Televisor,$94.98,2,30/01/2024,Electrónica,189.96
+2784,Tablet,$41.96,9,30/01/2024,Electrónica,377.64
+2945,Auriculares,$115.20,1,30/01/2024,Electrónica,115.20
+50,Adorno de pared,$83.10,5,31/01/2024,Decoración,415.50
+162,Cuadro decorativo,$59.60,5,31/01/2024,Decoración,298.00
+259,Lámpara de mesa,$78.89,11,31/01/2024,Decoración,867.79
+277,Elementos de cerámica,$52.17,7,31/01/2024,Decoración,365.19
+852,Cuadro decorativo,$78.93,4,31/01/2024,Decoración,315.72
+1185,Lavadora,$92.36,1,31/01/2024,Electrodomésticos,92.36
+1210,Plancha de vapor,$101.96,10,31/01/2024,Electrodomésticos,1019.60
+1254,Aspiradora,$74.11,11,31/01/2024,Electrodomésticos,815.21
+1481,Freidora eléctrica,$121.77,12,31/01/2024,Electrodomésticos,1461.24
+1898,Cafetera,$63.54,9,31/01/2024,Electrodomésticos,571.86
+2185,Auriculares,$35.74,11,31/01/2024,Electrónica,393.14
+2752,Auriculares,$119.77,5,31/01/2024,Electrónica,598.85
+2916,Laptop,$93.91,2,31/01/2024,Electrónica,187.82
+733,Espejo decorativo,$44.37,2,01/02/2024,Decoración,88.74
+848,Rincón de plantas,$81.92,10,01/02/2024,Decoración,819.20
+1102,Cafetera,$108.33,2,01/02/2024,Electrodomésticos,216.66
+1764,Aspiradora,$112.38,10,01/02/2024,Electrodomésticos,1123.80
+1813,Microondas,$89.16,5,01/02/2024,Electrodomésticos,445.80
+2069,Proyector,$76.17,12,01/02/2024,Electrónica,914.04
+2474,Auriculares,$123.41,8,01/02/2024,Electrónica,987.28
+2680,Consola de videojuegos,$89.96,2,01/02/2024,Electrónica,179.92
+380,Adorno de pared,$45.84,10,02/02/2024,Decoración,458.40
+557,Elementos de cerámica,$108.86,6,02/02/2024,Decoración,653.16
+828,Rincón de plantas,$27.95,7,02/02/2024,Decoración,195.65
+829,Lámpara de mesa,$41.60,12,02/02/2024,Decoración,499.20
+1600,Plancha de vapor,$47.60,10,02/02/2024,Electrodomésticos,476.00
+2079,Proyector,$111.74,6,02/02/2024,Electrónica,670.44
+2115,Auriculares,$26.00,9,02/02/2024,Electrónica,234.00
+2133,Smartphone,$88.43,2,02/02/2024,Electrónica,176.86
+2329,Proyector,$62.88,7,02/02/2024,Electrónica,440.16
+2476,Laptop,$109.23,7,02/02/2024,Electrónica,764.61
+2548,SmartWatch,$108.99,10,02/02/2024,Electrónica,1089.90
+211,Lámpara de mesa,$30.03,8,03/02/2024,Decoración,240.24
+541,Lámpara de mesa,$76.33,10,03/02/2024,Decoración,763.30
+695,Alfombra,$51.29,2,03/02/2024,Decoración,102.58
+1336,Secadora,$42.81,7,03/02/2024,Electrodomésticos,299.67
+1499,Batidora,$77.53,4,03/02/2024,Electrodomésticos,310.12
+2007,Cámara digital,$117.11,9,03/02/2024,Electrónica,1053.99
+2068,SmartWatch,$49.23,4,03/02/2024,Electrónica,196.92
+2758,SmartWatch,$81.32,6,03/02/2024,Electrónica,487.92
+2851,Parlantes Bluetooth,$110.42,2,03/02/2024,Electrónica,220.84
+64,Jarrón decorativo,$104.16,10,04/02/2024,Decoración,1041.60
+763,Espejo decorativo,$117.99,3,04/02/2024,Decoración,353.97
+1424,Aspiradora,$69.31,10,04/02/2024,Electrodomésticos,693.10
+1455,Lavadora,$38.61,10,04/02/2024,Electrodomésticos,386.10
+1456,Secadora,$84.24,3,04/02/2024,Electrodomésticos,252.72
+2315,Auriculares,$109.07,4,04/02/2024,Electrónica,436.28
+2832,Televisor,$49.23,4,04/02/2024,Electrónica,196.92
+24,Jarrón decorativo,$70.51,12,05/02/2024,Decoración,846.12
+40,Adorno de pared,$100.32,10,05/02/2024,Decoración,1003.20
+347,Elementos de cerámica,$83.52,12,05/02/2024,Decoración,1002.24
+911,Lámpara de mesa,$33.90,4,05/02/2024,Decoración,135.60
+1451,Freidora eléctrica,$48.52,4,05/02/2024,Electrodomésticos,194.08
+1855,Lavadora,$123.28,8,05/02/2024,Electrodomésticos,986.24
+1961,Freidora eléctrica,$81.99,1,05/02/2024,Electrodomésticos,81.99
+2378,SmartWatch,$72.38,1,05/02/2024,Electrónica,72.38
+2426,Laptop,$47.57,4,05/02/2024,Electrónica,190.28
+1064,Aspiradora,$65.00,9,06/02/2024,Electrodomésticos,585.00
+1313,Microondas,$82.58,9,06/02/2024,Electrodomésticos,743.22
+1848,Cafetera,$123.27,4,06/02/2024,Electrodomésticos,493.08
+2267,Cámara digital,$57.81,10,06/02/2024,Electrónica,578.10
+2438,SmartWatch,$45.98,3,06/02/2024,Electrónica,137.94
+2566,Laptop,$70.59,9,06/02/2024,Electrónica,635.31
+2617,Cámara digital,$89.53,9,06/02/2024,Electrónica,805.77
+2627,Cámara digital,$102.83,5,06/02/2024,Electrónica,514.15
+381,Lámpara de mesa,$124.57,3,07/02/2024,Decoración,373.71
+393,Espejo decorativo,$122.11,7,07/02/2024,Decoración,854.77
+662,Cuadro decorativo,$42.09,12,07/02/2024,Decoración,505.08
+770,Adorno de pared,$103.74,5,07/02/2024,Decoración,518.70
+895,Alfombra,$102.72,2,07/02/2024,Decoración,205.44
+1340,Plancha de vapor,$48.48,10,07/02/2024,Electrodomésticos,484.80
+1422,Cafetera,$109.97,2,07/02/2024,Electrodomésticos,219.94
+1554,Aspiradora,$124.82,3,07/02/2024,Electrodomésticos,374.46
+2584,Auriculares,$42.67,6,07/02/2024,Electrónica,256.02
+163,Espejo decorativo,$30.11,12,08/02/2024,Decoración,361.32
+367,Elementos de cerámica,$47.00,2,08/02/2024,Decoración,94.00
+745,Alfombra,$50.02,12,08/02/2024,Decoración,600.24
+850,Adorno de pared,$112.03,9,08/02/2024,Decoración,1008.27
+971,Lámpara de mesa,$79.91,8,08/02/2024,Decoración,639.28
+1501,Freidora eléctrica,$58.69,4,08/02/2024,Electrodomésticos,234.76
+1529,Batidora,$79.14,10,08/02/2024,Electrodomésticos,791.40
+2618,SmartWatch,$64.98,11,08/02/2024,Electrónica,714.78
+809,Lámpara de mesa,$58.38,4,09/02/2024,Decoración,233.52
+1371,Freidora eléctrica,$95.71,4,09/02/2024,Electrodomésticos,382.84
+1791,Freidora eléctrica,$51.37,9,09/02/2024,Electrodomésticos,462.33
+2294,Auriculares,$54.54,9,09/02/2024,Electrónica,490.86
+2668,SmartWatch,$97.01,4,09/02/2024,Electrónica,388.04
+2718,SmartWatch,$110.23,11,09/02/2024,Electrónica,1212.53
+135,Alfombra,$78.47,1,10/02/2024,Decoración,78.47
+212,Cuadro decorativo,$52.83,12,10/02/2024,Decoración,633.96
+229,Lámpara de mesa,$99.71,3,10/02/2024,Decoración,299.13
+737,Elementos de cerámica,$116.82,3,10/02/2024,Decoración,350.46
+840,Adorno de pared,$91.48,9,10/02/2024,Decoración,823.32
+949,Lámpara de mesa,$87.04,1,10/02/2024,Decoración,87.04
+1294,Aspiradora,$26.11,9,10/02/2024,Electrodomésticos,234.99
+1436,Secadora,$45.43,11,10/02/2024,Electrodomésticos,499.73
+1696,Secadora,$115.57,12,10/02/2024,Electrodomésticos,1386.84
+2013,Smartphone,$49.34,12,10/02/2024,Electrónica,592.08
+2203,Smartphone,$59.33,5,10/02/2024,Electrónica,296.65
+2873,Smartphone,$74.80,5,10/02/2024,Electrónica,374.00
+2973,Smartphone,$97.62,1,10/02/2024,Electrónica,97.62
+43,Espejo decorativo,$81.16,2,11/02/2024,Decoración,162.32
+205,Alfombra,$108.67,4,11/02/2024,Decoración,434.68
+417,Elementos de cerámica,$35.97,2,11/02/2024,Decoración,71.94
+462,Cuadro decorativo,$109.69,8,11/02/2024,Decoración,877.52
+1730,Plancha de vapor,$101.57,10,11/02/2024,Electrodomésticos,1015.70
+1901,Freidora eléctrica,$83.07,6,11/02/2024,Electrodomésticos,498.42
+2440,Consola de videojuegos,$110.79,8,11/02/2024,Electrónica,886.32
+2952,Televisor,$112.58,5,11/02/2024,Electrónica,562.90
+362,Cuadro decorativo,$71.97,12,12/02/2024,Decoración,863.64
+952,Cuadro decorativo,$72.08,11,12/02/2024,Decoración,792.88
+970,Adorno de pared,$37.50,3,12/02/2024,Decoración,112.50
+1963,Microondas,$96.35,3,12/02/2024,Electrodomésticos,289.05
+2122,Televisor,$97.30,9,12/02/2024,Electrónica,875.70
+2334,Auriculares,$57.41,4,12/02/2024,Electrónica,229.64
+2714,Auriculares,$74.70,10,12/02/2024,Electrónica,747.00
+116,Cortinas,$40.19,3,13/02/2024,Decoración,120.57
+2379,Proyector,$108.52,12,13/02/2024,Electrónica,1302.24
+2669,Proyector,$26.52,3,13/02/2024,Electrónica,79.56
+2739,Proyector,$63.33,10,13/02/2024,Electrónica,633.30
+2766,Laptop,$31.94,11,13/02/2024,Electrónica,351.34
+2829,Proyector,$33.84,5,13/02/2024,Electrónica,169.20
+151,Lámpara de mesa,$113.01,7,14/02/2024,Decoración,791.07
+366,Cortinas,$92.84,1,14/02/2024,Decoración,92.84
+406,Cortinas,$64.96,1,14/02/2024,Decoración,64.96
+884,Jarrón decorativo,$82.89,10,14/02/2024,Decoración,828.90
+1488,Cafetera,$79.98,2,14/02/2024,Electrodomésticos,159.96
+1946,Secadora,$69.17,6,14/02/2024,Electrodomésticos,415.02
+2154,Auriculares,$45.97,12,14/02/2024,Electrónica,551.64
+2571,Parlantes Bluetooth,$123.36,5,14/02/2024,Electrónica,616.80
+2871,Parlantes Bluetooth,$101.08,7,14/02/2024,Electrónica,707.56
+282,Cuadro decorativo,$87.42,7,15/02/2024,Decoración,611.94
+457,Elementos de cerámica,$38.25,1,15/02/2024,Decoración,38.25
+946,Cortinas,$109.32,7,15/02/2024,Decoración,765.24
+1353,Microondas,$98.65,2,15/02/2024,Electrodomésticos,197.30
+2782,Televisor,$62.80,8,15/02/2024,Electrónica,502.40
+2979,Proyector,$65.41,7,15/02/2024,Electrónica,457.87
+1070,Plancha de vapor,$48.23,5,16/02/2024,Electrodomésticos,241.15
+1265,Lavadora,$120.53,5,16/02/2024,Electrodomésticos,602.65
+1798,Cafetera,$97.97,2,16/02/2024,Electrodomésticos,195.94
+2304,Auriculares,$44.56,8,16/02/2024,Electrónica,356.48
+2595,Auriculares,$81.96,2,16/02/2024,Electrónica,163.92
+2825,Auriculares,$39.92,4,16/02/2024,Electrónica,159.68
+727,Elementos de cerámica,$108.86,6,17/02/2024,Decoración,653.16
+913,Espejo decorativo,$59.36,4,17/02/2024,Decoración,237.44
+1346,Secadora,$64.11,4,17/02/2024,Electrodomésticos,256.44
+1623,Microondas,$95.91,4,17/02/2024,Electrodomésticos,383.64
+1924,Aspiradora,$38.10,9,17/02/2024,Electrodomésticos,342.90
+2246,Laptop,$76.02,10,17/02/2024,Electrónica,760.20
+2255,Auriculares,$72.37,8,17/02/2024,Electrónica,578.96
+2345,Auriculares,$61.61,4,17/02/2024,Electrónica,246.44
+275,Alfombra,$36.14,8,18/02/2024,Decoración,289.12
+276,Cortinas,$98.73,10,18/02/2024,Decoración,987.30
+436,Cortinas,$76.78,7,18/02/2024,Decoración,537.46
+492,Cuadro decorativo,$120.22,5,18/02/2024,Decoración,601.10
+658,Rincón de plantas,$96.23,8,18/02/2024,Decoración,769.84
+694,Jarrón decorativo,$96.35,10,18/02/2024,Decoración,963.50
+1081,Freidora eléctrica,$95.50,4,18/02/2024,Electrodomésticos,382.00
+1115,Lavadora,$96.75,3,18/02/2024,Electrodomésticos,290.25
+1510,Plancha de vapor,$79.95,10,18/02/2024,Electrodomésticos,799.50
+2136,Laptop,$61.22,2,18/02/2024,Electrónica,122.44
+2302,Televisor,$69.69,5,18/02/2024,Electrónica,348.45
+2837,Cámara digital,$63.35,1,18/02/2024,Electrónica,63.35
+83,Espejo decorativo,$101.38,6,19/02/2024,Decoración,608.28
+252,Cuadro decorativo,$110.99,8,19/02/2024,Decoración,887.92
+428,Rincón de plantas,$74.58,11,19/02/2024,Decoración,820.38
+728,Rincón de plantas,$58.34,2,19/02/2024,Decoración,116.68
+878,Rincón de plantas,$29.09,12,19/02/2024,Decoración,349.08
+52,Cuadro decorativo,$52.23,10,20/02/2024,Decoración,522.30
+387,Elementos de cerámica,$76.94,12,20/02/2024,Decoración,923.28
+722,Cuadro decorativo,$84.63,5,20/02/2024,Decoración,423.15
+1409,Batidora,$79.10,4,20/02/2024,Electrodomésticos,316.40
+1568,Cafetera,$99.10,10,20/02/2024,Electrodomésticos,991.00
+1788,Cafetera,$45.67,4,20/02/2024,Electrodomésticos,182.68
+2077,Cámara digital,$28.16,4,20/02/2024,Electrónica,112.64
+2706,Laptop,$51.15,2,20/02/2024,Electrónica,102.30
+2900,Consola de videojuegos,$63.26,2,20/02/2024,Electrónica,126.52
+2992,Smartphone,$116.25,8,20/02/2024,Electrónica,930.00
+288,Rincón de plantas,$59.16,11,21/02/2024,Decoración,650.76
+408,Rincón de plantas,$63.23,7,21/02/2024,Decoración,442.61
+720,Adorno de pared,$90.05,1,21/02/2024,Decoración,90.05
+1031,Freidora eléctrica,$117.97,6,21/02/2024,Electrodomésticos,707.82
+1186,Secadora,$80.16,9,21/02/2024,Electrodomésticos,721.44
+1453,Microondas,$60.46,5,21/02/2024,Electrodomésticos,302.30
+1660,Plancha de vapor,$35.94,12,21/02/2024,Electrodomésticos,431.28
+1700,Plancha de vapor,$75.08,6,21/02/2024,Electrodomésticos,450.48
+1820,Plancha de vapor,$45.50,12,21/02/2024,Electrodomésticos,546.00
+2083,Smartphone,$32.60,8,21/02/2024,Electrónica,260.80
+2742,Televisor,$49.01,3,21/02/2024,Electrónica,147.03
+2903,Smartphone,$53.67,6,21/02/2024,Electrónica,322.02
+707,Elementos de cerámica,$63.79,1,22/02/2024,Decoración,63.79
+888,Rincón de plantas,$36.28,12,22/02/2024,Decoración,435.36
+891,Lámpara de mesa,$44.78,4,22/02/2024,Decoración,179.12
+928,Rincón de plantas,$111.80,5,22/02/2024,Decoración,559.00
+1508,Cafetera,$124.68,1,22/02/2024,Electrodomésticos,124.68
+1582,Cafetera,$53.82,7,22/02/2024,Electrodomésticos,376.74
+2056,Laptop,$99.00,11,22/02/2024,Electrónica,1089.00
+2883,Smartphone,$59.99,12,22/02/2024,Electrónica,719.88
+86,Cortinas,$36.75,12,23/02/2024,Decoración,441.00
+92,Cuadro decorativo,$35.48,3,23/02/2024,Decoración,106.44
+199,Lámpara de mesa,$31.24,1,23/02/2024,Decoración,31.24
+269,Lámpara de mesa,$66.48,1,23/02/2024,Decoración,66.48
+752,Cuadro decorativo,$110.51,11,23/02/2024,Decoración,1215.61
+1323,Microondas,$52.26,8,23/02/2024,Electrodomésticos,418.08
+2419,Proyector,$52.52,3,23/02/2024,Electrónica,157.56
+2503,Smartphone,$32.58,9,23/02/2024,Electrónica,293.22
+2541,Parlantes Bluetooth,$26.71,12,23/02/2024,Electrónica,320.52
+2587,Cámara digital,$61.40,7,23/02/2024,Electrónica,429.80
+365,Alfombra,$58.82,9,24/02/2024,Decoración,529.38
+577,Elementos de cerámica,$60.17,7,24/02/2024,Decoración,421.19
+929,Lámpara de mesa,$48.58,11,24/02/2024,Decoración,534.38
+930,Adorno de pared,$75.13,6,24/02/2024,Decoración,450.78
+1182,Cafetera,$113.84,2,24/02/2024,Electrodomésticos,227.68
+1558,Cafetera,$68.89,6,24/02/2024,Electrodomésticos,413.34
+1817,Horno eléctrico,$31.50,4,24/02/2024,Electrodomésticos,126.00
+2058,SmartWatch,$35.41,3,24/02/2024,Electrónica,106.23
+2768,SmartWatch,$29.39,11,24/02/2024,Electrónica,323.29
+2816,Laptop,$29.49,8,24/02/2024,Electrónica,235.92
+2943,Smartphone,$28.64,2,24/02/2024,Electrónica,57.28
+1703,Microondas,$91.81,9,25/02/2024,Electrodomésticos,826.29
+1852,Cafetera,$76.00,7,25/02/2024,Electrodomésticos,532.00
+2175,Auriculares,$117.03,6,25/02/2024,Electrónica,702.18
+2232,Televisor,$70.17,7,25/02/2024,Electrónica,491.19
+2269,Proyector,$74.59,4,25/02/2024,Electrónica,298.36
+2398,SmartWatch,$47.21,1,25/02/2024,Electrónica,47.21
+332,Cuadro decorativo,$124.20,10,26/02/2024,Decoración,1242.00
+581,Lámpara de mesa,$106.58,3,26/02/2024,Decoración,319.74
+697,Elementos de cerámica,$67.37,2,26/02/2024,Decoración,134.74
+1740,Plancha de vapor,$45.37,6,26/02/2024,Electrodomésticos,272.22
+2319,Proyector,$65.89,4,26/02/2024,Electrónica,263.56
+2551,Parlantes Bluetooth,$62.77,6,26/02/2024,Electrónica,376.62
+2,Cuadro decorativo,$106.12,3,27/02/2024,Decoración,318.36
+171,Lámpara de mesa,$62.47,6,27/02/2024,Decoración,374.82
+239,Lámpara de mesa,$46.25,12,27/02/2024,Decoración,555.00
+1095,Lavadora,$67.17,9,27/02/2024,Electrodomésticos,604.53
+1138,Cafetera,$92.62,8,27/02/2024,Electrodomésticos,740.96
+1835,Lavadora,$46.18,10,27/02/2024,Electrodomésticos,461.80
+1988,Cafetera,$49.32,3,27/02/2024,Electrodomésticos,147.96
+2594,Tablet,$82.71,7,27/02/2024,Electrónica,578.97
+2810,Consola de videojuegos,$31.09,1,27/02/2024,Electrónica,31.09
+2964,Tablet,$99.82,8,27/02/2024,Electrónica,798.56
+95,Alfombra,$87.85,2,28/02/2024,Decoración,175.70
+150,Adorno de pared,$27.92,5,28/02/2024,Decoración,139.60
+702,Cuadro decorativo,$112.56,9,28/02/2024,Decoración,1013.04
+1136,Secadora,$41.84,8,28/02/2024,Electrodomésticos,334.72
+1272,Cafetera,$100.92,1,28/02/2024,Electrodomésticos,100.92
+1410,Plancha de vapor,$122.77,10,28/02/2024,Electrodomésticos,1227.70
+1669,Batidora,$69.74,8,28/02/2024,Electrodomésticos,557.92
+1793,Microondas,$108.34,12,28/02/2024,Electrodomésticos,1300.08
+1839,Batidora,$63.50,3,28/02/2024,Electrodomésticos,190.50
+2110,Consola de videojuegos,$81.69,4,28/02/2024,Electrónica,326.76
+2695,Auriculares,$104.59,9,28/02/2024,Electrónica,941.31
+2697,Cámara digital,$117.71,2,28/02/2024,Electrónica,235.42
+79,Lámpara de mesa,$119.69,10,29/02/2024,Decoración,1196.90
+734,Jarrón decorativo,$108.99,6,29/02/2024,Decoración,653.94
+822,Cuadro decorativo,$34.33,11,29/02/2024,Decoración,377.63
+1569,Batidora,$122.02,12,29/02/2024,Electrodomésticos,1464.24
+1570,Plancha de vapor,$114.48,4,29/02/2024,Electrodomésticos,457.92
+1984,Aspiradora,$88.95,11,29/02/2024,Electrodomésticos,978.45
+2104,Tablet,$78.87,5,29/02/2024,Electrónica,394.35
+2223,Smartphone,$116.89,6,29/02/2024,Electrónica,701.34
+661,Lámpara de mesa,$85.58,11,01/03/2024,Decoración,941.38
+1189,Batidora,$82.18,6,01/03/2024,Electrodomésticos,493.08
+1263,Microondas,$54.11,7,01/03/2024,Electrodomésticos,378.77
+2699,Proyector,$66.66,6,01/03/2024,Electrónica,399.96
+337,Elementos de cerámica,$92.88,10,02/03/2024,Decoración,928.80
+396,Cortinas,$39.63,2,02/03/2024,Decoración,79.26
+454,Jarrón decorativo,$80.34,7,02/03/2024,Decoración,562.38
+868,Rincón de plantas,$85.49,2,02/03/2024,Decoración,170.98
+1089,Batidora,$61.72,8,02/03/2024,Electrodomésticos,493.76
+2322,Televisor,$81.31,9,02/03/2024,Electrónica,731.79
+2572,Televisor,$123.48,7,02/03/2024,Electrónica,864.36
+2777,Cámara digital,$31.52,8,02/03/2024,Electrónica,252.16
+8,Rincón de plantas,$70.24,7,03/03/2024,Decoración,491.68
+356,Cortinas,$122.97,5,03/03/2024,Decoración,614.85
+403,Espejo decorativo,$64.37,1,03/03/2024,Decoración,64.37
+760,Adorno de pared,$77.65,1,03/03/2024,Decoración,77.65
+985,Alfombra,$118.35,3,03/03/2024,Decoración,355.05
+2975,Auriculares,$55.20,10,03/03/2024,Electrónica,552.00
+186,Cortinas,$108.74,3,04/03/2024,Decoración,326.22
+954,Jarrón decorativo,$112.06,1,04/03/2024,Decoración,112.06
+1622,Cafetera,$38.44,7,04/03/2024,Electrodomésticos,269.08
+1646,Secadora,$33.89,7,04/03/2024,Electrodomésticos,237.23
+1761,Freidora eléctrica,$109.97,7,04/03/2024,Electrodomésticos,769.79
+1812,Cafetera,$106.32,1,04/03/2024,Electrodomésticos,106.32
+2489,Proyector,$77.06,1,04/03/2024,Electrónica,77.06
+140,Adorno de pared,$44.91,1,05/03/2024,Decoración,44.91
+324,Jarrón decorativo,$57.23,5,05/03/2024,Decoración,286.15
+774,Jarrón decorativo,$115.58,12,05/03/2024,Decoración,1386.96
+1085,Lavadora,$108.53,10,05/03/2024,Electrodomésticos,1085.30
+1736,Secadora,$59.04,11,05/03/2024,Electrodomésticos,649.44
+1741,Freidora eléctrica,$67.75,2,05/03/2024,Electrodomésticos,135.50
+1743,Microondas,$81.63,6,05/03/2024,Electrodomésticos,489.78
+2063,Smartphone,$124.01,12,05/03/2024,Electrónica,1488.12
+2102,Televisor,$33.14,1,05/03/2024,Electrónica,33.14
+781,Lámpara de mesa,$115.77,11,06/03/2024,Decoración,1273.47
+1686,Secadora,$59.33,8,06/03/2024,Electrodomésticos,474.64
+2099,Proyector,$40.99,2,06/03/2024,Electrónica,81.98
+2388,SmartWatch,$100.57,9,06/03/2024,Electrónica,905.13
+2498,SmartWatch,$100.96,10,06/03/2024,Electrónica,1009.60
+2942,Televisor,$119.68,2,06/03/2024,Electrónica,239.36
+612,Cuadro decorativo,$45.04,10,07/03/2024,Decoración,450.40
+635,Alfombra,$44.66,7,07/03/2024,Decoración,312.62
+879,Lámpara de mesa,$34.26,11,07/03/2024,Decoración,376.86
+1027,Horno eléctrico,$70.09,1,07/03/2024,Electrodomésticos,70.09
+1052,Cafetera,$39.31,11,07/03/2024,Electrodomésticos,432.41
+1982,Cafetera,$117.43,8,07/03/2024,Electrodomésticos,939.44
+2270,Consola de videojuegos,$117.47,8,07/03/2024,Electrónica,939.76
+2550,Consola de videojuegos,$118.87,6,07/03/2024,Electrónica,713.22
+23,Espejo decorativo,$70.36,5,08/03/2024,Decoración,351.80
+336,Cortinas,$84.55,5,08/03/2024,Decoración,422.75
+348,Rincón de plantas,$46.49,1,08/03/2024,Decoración,46.49
+435,Alfombra,$97.14,1,08/03/2024,Decoración,97.14
+1229,Batidora,$29.86,4,08/03/2024,Electrodomésticos,119.44
+1434,Aspiradora,$60.42,11,08/03/2024,Electrodomésticos,664.62
+1557,Horno eléctrico,$53.29,12,08/03/2024,Electrodomésticos,639.48
+1879,Batidora,$65.59,9,08/03/2024,Electrodomésticos,590.31
+2233,Smartphone,$37.11,3,08/03/2024,Electrónica,111.33
+156,Cortinas,$39.67,2,09/03/2024,Decoración,79.34
+470,Adorno de pared,$34.68,5,09/03/2024,Decoración,173.40
+685,Alfombra,$102.81,9,09/03/2024,Decoración,925.29
+805,Alfombra,$48.99,8,09/03/2024,Decoración,391.92
+1369,Batidora,$48.80,11,09/03/2024,Electrodomésticos,536.80
+1513,Microondas,$69.57,1,09/03/2024,Electrodomésticos,69.57
+1844,Aspiradora,$86.29,12,09/03/2024,Electrodomésticos,1035.48
+2002,Televisor,$68.99,10,09/03/2024,Electrónica,689.90
+2664,Tablet,$54.19,3,09/03/2024,Electrónica,162.57
+2684,Auriculares,$79.29,6,09/03/2024,Electrónica,475.74
+2694,Auriculares,$51.71,3,09/03/2024,Electrónica,155.13
+2826,Laptop,$39.13,8,09/03/2024,Electrónica,313.04
+2983,Smartphone,$118.60,11,09/03/2024,Electrónica,1304.60
+74,Jarrón decorativo,$51.08,11,10/03/2024,Decoración,561.88
+161,Lámpara de mesa,$96.41,11,10/03/2024,Decoración,1060.51
+967,Elementos de cerámica,$29.05,10,10/03/2024,Decoración,290.50
+978,Rincón de plantas,$32.05,4,10/03/2024,Decoración,128.20
+1169,Batidora,$85.59,5,10/03/2024,Electrodomésticos,427.95
+1219,Batidora,$49.37,9,10/03/2024,Electrodomésticos,444.33
+1330,Plancha de vapor,$28.85,11,10/03/2024,Electrodomésticos,317.35
+1742,Cafetera,$96.84,11,10/03/2024,Electrodomésticos,1065.24
+1751,Freidora eléctrica,$77.13,4,10/03/2024,Electrodomésticos,308.52
+1860,Plancha de vapor,$102.60,12,10/03/2024,Electrodomésticos,1231.20
+2944,Auriculares,$55.17,4,10/03/2024,Electrónica,220.68
+91,Lámpara de mesa,$89.87,12,11/03/2024,Decoración,1078.44
+615,Alfombra,$65.09,5,11/03/2024,Decoración,325.45
+1240,Plancha de vapor,$40.78,12,11/03/2024,Electrodomésticos,489.36
+1311,Freidora eléctrica,$61.53,11,11/03/2024,Electrodomésticos,676.83
+1707,Horno eléctrico,$59.05,8,11/03/2024,Electrodomésticos,472.40
+1934,Aspiradora,$42.94,2,11/03/2024,Electrodomésticos,85.88
+2436,Laptop,$43.34,8,11/03/2024,Electrónica,346.72
+693,Espejo decorativo,$85.04,9,12/03/2024,Decoración,765.36
+849,Lámpara de mesa,$46.89,2,12/03/2024,Decoración,93.78
+887,Elementos de cerámica,$41.55,3,12/03/2024,Decoración,124.65
+1042,Heladera,$121.85,10,12/03/2024,Electrodomésticos,1218.50
+1248,Cafetera,$30.70,5,12/03/2024,Electrodomésticos,153.50
+1305,Lavadora,$114.72,9,12/03/2024,Electrodomésticos,1032.48
+2282,Televisor,$31.80,10,12/03/2024,Electrónica,318.00
+2519,Proyector,$76.15,11,12/03/2024,Electrónica,837.65
+543,Espejo decorativo,$79.98,10,13/03/2024,Decoración,799.80
+623,Espejo decorativo,$74.95,3,13/03/2024,Decoración,224.85
+874,Jarrón decorativo,$80.88,12,13/03/2024,Decoración,970.56
+1173,Microondas,$71.13,12,13/03/2024,Electrodomésticos,853.56
+1260,Plancha de vapor,$122.04,1,13/03/2024,Electrodomésticos,122.04
+1295,Lavadora,$53.77,7,13/03/2024,Electrodomésticos,376.39
+1620,Plancha de vapor,$76.32,5,13/03/2024,Electrodomésticos,381.60
+1892,Heladera,$58.45,1,13/03/2024,Electrodomésticos,58.45
+1916,Secadora,$110.04,11,13/03/2024,Electrodomésticos,1210.44
+2393,Smartphone,$113.88,9,13/03/2024,Electrónica,1024.92
+2437,Cámara digital,$80.06,3,13/03/2024,Electrónica,240.18
+2688,SmartWatch,$119.73,12,13/03/2024,Electrónica,1436.76
+2858,SmartWatch,$89.27,6,13/03/2024,Electrónica,535.62
+820,Adorno de pared,$36.55,3,14/03/2024,Decoración,109.65
+1303,Microondas,$40.90,9,14/03/2024,Electrodomésticos,368.10
+1657,Horno eléctrico,$109.73,9,14/03/2024,Electrodomésticos,987.57
+1772,Heladera,$56.94,2,14/03/2024,Electrodomésticos,113.88
+1978,Cafetera,$104.66,11,14/03/2024,Electrodomésticos,1151.26
+2052,Televisor,$66.57,5,14/03/2024,Electrónica,332.85
+2347,Cámara digital,$112.14,3,14/03/2024,Electrónica,336.42
+2493,Smartphone,$124.82,5,14/03/2024,Electrónica,624.10
+2748,SmartWatch,$53.93,7,14/03/2024,Electrónica,377.51
+2882,Televisor,$56.81,9,14/03/2024,Electrónica,511.29
+2981,Parlantes Bluetooth,$80.25,10,14/03/2024,Electrónica,802.50
+517,Elementos de cerámica,$94.94,12,15/03/2024,Decoración,1139.28
+624,Jarrón decorativo,$51.39,10,15/03/2024,Decoración,513.90
+772,Cuadro decorativo,$78.76,10,15/03/2024,Decoración,787.60
+957,Elementos de cerámica,$75.27,4,15/03/2024,Decoración,301.08
+1953,Microondas,$119.61,2,15/03/2024,Electrodomésticos,239.22
+2082,Televisor,$55.66,3,15/03/2024,Electrónica,166.98
+2170,Consola de videojuegos,$122.40,1,15/03/2024,Electrónica,122.40
+2554,Auriculares,$100.07,11,15/03/2024,Electrónica,1100.77
+2647,Cámara digital,$90.34,1,15/03/2024,Electrónica,90.34
+2835,Auriculares,$42.50,7,15/03/2024,Electrónica,297.50
+2950,Consola de videojuegos,$29.14,10,15/03/2024,Electrónica,291.40
+613,Espejo decorativo,$78.46,7,16/03/2024,Decoración,549.22
+836,Cortinas,$115.79,1,16/03/2024,Decoración,115.79
+919,Lámpara de mesa,$51.50,1,16/03/2024,Decoración,51.50
+1099,Batidora,$39.73,11,16/03/2024,Electrodomésticos,437.03
+1670,Plancha de vapor,$101.57,7,16/03/2024,Electrodomésticos,710.99
+1995,Lavadora,$31.36,7,16/03/2024,Electrodomésticos,219.52
+2018,SmartWatch,$99.78,1,16/03/2024,Electrónica,99.78
+2030,Consola de videojuegos,$108.00,9,16/03/2024,Electrónica,972.00
+2613,Smartphone,$105.63,6,16/03/2024,Electrónica,633.78
+2749,Proyector,$120.50,4,16/03/2024,Electrónica,482.00
+2809,Proyector,$89.06,1,16/03/2024,Electrónica,89.06
+262,Cuadro decorativo,$70.89,11,17/03/2024,Decoración,779.79
+449,Lámpara de mesa,$29.32,3,17/03/2024,Decoración,87.96
+914,Jarrón decorativo,$98.11,2,17/03/2024,Decoración,196.22
+1067,Horno eléctrico,$116.21,8,17/03/2024,Electrodomésticos,929.68
+1164,Aspiradora,$102.32,2,17/03/2024,Electrodomésticos,204.64
+1209,Batidora,$111.44,3,17/03/2024,Electrodomésticos,334.32
+1545,Lavadora,$33.31,10,17/03/2024,Electrodomésticos,333.10
+2444,Auriculares,$70.16,11,17/03/2024,Electrónica,771.76
+2577,Cámara digital,$45.12,6,17/03/2024,Electrónica,270.72
+2677,Cámara digital,$92.00,10,17/03/2024,Electrónica,920.00
+188,Rincón de plantas,$101.62,9,18/03/2024,Decoración,914.58
+407,Elementos de cerámica,$97.51,5,18/03/2024,Decoración,487.55
+505,Alfombra,$96.21,11,18/03/2024,Decoración,1058.31
+872,Cuadro decorativo,$55.89,10,18/03/2024,Decoración,558.90
+926,Cortinas,$63.98,11,18/03/2024,Decoración,703.78
+1384,Aspiradora,$80.38,9,18/03/2024,Electrodomésticos,723.42
+2035,Auriculares,$78.28,6,18/03/2024,Electrónica,469.68
+2454,Auriculares,$101.08,10,18/03/2024,Electrónica,1010.80
+2496,Laptop,$40.16,3,18/03/2024,Electrónica,120.48
+2763,Smartphone,$107.84,11,18/03/2024,Electrónica,1186.24
+314,Jarrón decorativo,$109.29,10,19/03/2024,Decoración,1092.90
+731,Lámpara de mesa,$40.05,2,19/03/2024,Decoración,80.10
+961,Lámpara de mesa,$103.06,9,19/03/2024,Decoración,927.54
+1073,Microondas,$72.86,10,19/03/2024,Electrodomésticos,728.60
+1917,Horno eléctrico,$82.36,2,19/03/2024,Electrodomésticos,164.72
+2037,Cámara digital,$68.66,12,19/03/2024,Electrónica,823.92
+2047,Cámara digital,$85.45,3,19/03/2024,Electrónica,256.35
+2157,Cámara digital,$65.62,8,19/03/2024,Electrónica,524.96
+197,Elementos de cerámica,$89.17,4,20/03/2024,Decoración,356.68
+206,Cortinas,$73.65,2,20/03/2024,Decoración,147.30
+234,Jarrón decorativo,$112.40,9,20/03/2024,Decoración,1011.60
+746,Cortinas,$64.93,10,20/03/2024,Decoración,649.30
+855,Alfombra,$48.79,11,20/03/2024,Decoración,536.69
+950,Adorno de pared,$116.42,6,20/03/2024,Decoración,698.52
+1581,Freidora eléctrica,$88.59,8,20/03/2024,Electrodomésticos,708.72
+2001,Freidora eléctrica,$43.14,12,20/03/2024,Electrodomésticos,517.68
+2112,Televisor,$34.89,12,20/03/2024,Electrónica,418.68
+2530,Consola de videojuegos,$54.04,8,20/03/2024,Electrónica,432.32
+195,Alfombra,$115.12,12,21/03/2024,Decoración,1381.44
+780,Adorno de pared,$79.13,7,21/03/2024,Decoración,553.91
+1290,Plancha de vapor,$76.04,5,21/03/2024,Electrodomésticos,380.20
+1537,Horno eléctrico,$103.51,7,21/03/2024,Electrodomésticos,724.57
+1677,Horno eléctrico,$116.79,12,21/03/2024,Electrodomésticos,1401.48
+1831,Freidora eléctrica,$87.85,4,21/03/2024,Electrodomésticos,351.40
+2200,Consola de videojuegos,$44.36,10,21/03/2024,Electrónica,443.60
+2650,Consola de videojuegos,$50.77,10,21/03/2024,Electrónica,507.70
+2691,Parlantes Bluetooth,$32.86,11,21/03/2024,Electrónica,361.46
+2701,Parlantes Bluetooth,$88.65,9,21/03/2024,Electrónica,797.85
+2946,Laptop,$27.65,11,21/03/2024,Electrónica,304.15
+65,Alfombra,$63.14,2,22/03/2024,Decoración,126.28
+270,Adorno de pared,$96.59,6,22/03/2024,Decoración,579.54
+645,Alfombra,$36.17,1,22/03/2024,Decoración,36.17
+1222,Heladera,$103.34,8,22/03/2024,Electrodomésticos,826.72
+1921,Freidora eléctrica,$124.00,5,22/03/2024,Electrodomésticos,620.00
+2059,Proyector,$116.66,12,22/03/2024,Electrónica,1399.92
+2100,Consola de videojuegos,$94.73,1,22/03/2024,Electrónica,94.73
+2162,Televisor,$40.83,3,22/03/2024,Electrónica,122.49
+2634,Auriculares,$124.63,10,22/03/2024,Electrónica,1246.30
+2813,Smartphone,$114.94,11,22/03/2024,Electrónica,1264.34
+1607,Horno eléctrico,$53.09,3,23/03/2024,Electrodomésticos,159.27
+1690,Plancha de vapor,$68.28,9,23/03/2024,Electrodomésticos,614.52
+2456,Laptop,$68.84,11,23/03/2024,Electrónica,757.24
+210,Adorno de pared,$71.67,4,24/03/2024,Decoración,286.68
+708,Rincón de plantas,$63.10,11,24/03/2024,Decoración,694.10
+1502,Heladera,$112.52,4,24/03/2024,Electrodomésticos,450.08
+1562,Heladera,$31.42,1,24/03/2024,Electrodomésticos,31.42
+1904,Aspiradora,$102.92,5,24/03/2024,Electrodomésticos,514.60
+2003,Smartphone,$118.80,2,24/03/2024,Electrónica,237.60
+2399,Proyector,$96.70,3,24/03/2024,Electrónica,290.10
+2420,Consola de videojuegos,$72.78,9,24/03/2024,Electrónica,655.02
+2462,Televisor,$46.04,3,24/03/2024,Electrónica,138.12
+2480,Consola de videojuegos,$96.21,11,24/03/2024,Electrónica,1058.31
+339,Lámpara de mesa,$42.60,1,25/03/2024,Decoración,42.60
+595,Alfombra,$83.25,1,25/03/2024,Decoración,83.25
+629,Lámpara de mesa,$40.30,2,25/03/2024,Decoración,80.60
+652,Cuadro decorativo,$100.52,9,25/03/2024,Decoración,904.68
+1093,Microondas,$71.38,1,25/03/2024,Electrodomésticos,71.38
+1918,Cafetera,$39.33,10,25/03/2024,Electrodomésticos,393.30
+2306,Laptop,$80.84,9,25/03/2024,Electrónica,727.56
+2542,Televisor,$67.37,4,25/03/2024,Electrónica,269.48
+594,Jarrón decorativo,$115.95,1,26/03/2024,Decoración,115.95
+649,Lámpara de mesa,$83.61,1,26/03/2024,Decoración,83.61
+1183,Microondas,$49.65,5,26/03/2024,Electrodomésticos,248.25
+1648,Cafetera,$63.49,7,26/03/2024,Electrodomésticos,444.43
+1705,Lavadora,$81.34,4,26/03/2024,Electrodomésticos,325.36
+1874,Aspiradora,$78.77,1,26/03/2024,Electrodomésticos,78.77
+2912,Televisor,$42.72,1,26/03/2024,Electrónica,42.72
+132,Cuadro decorativo,$56.45,12,27/03/2024,Decoración,677.40
+549,Lámpara de mesa,$116.13,8,27/03/2024,Decoración,929.04
+598,Rincón de plantas,$82.59,8,27/03/2024,Decoración,660.72
+939,Lámpara de mesa,$46.83,3,27/03/2024,Decoración,140.49
+1251,Freidora eléctrica,$113.11,12,27/03/2024,Electrodomésticos,1357.32
+1785,Lavadora,$44.12,10,27/03/2024,Electrodomésticos,441.20
+558,Rincón de plantas,$93.66,10,28/03/2024,Decoración,936.60
+730,Adorno de pared,$103.90,8,28/03/2024,Decoración,831.20
+1121,Freidora eléctrica,$90.31,6,28/03/2024,Electrodomésticos,541.86
+1433,Microondas,$63.01,8,28/03/2024,Electrodomésticos,504.08
+1565,Lavadora,$37.25,11,28/03/2024,Electrodomésticos,409.75
+1873,Microondas,$32.18,7,28/03/2024,Electrodomésticos,225.26
+2830,Consola de videojuegos,$123.72,3,28/03/2024,Electrónica,371.16
+2272,Televisor,$55.97,7,29/03/2024,Electrónica,391.79
+2585,Auriculares,$47.12,12,29/03/2024,Electrónica,565.44
+2838,SmartWatch,$115.30,3,29/03/2024,Electrónica,345.90
+2856,Laptop,$122.13,11,29/03/2024,Electrónica,1343.43
+749,Lámpara de mesa,$44.88,1,30/03/2024,Decoración,44.88
+1800,Plancha de vapor,$33.15,2,30/03/2024,Electrodomésticos,66.30
+1821,Freidora eléctrica,$44.33,10,30/03/2024,Electrodomésticos,443.30
+2034,Auriculares,$120.46,8,30/03/2024,Electrónica,963.68
+2044,Tablet,$35.84,11,30/03/2024,Electrónica,394.24
+2286,Laptop,$71.74,8,30/03/2024,Electrónica,573.92
+2683,Smartphone,$111.41,7,30/03/2024,Electrónica,779.87
+2984,Tablet,$75.89,11,30/03/2024,Electrónica,834.79
+46,Cortinas,$98.15,7,31/03/2024,Decoración,687.05
+221,Lámpara de mesa,$41.81,9,31/03/2024,Decoración,376.29
+251,Lámpara de mesa,$33.37,3,31/03/2024,Decoración,100.11
+654,Jarrón decorativo,$53.53,7,31/03/2024,Decoración,374.71
+904,Jarrón decorativo,$40.48,11,31/03/2024,Decoración,445.28
+1201,Freidora eléctrica,$95.13,8,31/03/2024,Electrodomésticos,761.04
+1261,Freidora eléctrica,$84.29,10,31/03/2024,Electrodomésticos,842.90
+1633,Microondas,$112.89,1,31/03/2024,Electrodomésticos,112.89
+1948,Cafetera,$116.78,6,31/03/2024,Electrodomésticos,700.68
+2062,Televisor,$101.98,7,31/03/2024,Electrónica,713.86
+2731,Parlantes Bluetooth,$77.95,6,31/03/2024,Electrónica,467.70
+390,Adorno de pared,$87.52,8,01/04/2024,Decoración,700.16
+522,Cuadro decorativo,$27.99,5,01/04/2024,Decoración,139.95
+1322,Heladera,$58.58,4,01/04/2024,Electrodomésticos,234.32
+2310,Consola de videojuegos,$102.41,5,01/04/2024,Electrónica,512.05
+2383,Smartphone,$103.69,1,01/04/2024,Electrónica,103.69
+2865,Auriculares,$89.29,2,01/04/2024,Electrónica,178.58
+45,Alfombra,$72.91,1,02/04/2024,Decoración,72.91
+893,Espejo decorativo,$34.64,12,02/04/2024,Decoración,415.68
+1008,Cafetera,$42.40,10,02/04/2024,Electrodomésticos,424.00
+1148,Cafetera,$110.21,4,02/04/2024,Electrodomésticos,440.84
+1457,Horno eléctrico,$27.61,6,02/04/2024,Electrodomésticos,165.66
+1588,Cafetera,$58.68,4,02/04/2024,Electrodomésticos,234.72
+1866,Secadora,$39.42,9,02/04/2024,Electrodomésticos,354.78
+1889,Batidora,$121.14,3,02/04/2024,Electrodomésticos,363.42
+1983,Microondas,$96.24,4,02/04/2024,Electrodomésticos,384.96
+226,Cortinas,$27.05,3,03/04/2024,Decoración,81.15
+351,Lámpara de mesa,$98.22,4,03/04/2024,Decoración,392.88
+479,Lámpara de mesa,$35.26,9,03/04/2024,Decoración,317.34
+570,Adorno de pared,$64.18,7,03/04/2024,Decoración,449.26
+643,Espejo decorativo,$43.51,1,03/04/2024,Decoración,43.51
+679,Lámpara de mesa,$39.86,6,03/04/2024,Decoración,239.16
+1188,Cafetera,$91.58,11,03/04/2024,Electrodomésticos,1007.38
+1480,Plancha de vapor,$99.08,11,03/04/2024,Electrodomésticos,1089.88
+1611,Freidora eléctrica,$82.46,4,03/04/2024,Electrodomésticos,329.84
+1627,Horno eléctrico,$40.58,5,03/04/2024,Electrodomésticos,202.90
+2028,SmartWatch,$38.84,7,03/04/2024,Electrónica,271.88
+2281,Parlantes Bluetooth,$70.68,5,03/04/2024,Electrónica,353.40
+2532,Televisor,$81.42,9,03/04/2024,Electrónica,732.78
+172,Cuadro decorativo,$87.93,11,04/04/2024,Decoración,967.23
+237,Elementos de cerámica,$61.12,9,04/04/2024,Decoración,550.08
+340,Adorno de pared,$49.30,2,04/04/2024,Decoración,98.60
+400,Adorno de pared,$33.10,1,04/04/2024,Decoración,33.10
+841,Lámpara de mesa,$86.82,10,04/04/2024,Decoración,868.20
+1287,Horno eléctrico,$116.05,11,04/04/2024,Electrodomésticos,1276.55
+1366,Secadora,$31.56,11,04/04/2024,Electrodomésticos,347.16
+1878,Cafetera,$68.97,8,04/04/2024,Electrodomésticos,551.76
+2124,Tablet,$74.39,7,04/04/2024,Electrónica,520.73
+56,Cortinas,$66.24,5,05/04/2024,Decoración,331.20
+421,Lámpara de mesa,$114.83,9,05/04/2024,Decoración,1033.47
+424,Jarrón decorativo,$87.94,2,05/04/2024,Decoración,175.88
+1868,Cafetera,$62.23,1,05/04/2024,Electrodomésticos,62.23
+2545,Auriculares,$32.81,11,05/04/2024,Electrónica,360.91
+2778,SmartWatch,$70.66,7,05/04/2024,Electrónica,494.62
+56,Cortinas,$66.24,5,05/04/2024,Decoración,331.20
+421,Lámpara de mesa,$114.83,9,05/04/2024,Decoración,1033.47
+424,Jarrón decorativo,$87.94,2,05/04/2024,Decoración,175.88
+1868,Cafetera,$62.23,1,05/04/2024,Electrodomésticos,62.23
+2545,Auriculares,$32.81,11,05/04/2024,Electrónica,360.91
+2778,SmartWatch,$70.66,7,05/04/2024,Electrónica,494.62
+145,Alfombra,$41.72,8,06/04/2024,Decoración,333.76
+300,Adorno de pared,$67.75,9,06/04/2024,Decoración,609.75
+439,Lámpara de mesa,$35.43,2,06/04/2024,Decoración,70.86
+906,Cortinas,$84.04,3,06/04/2024,Decoración,252.12
+959,Lámpara de mesa,$76.32,7,06/04/2024,Decoración,534.24
+1376,Secadora,$69.58,7,06/04/2024,Electrodomésticos,487.06
+1776,Secadora,$33.55,3,06/04/2024,Electrodomésticos,100.65
+1784,Aspiradora,$115.24,3,06/04/2024,Electrodomésticos,345.72
+1974,Aspiradora,$87.32,7,06/04/2024,Electrodomésticos,611.24
+2080,Consola de videojuegos,$100.69,7,06/04/2024,Electrónica,704.83
+2108,SmartWatch,$79.37,10,06/04/2024,Electrónica,793.70
+2169,Proyector,$120.34,1,06/04/2024,Electrónica,120.34
+145,Alfombra,$41.72,8,06/04/2024,Decoración,333.76
+300,Adorno de pared,$67.75,9,06/04/2024,Decoración,609.75
+439,Lámpara de mesa,$35.43,2,06/04/2024,Decoración,70.86
+906,Cortinas,$84.04,3,06/04/2024,Decoración,252.12
+959,Lámpara de mesa,$76.32,7,06/04/2024,Decoración,534.24
+1376,Secadora,$69.58,7,06/04/2024,Electrodomésticos,487.06
+1776,Secadora,$33.55,3,06/04/2024,Electrodomésticos,100.65
+1784,Aspiradora,$115.24,3,06/04/2024,Electrodomésticos,345.72
+1974,Aspiradora,$87.32,7,06/04/2024,Electrodomésticos,611.24
+2080,Consola de videojuegos,$100.69,7,06/04/2024,Electrónica,704.83
+2108,SmartWatch,$79.37,10,06/04/2024,Electrónica,793.70
+2169,Proyector,$120.34,1,06/04/2024,Electrónica,120.34
+213,Espejo decorativo,$40.76,8,07/04/2024,Decoración,326.08
+345,Alfombra,$56.78,9,07/04/2024,Decoración,511.02
+398,Rincón de plantas,$77.30,7,07/04/2024,Decoración,541.10
+509,Lámpara de mesa,$72.50,1,07/04/2024,Decoración,72.50
+821,Lámpara de mesa,$71.17,10,07/04/2024,Decoración,711.70
+1642,Heladera,$88.78,2,07/04/2024,Electrodomésticos,177.56
+1956,Secadora,$42.59,12,07/04/2024,Electrodomésticos,511.08
+2085,Auriculares,$122.56,6,07/04/2024,Electrónica,735.36
+2096,Laptop,$83.25,6,07/04/2024,Electrónica,499.50
+2356,Laptop,$30.16,6,07/04/2024,Electrónica,180.96
+2373,Smartphone,$123.60,12,07/04/2024,Electrónica,1483.20
+213,Espejo decorativo,$40.76,8,07/04/2024,Decoración,326.08
+345,Alfombra,$56.78,9,07/04/2024,Decoración,511.02
+398,Rincón de plantas,$77.30,7,07/04/2024,Decoración,541.10
+509,Lámpara de mesa,$72.50,1,07/04/2024,Decoración,72.50
+821,Lámpara de mesa,$71.17,10,07/04/2024,Decoración,711.70
+1642,Heladera,$88.78,2,07/04/2024,Electrodomésticos,177.56
+1956,Secadora,$42.59,12,07/04/2024,Electrodomésticos,511.08
+2085,Auriculares,$122.56,6,07/04/2024,Electrónica,735.36
+2096,Laptop,$83.25,6,07/04/2024,Electrónica,499.50
+2356,Laptop,$30.16,6,07/04/2024,Electrónica,180.96
+2373,Smartphone,$123.60,12,07/04/2024,Electrónica,1483.20
+204,Jarrón decorativo,$94.75,1,08/04/2024,Decoración,94.75
+1381,Freidora eléctrica,$38.12,2,08/04/2024,Electrodomésticos,76.24
+2365,Auriculares,$92.91,11,08/04/2024,Electrónica,1022.01
+2486,Laptop,$124.95,11,08/04/2024,Electrónica,1374.45
+2506,Laptop,$34.74,1,08/04/2024,Electrónica,34.74
+2705,Auriculares,$87.29,2,08/04/2024,Electrónica,174.58
+204,Jarrón decorativo,$94.75,1,08/04/2024,Decoración,94.75
+1381,Freidora eléctrica,$38.12,2,08/04/2024,Electrodomésticos,76.24
+2365,Auriculares,$92.91,11,08/04/2024,Electrónica,1022.01
+2486,Laptop,$124.95,11,08/04/2024,Electrónica,1374.45
+2506,Laptop,$34.74,1,08/04/2024,Electrónica,34.74
+2705,Auriculares,$87.29,2,08/04/2024,Electrónica,174.58
+1225,Lavadora,$87.65,2,09/04/2024,Electrodomésticos,175.30
+1344,Aspiradora,$34.10,3,09/04/2024,Electrodomésticos,102.30
+1361,Freidora eléctrica,$103.64,10,09/04/2024,Electrodomésticos,1036.40
+1979,Batidora,$88.23,11,09/04/2024,Electrodomésticos,970.53
+2852,Televisor,$34.23,4,09/04/2024,Electrónica,136.92
+48,Rincón de plantas,$102.85,3,10/04/2024,Decoración,308.55
+141,Lámpara de mesa,$96.45,1,10/04/2024,Decoración,96.45
+426,Cortinas,$119.55,7,10/04/2024,Decoración,836.85
+556,Cortinas,$42.74,12,10/04/2024,Decoración,512.88
+600,Adorno de pared,$66.00,4,10/04/2024,Decoración,264.00
+797,Elementos de cerámica,$52.97,2,10/04/2024,Decoración,105.94
+1315,Lavadora,$49.69,12,10/04/2024,Electrodomésticos,596.28
+1356,Secadora,$124.09,4,10/04/2024,Electrodomésticos,496.36
+1435,Lavadora,$37.20,10,10/04/2024,Electrodomésticos,372.00
+1618,Cafetera,$31.94,11,10/04/2024,Electrodomésticos,351.34
+1630,Plancha de vapor,$76.06,9,10/04/2024,Electrodomésticos,684.54
+1871,Freidora eléctrica,$88.90,6,10/04/2024,Electrodomésticos,533.40
+1919,Batidora,$38.51,9,10/04/2024,Electrodomésticos,346.59
+2661,Parlantes Bluetooth,$79.11,3,10/04/2024,Electrónica,237.33
+2785,Auriculares,$122.80,3,10/04/2024,Electrónica,368.40
+328,Rincón de plantas,$60.89,1,11/04/2024,Decoración,60.89
+466,Cortinas,$26.29,7,11/04/2024,Decoración,184.03
+1109,Batidora,$123.83,12,11/04/2024,Electrodomésticos,1485.96
+1578,Cafetera,$101.98,2,11/04/2024,Electrodomésticos,203.96
+2370,Consola de videojuegos,$46.08,7,11/04/2024,Electrónica,322.56
+2478,SmartWatch,$80.84,8,11/04/2024,Electrónica,646.72
+2544,Tablet,$63.88,8,11/04/2024,Electrónica,511.04
+2934,Tablet,$95.90,2,11/04/2024,Electrónica,191.80
+127,Elementos de cerámica,$93.84,8,12/04/2024,Decoración,750.72
+292,Cuadro decorativo,$78.91,8,12/04/2024,Decoración,631.28
+1394,Aspiradora,$68.73,5,12/04/2024,Electrodomésticos,343.65
+2492,Televisor,$54.40,5,12/04/2024,Electrónica,272.00
+2812,Televisor,$52.60,2,12/04/2024,Electrónica,105.20
+89,Lámpara de mesa,$55.79,1,13/04/2024,Decoración,55.79
+659,Lámpara de mesa,$50.98,3,13/04/2024,Decoración,152.94
+1012,Heladera,$62.93,1,13/04/2024,Electrodomésticos,62.93
+1048,Cafetera,$58.81,10,13/04/2024,Electrodomésticos,588.10
+1450,Plancha de vapor,$56.80,8,13/04/2024,Electrodomésticos,454.40
+1758,Cafetera,$118.03,5,13/04/2024,Electrodomésticos,590.15
+1856,Secadora,$42.03,11,13/04/2024,Electrodomésticos,462.33
+2490,Consola de videojuegos,$122.79,6,13/04/2024,Electrónica,736.74
+2547,Cámara digital,$60.29,6,13/04/2024,Electrónica,361.74
+2704,Tablet,$117.89,1,13/04/2024,Electrónica,117.89
+2996,Cámara digital,$63.89,1,13/04/2024,Electrónica,63.89
+285,Alfombra,$107.80,7,14/04/2024,Decoración,754.60
+896,Cortinas,$71.03,7,14/04/2024,Decoración,497.21
+1097,Horno eléctrico,$122.69,10,14/04/2024,Electrodomésticos,1226.90
+1516,Secadora,$105.80,3,14/04/2024,Electrodomésticos,317.40
+1698,Cafetera,$88.26,1,14/04/2024,Electrodomésticos,88.26
+2029,Proyector,$124.37,8,14/04/2024,Electrónica,994.96
+2039,Proyector,$34.39,7,14/04/2024,Electrónica,240.73
+2097,Cámara digital,$42.17,8,14/04/2024,Electrónica,337.36
+2275,Auriculares,$32.00,1,14/04/2024,Electrónica,32.00
+2381,Parlantes Bluetooth,$98.28,5,14/04/2024,Electrónica,491.40
+107,Elementos de cerámica,$45.86,6,15/04/2024,Decoración,275.16
+185,Alfombra,$45.21,6,15/04/2024,Decoración,271.26
+374,Jarrón decorativo,$94.59,5,15/04/2024,Decoración,472.95
+601,Lámpara de mesa,$99.85,3,15/04/2024,Decoración,299.55
+616,Cortinas,$107.96,9,15/04/2024,Decoración,971.64
+886,Cortinas,$45.79,7,15/04/2024,Decoración,320.53
+1134,Aspiradora,$69.06,11,15/04/2024,Electrodomésticos,759.66
+1168,Cafetera,$37.32,2,15/04/2024,Electrodomésticos,74.64
+1454,Aspiradora,$51.46,4,15/04/2024,Electrodomésticos,205.84
+2266,Laptop,$104.48,5,15/04/2024,Electrónica,522.40
+2396,Laptop,$77.38,1,15/04/2024,Electrónica,77.38
+2673,Smartphone,$76.29,11,15/04/2024,Electrónica,839.19
+19,Lámpara de mesa,$61.03,6,16/04/2024,Decoración,366.18
+953,Espejo decorativo,$76.31,5,16/04/2024,Decoración,381.55
+1177,Horno eléctrico,$65.16,4,16/04/2024,Electrodomésticos,260.64
+1629,Batidora,$108.94,6,16/04/2024,Electrodomésticos,653.64
+1655,Lavadora,$37.39,1,16/04/2024,Electrodomésticos,37.39
+1803,Microondas,$122.22,11,16/04/2024,Electrodomésticos,1344.42
+1864,Aspiradora,$54.94,3,16/04/2024,Electrodomésticos,164.82
+2019,Proyector,$41.79,7,16/04/2024,Electrónica,292.53
+2151,Parlantes Bluetooth,$83.34,7,16/04/2024,Electrónica,583.38
+2610,Consola de videojuegos,$49.74,9,16/04/2024,Electrónica,447.66
+2615,Auriculares,$46.72,11,16/04/2024,Electrónica,513.92
+2715,Auriculares,$100.58,7,16/04/2024,Electrónica,704.06
+1,Lámpara de mesa,$82.25,8,17/04/2024,Decoración,658.00
+138,Rincón de plantas,$38.89,2,17/04/2024,Decoración,77.78
+1009,Batidora,$119.03,8,17/04/2024,Electrodomésticos,952.24
+1118,Cafetera,$67.00,11,17/04/2024,Electrodomésticos,737.00
+1190,Plancha de vapor,$29.68,1,17/04/2024,Electrodomésticos,29.68
+1253,Microondas,$65.99,8,17/04/2024,Electrodomésticos,527.92
+1521,Freidora eléctrica,$89.52,10,17/04/2024,Electrodomésticos,895.20
+1532,Heladera,$29.17,2,17/04/2024,Electrodomésticos,58.34
+2368,SmartWatch,$70.23,5,17/04/2024,Electrónica,351.15
+925,Alfombra,$52.55,11,18/04/2024,Decoración,578.05
+1316,Secadora,$110.21,11,18/04/2024,Electrodomésticos,1212.31
+1590,Plancha de vapor,$60.38,4,18/04/2024,Electrodomésticos,241.52
+1914,Aspiradora,$92.52,1,18/04/2024,Electrodomésticos,92.52
+2134,Tablet,$43.20,4,18/04/2024,Electrónica,172.80
+548,Rincón de plantas,$32.26,8,19/04/2024,Decoración,258.08
+905,Alfombra,$112.82,9,19/04/2024,Decoración,1015.38
+1224,Aspiradora,$110.58,4,19/04/2024,Electrodomésticos,442.32
+1459,Batidora,$66.73,8,19/04/2024,Electrodomésticos,533.84
+1943,Microondas,$82.60,10,19/04/2024,Electrodomésticos,826.00
+2095,Auriculares,$117.60,3,19/04/2024,Electrónica,352.80
+2375,Auriculares,$73.70,10,19/04/2024,Electrónica,737.00
+198,Rincón de plantas,$115.15,11,20/04/2024,Decoración,1266.65
+833,Espejo decorativo,$119.87,10,20/04/2024,Decoración,1198.70
+1425,Lavadora,$118.77,8,20/04/2024,Electrodomésticos,950.16
+1680,Plancha de vapor,$110.30,9,20/04/2024,Electrodomésticos,992.70
+1701,Freidora eléctrica,$87.64,7,20/04/2024,Electrodomésticos,613.48
+2176,Laptop,$36.36,7,20/04/2024,Electrónica,254.52
+2413,Smartphone,$76.69,3,20/04/2024,Electrónica,230.07
+2844,Tablet,$53.22,7,20/04/2024,Electrónica,372.54
+249,Lámpara de mesa,$95.05,1,21/04/2024,Decoración,95.05
+452,Cuadro decorativo,$119.07,12,21/04/2024,Decoración,1428.84
+563,Espejo decorativo,$65.35,10,21/04/2024,Decoración,653.50
+934,Jarrón decorativo,$96.24,11,21/04/2024,Decoración,1058.64
+1193,Microondas,$90.55,4,21/04/2024,Electrodomésticos,362.20
+1230,Plancha de vapor,$90.85,2,21/04/2024,Electrodomésticos,181.70
+1307,Horno eléctrico,$85.42,11,21/04/2024,Electrodomésticos,939.62
+2212,Televisor,$38.98,11,21/04/2024,Electrónica,428.78
+2369,Proyector,$87.64,2,21/04/2024,Electrónica,175.28
+2523,Smartphone,$56.73,1,21/04/2024,Electrónica,56.73
+2611,Parlantes Bluetooth,$48.89,12,21/04/2024,Electrónica,586.68
+281,Lámpara de mesa,$42.17,8,22/04/2024,Decoración,337.36
+305,Alfombra,$91.25,2,22/04/2024,Decoración,182.50
+422,Cuadro decorativo,$47.37,9,22/04/2024,Decoración,426.33
+538,Rincón de plantas,$119.89,4,22/04/2024,Decoración,479.56
+741,Lámpara de mesa,$98.00,12,22/04/2024,Decoración,1176.00
+1010,Plancha de vapor,$37.94,8,22/04/2024,Electrodomésticos,303.52
+1203,Microondas,$96.53,1,22/04/2024,Electrodomésticos,96.53
+1841,Freidora eléctrica,$58.26,2,22/04/2024,Electrodomésticos,116.52
+2887,Cámara digital,$118.02,1,22/04/2024,Electrónica,118.02
+209,Lámpara de mesa,$97.04,12,23/04/2024,Decoración,1164.48
+299,Lámpara de mesa,$119.55,3,23/04/2024,Decoración,358.65
+1477,Horno eléctrico,$118.26,11,23/04/2024,Electrodomésticos,1300.86
+1952,Heladera,$115.09,2,23/04/2024,Electrodomésticos,230.18
+2214,Tablet,$81.56,8,23/04/2024,Electrónica,652.48
+2993,Auriculares,$38.79,7,23/04/2024,Electrónica,271.53
+434,Jarrón decorativo,$39.89,2,24/04/2024,Decoración,79.78
+945,Alfombra,$60.74,12,24/04/2024,Decoración,728.88
+1057,Horno eléctrico,$30.51,3,24/04/2024,Electrodomésticos,91.53
+1320,Plancha de vapor,$73.95,4,24/04/2024,Electrodomésticos,295.80
+2227,Cámara digital,$46.25,8,24/04/2024,Electrónica,370.00
+2312,Televisor,$108.25,8,24/04/2024,Electrónica,866.00
+2565,Auriculares,$49.70,3,24/04/2024,Electrónica,149.10
+2962,Televisor,$118.65,5,24/04/2024,Electrónica,593.25
+159,Lámpara de mesa,$49.91,6,25/04/2024,Decoración,299.46
+320,Adorno de pared,$37.38,6,25/04/2024,Decoración,224.28
+341,Lámpara de mesa,$79.34,1,25/04/2024,Decoración,79.34
+673,Espejo decorativo,$26.33,7,25/04/2024,Decoración,184.31
+701,Lámpara de mesa,$95.05,3,25/04/2024,Decoración,285.15
+1041,Freidora eléctrica,$89.99,6,25/04/2024,Electrodomésticos,539.94
+1212,Heladera,$33.95,11,25/04/2024,Electrodomésticos,373.45
+1802,Heladera,$27.75,11,25/04/2024,Electrodomésticos,305.25
+1846,Secadora,$124.29,2,25/04/2024,Electrodomésticos,248.58
+2262,Televisor,$48.30,2,25/04/2024,Electrónica,96.60
+2713,Smartphone,$28.75,9,25/04/2024,Electrónica,258.75
+2827,Cámara digital,$35.99,2,25/04/2024,Electrónica,71.98
+765,Alfombra,$72.71,1,26/04/2024,Decoración,72.71
+1119,Batidora,$59.86,3,26/04/2024,Electrodomésticos,179.58
+2027,Cámara digital,$69.96,10,26/04/2024,Electrónica,699.60
+2088,SmartWatch,$111.58,9,26/04/2024,Electrónica,1004.22
+2101,Parlantes Bluetooth,$82.23,2,26/04/2024,Electrónica,164.46
+2147,Cámara digital,$74.37,6,26/04/2024,Electrónica,446.22
+2363,Smartphone,$88.02,12,26/04/2024,Electrónica,1056.24
+2504,Auriculares,$76.65,10,26/04/2024,Electrónica,766.50
+2580,Consola de videojuegos,$107.55,7,26/04/2024,Electrónica,752.85
+2646,Laptop,$111.98,8,26/04/2024,Electrónica,895.84
+51,Lámpara de mesa,$112.42,5,27/04/2024,Decoración,562.10
+359,Lámpara de mesa,$72.78,7,27/04/2024,Decoración,509.46
+375,Alfombra,$70.93,8,27/04/2024,Decoración,567.44
+537,Elementos de cerámica,$124.38,5,27/04/2024,Decoración,621.90
+844,Jarrón decorativo,$61.72,7,27/04/2024,Decoración,432.04
+1804,Aspiradora,$43.25,7,27/04/2024,Electrodomésticos,302.75
+2201,Parlantes Bluetooth,$41.53,7,27/04/2024,Electrónica,290.71
+2287,Cámara digital,$26.79,11,27/04/2024,Electrónica,294.69
+2465,Auriculares,$93.52,3,27/04/2024,Electrónica,280.56
+2528,SmartWatch,$54.61,1,27/04/2024,Electrónica,54.61
+2559,Proyector,$86.20,8,27/04/2024,Electrónica,689.60
+2633,Smartphone,$35.18,12,27/04/2024,Electrónica,422.16
+2645,Auriculares,$122.64,10,27/04/2024,Electrónica,1226.40
+109,Lámpara de mesa,$103.94,9,28/04/2024,Decoración,935.46
+518,Rincón de plantas,$113.79,7,28/04/2024,Decoración,796.53
+1277,Horno eléctrico,$41.90,4,28/04/2024,Electrodomésticos,167.60
+1329,Batidora,$55.84,7,28/04/2024,Electrodomésticos,390.88
+1830,Plancha de vapor,$120.94,11,28/04/2024,Electrodomésticos,1330.34
+1964,Aspiradora,$52.92,10,28/04/2024,Electrodomésticos,529.20
+2877,Cámara digital,$45.10,1,28/04/2024,Electrónica,45.10
+202,Cuadro decorativo,$106.72,4,29/04/2024,Decoración,426.88
+294,Jarrón decorativo,$50.35,3,29/04/2024,Decoración,151.05
+493,Espejo decorativo,$109.32,10,29/04/2024,Decoración,1093.20
+799,Lámpara de mesa,$102.90,5,29/04/2024,Decoración,514.50
+1096,Secadora,$115.14,10,29/04/2024,Electrodomésticos,1151.40
+1281,Freidora eléctrica,$60.99,12,29/04/2024,Electrodomésticos,731.88
+1715,Lavadora,$119.22,11,29/04/2024,Electrodomésticos,1311.42
+2089,Proyector,$95.13,12,29/04/2024,Electrónica,1141.56
+2367,Cámara digital,$91.04,8,29/04/2024,Electrónica,728.32
+124,Jarrón decorativo,$93.39,7,30/04/2024,Decoración,653.73
+177,Elementos de cerámica,$64.17,4,30/04/2024,Decoración,256.68
+255,Alfombra,$68.38,7,30/04/2024,Decoración,478.66
+709,Lámpara de mesa,$98.77,2,30/04/2024,Decoración,197.54
+975,Alfombra,$28.96,5,30/04/2024,Decoración,144.80
+988,Rincón de plantas,$115.47,1,30/04/2024,Decoración,115.47
+1036,Secadora,$42.32,7,30/04/2024,Electrodomésticos,296.24
+1205,Lavadora,$42.38,6,30/04/2024,Electrodomésticos,254.28
+1401,Freidora eléctrica,$122.99,7,30/04/2024,Electrodomésticos,860.93
+1762,Heladera,$27.82,10,30/04/2024,Electrodomésticos,278.20
+2629,Proyector,$94.30,1,30/04/2024,Electrónica,94.30
+306,Cortinas,$96.05,5,01/05/2024,Decoración,480.25
+475,Alfombra,$120.18,3,01/05/2024,Decoración,360.54
+901,Lámpara de mesa,$39.72,2,01/05/2024,Decoración,79.44
+972,Cuadro decorativo,$26.20,10,01/05/2024,Decoración,262.00
+1245,Lavadora,$81.58,12,01/05/2024,Electrodomésticos,978.96
+1726,Secadora,$101.27,7,01/05/2024,Electrodomésticos,708.89
+1973,Microondas,$38.03,11,01/05/2024,Electrodomésticos,418.33
+2182,Televisor,$105.46,11,01/05/2024,Electrónica,1160.06
+2926,Laptop,$50.36,6,01/05/2024,Electrónica,302.16
+100,Adorno de pared,$112.16,8,02/05/2024,Decoración,897.28
+536,Cortinas,$107.95,1,02/05/2024,Decoración,107.95
+1028,Cafetera,$108.44,5,02/05/2024,Electrodomésticos,542.20
+1045,Lavadora,$51.22,4,02/05/2024,Electrodomésticos,204.88
+1152,Heladera,$116.86,5,02/05/2024,Electrodomésticos,584.30
+1217,Horno eléctrico,$88.92,8,02/05/2024,Electrodomésticos,711.36
+1310,Plancha de vapor,$43.78,9,02/05/2024,Electrodomésticos,394.02
+1842,Heladera,$65.18,1,02/05/2024,Electrodomésticos,65.18
+1969,Batidora,$72.90,1,02/05/2024,Electrodomésticos,72.90
+2191,Parlantes Bluetooth,$124.34,11,02/05/2024,Electrónica,1367.74
+2510,Consola de videojuegos,$70.04,12,02/05/2024,Electrónica,840.48
+2621,Parlantes Bluetooth,$119.91,9,02/05/2024,Electrónica,1079.19
+2775,Auriculares,$104.06,11,02/05/2024,Electrónica,1144.66
+2988,SmartWatch,$100.80,4,02/05/2024,Electrónica,403.20
+220,Adorno de pared,$55.36,9,03/05/2024,Decoración,498.24
+819,Lámpara de mesa,$122.57,6,03/05/2024,Decoración,735.42
+1004,Aspiradora,$107.00,8,03/05/2024,Electrodomésticos,856.00
+1439,Batidora,$71.74,9,03/05/2024,Electrodomésticos,645.66
+1819,Batidora,$87.56,9,03/05/2024,Electrodomésticos,788.04
+2404,Auriculares,$102.65,4,03/05/2024,Electrónica,410.60
+2435,Auriculares,$39.55,3,03/05/2024,Electrónica,118.65
+2463,Smartphone,$67.59,2,03/05/2024,Electrónica,135.18
+2985,Auriculares,$58.92,3,03/05/2024,Electrónica,176.76
+16,Cortinas,$32.47,5,04/05/2024,Decoración,162.35
+342,Cuadro decorativo,$61.90,5,04/05/2024,Decoración,309.50
+806,Cortinas,$119.32,9,04/05/2024,Decoración,1073.88
+903,Espejo decorativo,$81.45,2,04/05/2024,Decoración,162.90
+1056,Secadora,$109.52,10,04/05/2024,Electrodomésticos,1095.20
+1666,Secadora,$99.75,4,04/05/2024,Electrodomésticos,399.00
+1672,Heladera,$63.10,12,04/05/2024,Electrodomésticos,757.20
+1932,Heladera,$31.46,9,04/05/2024,Electrodomésticos,283.14
+311,Lámpara de mesa,$33.89,2,05/05/2024,Decoración,67.78
+353,Espejo decorativo,$43.92,11,05/05/2024,Decoración,483.12
+650,Adorno de pared,$43.11,4,05/05/2024,Decoración,172.44
+656,Cortinas,$107.26,2,05/05/2024,Decoración,214.52
+1387,Horno eléctrico,$61.15,3,05/05/2024,Electrodomésticos,183.45
+1484,Aspiradora,$79.74,6,05/05/2024,Electrodomésticos,478.44
+1845,Lavadora,$119.69,5,05/05/2024,Electrodomésticos,598.45
+2403,Smartphone,$74.39,3,05/05/2024,Electrónica,223.17
+2445,Auriculares,$93.33,6,05/05/2024,Electrónica,559.98
+2898,SmartWatch,$108.81,10,05/05/2024,Electrónica,1088.10
+98,Rincón de plantas,$91.30,6,06/05/2024,Decoración,547.80
+550,Adorno de pared,$98.99,8,06/05/2024,Decoración,791.92
+751,Lámpara de mesa,$91.99,11,06/05/2024,Decoración,1011.89
+915,Alfombra,$43.37,11,06/05/2024,Decoración,477.07
+1304,Aspiradora,$99.07,8,06/05/2024,Electrodomésticos,792.56
+2211,Parlantes Bluetooth,$108.16,3,06/05/2024,Electrónica,324.48
+2264,Auriculares,$58.19,6,06/05/2024,Electrónica,349.14
+2708,SmartWatch,$115.30,10,06/05/2024,Electrónica,1153.00
+2780,Consola de videojuegos,$65.35,6,06/05/2024,Electrónica,392.10
+2801,Parlantes Bluetooth,$97.22,1,06/05/2024,Electrónica,97.22
+998,Rincón de plantas,$65.82,1,07/05/2024,Decoración,65.82
+1748,Cafetera,$61.63,3,07/05/2024,Electrodomésticos,184.89
+1896,Secadora,$37.22,4,07/05/2024,Electrodomésticos,148.88
+1967,Horno eléctrico,$68.97,5,07/05/2024,Electrodomésticos,344.85
+2415,Auriculares,$35.87,5,07/05/2024,Electrónica,179.35
+22,Cuadro decorativo,$122.36,6,08/05/2024,Decoración,734.16
+491,Lámpara de mesa,$118.22,11,08/05/2024,Decoración,1300.42
+873,Espejo decorativo,$120.90,6,08/05/2024,Decoración,725.40
+937,Elementos de cerámica,$121.14,2,08/05/2024,Decoración,242.28
+997,Elementos de cerámica,$56.49,10,08/05/2024,Decoración,564.90
+1000,Adorno de pared,$74.64,11,08/05/2024,Decoración,821.04
+1146,Secadora,$96.67,7,08/05/2024,Electrodomésticos,676.69
+1175,Lavadora,$82.41,2,08/05/2024,Electrodomésticos,164.82
+1747,Horno eléctrico,$87.90,2,08/05/2024,Electrodomésticos,175.80
+1970,Plancha de vapor,$113.70,5,08/05/2024,Electrodomésticos,568.50
+1972,Heladera,$105.49,3,08/05/2024,Electrodomésticos,316.47
+2163,Smartphone,$106.39,12,08/05/2024,Electrónica,1276.68
+14,Jarrón decorativo,$29.77,5,09/05/2024,Decoración,148.85
+94,Jarrón decorativo,$34.60,1,09/05/2024,Decoración,34.60
+619,Lámpara de mesa,$43.29,11,09/05/2024,Decoración,476.19
+1108,Cafetera,$84.64,9,09/05/2024,Electrodomésticos,761.76
+1938,Cafetera,$107.90,11,09/05/2024,Electrodomésticos,1186.90
+2473,Smartphone,$75.13,12,09/05/2024,Electrónica,901.56
+2840,Consola de videojuegos,$69.43,3,09/05/2024,Electrónica,208.29
+2974,Auriculares,$79.28,2,09/05/2024,Electrónica,158.56
+1151,Freidora eléctrica,$75.33,11,10/05/2024,Electrodomésticos,828.63
+1658,Cafetera,$94.79,12,10/05/2024,Electrodomésticos,1137.48
+2131,Parlantes Bluetooth,$98.97,7,10/05/2024,Electrónica,692.79
+2333,Smartphone,$109.48,5,10/05/2024,Electrónica,547.40
+2649,Proyector,$44.93,5,10/05/2024,Electrónica,224.65
+2679,Proyector,$48.62,1,10/05/2024,Electrónica,48.62
+2941,Parlantes Bluetooth,$36.25,4,10/05/2024,Electrónica,145.00
+219,Lámpara de mesa,$114.90,10,11/05/2024,Decoración,1149.00
+460,Adorno de pared,$93.62,6,11/05/2024,Decoración,561.72
+1116,Secadora,$56.24,8,11/05/2024,Electrodomésticos,449.92
+1407,Horno eléctrico,$97.47,11,11/05/2024,Electrodomésticos,1072.17
+1468,Cafetera,$111.23,2,11/05/2024,Electrodomésticos,222.46
+2364,Auriculares,$94.13,10,11/05/2024,Electrónica,941.30
+2672,Televisor,$79.54,1,11/05/2024,Electrónica,79.54
+2772,Televisor,$107.31,3,11/05/2024,Electrónica,321.93
+495,Alfombra,$90.94,12,12/05/2024,Decoración,1091.28
+973,Espejo decorativo,$54.84,5,12/05/2024,Decoración,274.20
+1269,Batidora,$46.78,5,12/05/2024,Electrodomésticos,233.90
+1765,Lavadora,$95.85,8,12/05/2024,Electrodomésticos,766.80
+1789,Batidora,$45.45,12,12/05/2024,Electrodomésticos,545.40
+2860,Consola de videojuegos,$100.61,6,12/05/2024,Electrónica,603.66
+2888,SmartWatch,$66.44,3,12/05/2024,Electrónica,199.32
+147,Elementos de cerámica,$32.00,2,13/05/2024,Decoración,64.00
+1087,Horno eléctrico,$52.09,7,13/05/2024,Electrodomésticos,364.63
+1103,Microondas,$96.18,2,13/05/2024,Electrodomésticos,192.36
+1682,Heladera,$47.08,1,13/05/2024,Electrodomésticos,47.08
+1966,Secadora,$27.27,9,13/05/2024,Electrodomésticos,245.43
+2022,Televisor,$112.05,3,13/05/2024,Electrónica,336.15
+2177,Cámara digital,$55.84,7,13/05/2024,Electrónica,390.88
+2776,Laptop,$85.59,1,13/05/2024,Electrónica,85.59
+2797,Cámara digital,$53.44,11,13/05/2024,Electrónica,587.84
+2875,Auriculares,$55.41,10,13/05/2024,Electrónica,554.10
+214,Jarrón decorativo,$83.40,6,14/05/2024,Decoración,500.40
+286,Cortinas,$94.53,4,14/05/2024,Decoración,378.12
+609,Lámpara de mesa,$78.44,9,14/05/2024,Decoración,705.96
+1122,Heladera,$38.84,5,14/05/2024,Electrodomésticos,194.20
+1787,Horno eléctrico,$49.02,5,14/05/2024,Electrodomésticos,245.10
+1955,Lavadora,$27.86,6,14/05/2024,Electrodomésticos,167.16
+2213,Smartphone,$30.51,9,14/05/2024,Electrónica,274.59
+2635,Auriculares,$96.21,11,14/05/2024,Electrónica,1058.31
+2956,Laptop,$83.54,5,14/05/2024,Electrónica,417.70
+678,Rincón de plantas,$88.93,6,15/05/2024,Decoración,533.58
+1257,Horno eléctrico,$113.04,8,15/05/2024,Electrodomésticos,904.32
+1540,Plancha de vapor,$47.10,3,15/05/2024,Electrodomésticos,141.30
+1739,Batidora,$30.74,10,15/05/2024,Electrodomésticos,307.40
+1777,Horno eléctrico,$102.82,8,15/05/2024,Electrodomésticos,822.56
+1778,Cafetera,$112.18,12,15/05/2024,Electrodomésticos,1346.16
+2726,Laptop,$70.78,12,15/05/2024,Electrónica,849.36
+2733,Smartphone,$75.31,5,15/05/2024,Electrónica,376.55
+2972,Televisor,$91.67,2,15/05/2024,Electrónica,183.34
+660,Adorno de pared,$71.13,9,16/05/2024,Decoración,640.17
+736,Cortinas,$73.30,5,16/05/2024,Decoración,366.50
+1606,Secadora,$105.33,5,16/05/2024,Electrodomésticos,526.65
+1756,Secadora,$113.61,11,16/05/2024,Electrodomésticos,1249.71
+1823,Microondas,$119.18,6,16/05/2024,Electrodomésticos,715.08
+2509,Proyector,$46.93,2,16/05/2024,Electrónica,93.86
+2931,Parlantes Bluetooth,$110.22,2,16/05/2024,Electrónica,220.44
+244,Jarrón decorativo,$64.62,8,17/05/2024,Decoración,516.96
+448,Rincón de plantas,$99.24,9,17/05/2024,Decoración,893.16
+667,Elementos de cerámica,$45.20,9,17/05/2024,Decoración,406.80
+1006,Secadora,$116.90,5,17/05/2024,Electrodomésticos,584.50
+1181,Freidora eléctrica,$85.03,4,17/05/2024,Electrodomésticos,340.12
+1300,Plancha de vapor,$93.91,7,17/05/2024,Electrodomésticos,657.37
+1773,Microondas,$75.48,1,17/05/2024,Electrodomésticos,75.48
+2061,Parlantes Bluetooth,$81.99,8,17/05/2024,Electrónica,655.92
+2609,Proyector,$30.02,2,17/05/2024,Electrónica,60.04
+2767,Cámara digital,$42.61,11,17/05/2024,Electrónica,468.71
+2823,Smartphone,$61.76,11,17/05/2024,Electrónica,679.36
+2971,Parlantes Bluetooth,$74.59,7,17/05/2024,Electrónica,522.13
+2999,Consola de videojuegos,$52.08,4,17/05/2024,Electrónica,208.32
+477,Elementos de cerámica,$81.02,1,18/05/2024,Decoración,81.02
+920,Adorno de pared,$39.60,8,18/05/2024,Decoración,316.80
+1066,Secadora,$62.98,9,18/05/2024,Electrodomésticos,566.82
+1176,Secadora,$118.64,11,18/05/2024,Electrodomésticos,1305.04
+1708,Cafetera,$30.63,11,18/05/2024,Electrodomésticos,336.93
+2288,SmartWatch,$42.66,11,18/05/2024,Electrónica,469.26
+2289,Proyector,$60.80,4,18/05/2024,Electrónica,243.20
+2409,Proyector,$79.11,10,18/05/2024,Electrónica,791.10
+2612,Televisor,$96.38,11,18/05/2024,Electrónica,1060.18
+2904,Tablet,$93.31,3,18/05/2024,Electrónica,279.93
+405,Alfombra,$33.36,10,19/05/2024,Decoración,333.60
+575,Alfombra,$110.42,11,19/05/2024,Decoración,1214.62
+721,Lámpara de mesa,$74.42,5,19/05/2024,Decoración,372.10
+908,Rincón de plantas,$106.89,1,19/05/2024,Decoración,106.89
+1377,Horno eléctrico,$110.65,8,19/05/2024,Electrodomésticos,885.20
+1667,Horno eléctrico,$108.28,8,19/05/2024,Electrodomésticos,866.24
+1905,Lavadora,$49.50,5,19/05/2024,Electrodomésticos,247.50
+2582,Televisor,$69.30,6,19/05/2024,Electrónica,415.80
+2978,SmartWatch,$115.44,9,19/05/2024,Electrónica,1038.96
+453,Espejo decorativo,$55.40,9,20/05/2024,Decoración,498.60
+762,Cuadro decorativo,$65.61,9,20/05/2024,Decoración,590.49
+918,Rincón de plantas,$104.95,9,20/05/2024,Decoración,944.55
+976,Cortinas,$114.76,11,20/05/2024,Decoración,1262.36
+1104,Aspiradora,$76.20,5,20/05/2024,Electrodomésticos,381.00
+1351,Freidora eléctrica,$69.09,2,20/05/2024,Electrodomésticos,138.18
+1694,Aspiradora,$79.23,9,20/05/2024,Electrodomésticos,713.07
+2482,Televisor,$43.31,1,20/05/2024,Electrónica,43.31
+44,Jarrón decorativo,$118.28,11,21/05/2024,Decoración,1301.08
+54,Jarrón decorativo,$49.21,4,21/05/2024,Decoración,196.84
+106,Cortinas,$101.89,7,21/05/2024,Decoración,713.23
+319,Lámpara de mesa,$93.24,9,21/05/2024,Decoración,839.16
+414,Jarrón decorativo,$33.06,2,21/05/2024,Decoración,66.12
+981,Lámpara de mesa,$83.12,9,21/05/2024,Decoración,748.08
+1024,Aspiradora,$35.94,11,21/05/2024,Electrodomésticos,395.34
+1479,Batidora,$121.07,1,21/05/2024,Electrodomésticos,121.07
+1883,Microondas,$34.52,10,21/05/2024,Electrodomésticos,345.20
+2150,Consola de videojuegos,$66.93,5,21/05/2024,Electrónica,334.65
+2432,Televisor,$54.12,9,21/05/2024,Electrónica,487.08
+2676,Laptop,$32.36,9,21/05/2024,Electrónica,291.24
+312,Cuadro decorativo,$42.77,1,22/05/2024,Decoración,42.77
+425,Alfombra,$45.68,10,22/05/2024,Decoración,456.80
+483,Espejo decorativo,$97.74,11,22/05/2024,Decoración,1075.14
+527,Elementos de cerámica,$103.60,3,22/05/2024,Decoración,310.80
+802,Cuadro decorativo,$27.37,5,22/05/2024,Decoración,136.85
+812,Cuadro decorativo,$107.32,10,22/05/2024,Decoración,1073.20
+1198,Cafetera,$106.65,9,22/05/2024,Electrodomésticos,959.85
+1603,Microondas,$112.46,6,22/05/2024,Electrodomésticos,674.76
+1631,Freidora eléctrica,$111.17,5,22/05/2024,Electrodomésticos,555.85
+2802,Televisor,$101.58,9,22/05/2024,Electrónica,914.22
+2868,SmartWatch,$124.57,6,22/05/2024,Electrónica,747.42
+2895,Auriculares,$53.91,4,22/05/2024,Electrónica,215.64
+123,Espejo decorativo,$63.56,11,23/05/2024,Decoración,699.16
+672,Cuadro decorativo,$47.68,6,23/05/2024,Decoración,286.08
+859,Lámpara de mesa,$76.25,4,23/05/2024,Decoración,305.00
+1238,Cafetera,$70.06,12,23/05/2024,Electrodomésticos,840.72
+1417,Horno eléctrico,$85.81,10,23/05/2024,Electrodomésticos,858.10
+2189,Proyector,$100.31,3,23/05/2024,Electrónica,300.93
+2678,SmartWatch,$47.30,10,23/05/2024,Electrónica,473.00
+465,Alfombra,$76.75,2,24/05/2024,Decoración,153.50
+2907,Cámara digital,$98.69,9,24/05/2024,Electrónica,888.21
+476,Cortinas,$71.82,11,25/05/2024,Decoración,790.02
+583,Espejo decorativo,$49.09,9,25/05/2024,Decoración,441.81
+738,Rincón de plantas,$29.42,11,25/05/2024,Decoración,323.62
+1241,Freidora eléctrica,$96.20,6,25/05/2024,Electrodomésticos,577.20
+1526,Secadora,$115.50,7,25/05/2024,Electrodomésticos,808.50
+2004,Tablet,$123.01,11,25/05/2024,Electrónica,1353.11
+2092,Televisor,$65.23,6,25/05/2024,Electrónica,391.38
+2116,Laptop,$50.25,8,25/05/2024,Electrónica,402.00
+2146,Laptop,$87.70,5,25/05/2024,Electrónica,438.50
+2652,Televisor,$74.49,4,25/05/2024,Electrónica,297.96
+29,Lámpara de mesa,$70.17,12,26/05/2024,Decoración,842.04
+568,Rincón de plantas,$100.45,1,26/05/2024,Decoración,100.45
+782,Cuadro decorativo,$67.07,6,26/05/2024,Decoración,402.42
+1025,Lavadora,$119.78,9,26/05/2024,Electrodomésticos,1078.02
+1616,Secadora,$40.43,8,26/05/2024,Electrodomésticos,323.44
+1721,Freidora eléctrica,$26.06,5,26/05/2024,Electrodomésticos,130.30
+2041,Parlantes Bluetooth,$102.72,2,26/05/2024,Electrónica,205.44
+2073,Smartphone,$70.04,3,26/05/2024,Electrónica,210.12
+137,Elementos de cerámica,$68.46,11,27/05/2024,Decoración,753.06
+1050,Plancha de vapor,$72.33,1,27/05/2024,Electrodomésticos,72.33
+1226,Secadora,$89.37,10,27/05/2024,Electrodomésticos,893.70
+1380,Plancha de vapor,$61.63,2,27/05/2024,Electrodomésticos,123.26
+1446,Secadora,$124.12,10,27/05/2024,Electrodomésticos,1241.20
+1543,Microondas,$118.71,9,27/05/2024,Electrodomésticos,1068.39
+1608,Cafetera,$122.82,4,27/05/2024,Electrodomésticos,491.28
+1702,Heladera,$77.89,2,27/05/2024,Electrodomésticos,155.78
+1940,Plancha de vapor,$45.19,1,27/05/2024,Electrodomésticos,45.19
+2011,Parlantes Bluetooth,$27.45,7,27/05/2024,Electrónica,192.15
+2876,Laptop,$37.65,3,27/05/2024,Electrónica,112.95
+224,Jarrón decorativo,$75.72,1,28/05/2024,Decoración,75.72
+510,Adorno de pared,$79.02,5,28/05/2024,Decoración,395.10
+897,Elementos de cerámica,$27.43,7,28/05/2024,Decoración,192.01
+1080,Plancha de vapor,$53.10,6,28/05/2024,Electrodomésticos,318.60
+1368,Cafetera,$67.26,7,28/05/2024,Electrodomésticos,470.82
+1613,Microondas,$101.99,5,28/05/2024,Electrodomésticos,509.95
+1732,Heladera,$109.53,11,28/05/2024,Electrodomésticos,1204.83
+2067,Cámara digital,$102.63,7,28/05/2024,Electrónica,718.41
+13,Espejo decorativo,$29.73,1,29/05/2024,Decoración,29.73
+110,Adorno de pared,$33.01,1,29/05/2024,Decoración,33.01
+784,Jarrón decorativo,$109.83,6,29/05/2024,Decoración,658.98
+902,Cuadro decorativo,$111.22,9,29/05/2024,Decoración,1000.98
+1275,Lavadora,$82.49,11,29/05/2024,Electrodomésticos,907.39
+1478,Cafetera,$121.90,2,29/05/2024,Electrodomésticos,243.80
+1719,Batidora,$106.81,10,29/05/2024,Electrodomésticos,1068.10
+2125,Auriculares,$33.47,2,29/05/2024,Electrónica,66.94
+2251,Parlantes Bluetooth,$51.27,8,29/05/2024,Electrónica,410.16
+2847,Cámara digital,$122.31,4,29/05/2024,Electrónica,489.24
+82,Cuadro decorativo,$47.42,5,30/05/2024,Decoración,237.10
+111,Lámpara de mesa,$38.65,12,30/05/2024,Decoración,463.80
+432,Cuadro decorativo,$77.42,12,30/05/2024,Decoración,929.04
+1632,Heladera,$120.78,8,30/05/2024,Electrodomésticos,966.24
+166,Cortinas,$105.06,8,31/05/2024,Decoración,840.48
+482,Cuadro decorativo,$54.21,7,31/05/2024,Decoración,379.47
+995,Alfombra,$109.03,10,31/05/2024,Decoración,1090.30
+1343,Microondas,$106.86,12,31/05/2024,Electrodomésticos,1282.32
+1418,Cafetera,$91.72,12,31/05/2024,Electrodomésticos,1100.64
+2659,Proyector,$75.90,3,31/05/2024,Electrónica,227.70
+2745,Auriculares,$70.62,7,31/05/2024,Electrónica,494.34
+2842,Televisor,$38.35,5,31/05/2024,Electrónica,191.75
+2995,Laptop,$119.04,6,31/05/2024,Electrónica,714.24
+376,Cortinas,$106.27,2,01/06/2024,Decoración,212.54
+530,Adorno de pared,$82.65,5,01/06/2024,Decoración,413.25
+1040,Plancha de vapor,$49.22,2,01/06/2024,Electrodomésticos,98.44
+1929,Batidora,$92.87,10,01/06/2024,Electrodomésticos,928.70
+2481,Parlantes Bluetooth,$79.70,8,01/06/2024,Electrónica,637.60
+2929,Proyector,$115.45,7,01/06/2024,Electrónica,808.15
+160,Adorno de pared,$33.27,12,02/06/2024,Decoración,399.24
+253,Espejo decorativo,$92.77,5,02/06/2024,Decoración,463.85
+334,Jarrón decorativo,$84.95,12,02/06/2024,Decoración,1019.40
+378,Rincón de plantas,$37.90,10,02/06/2024,Decoración,379.00
+459,Lámpara de mesa,$101.54,4,02/06/2024,Decoración,406.16
+524,Jarrón decorativo,$40.32,4,02/06/2024,Decoración,161.28
+1003,Microondas,$84.24,9,02/06/2024,Electrodomésticos,758.16
+1051,Freidora eléctrica,$82.08,8,02/06/2024,Electrodomésticos,656.64
+1076,Secadora,$77.29,4,02/06/2024,Electrodomésticos,309.16
+1476,Secadora,$73.14,6,02/06/2024,Electrodomésticos,438.84
+1552,Heladera,$54.63,5,02/06/2024,Electrodomésticos,273.15
+1602,Heladera,$48.35,9,02/06/2024,Electrodomésticos,435.15
+1664,Aspiradora,$69.63,12,02/06/2024,Electrodomésticos,835.56
+1822,Heladera,$56.36,12,02/06/2024,Electrodomésticos,676.32
+2046,Laptop,$34.09,6,02/06/2024,Electrónica,204.54
+2126,Laptop,$107.26,4,02/06/2024,Electrónica,429.04
+1082,Heladera,$107.48,12,03/06/2024,Electrodomésticos,1289.76
+1327,Horno eléctrico,$75.85,2,03/06/2024,Electrodomésticos,151.70
+1370,Plancha de vapor,$115.60,10,03/06/2024,Electrodomésticos,1156.00
+1923,Microondas,$97.54,4,03/06/2024,Electrodomésticos,390.16
+2055,Auriculares,$104.83,9,03/06/2024,Electrónica,943.47
+2207,Cámara digital,$110.08,4,03/06/2024,Electrónica,440.32
+992,Cuadro decorativo,$52.42,3,04/06/2024,Decoración,157.26
+1063,Microondas,$108.39,12,04/06/2024,Electrodomésticos,1300.68
+1518,Cafetera,$46.70,2,04/06/2024,Electrodomésticos,93.40
+1563,Microondas,$111.61,2,04/06/2024,Electrodomésticos,223.22
+2017,Cámara digital,$54.04,8,04/06/2024,Electrónica,432.32
+2468,SmartWatch,$54.55,11,04/06/2024,Electrónica,600.05
+2807,Cámara digital,$44.43,6,04/06/2024,Electrónica,266.58
+433,Espejo decorativo,$86.28,10,05/06/2024,Decoración,862.80
+1199,Batidora,$58.03,10,05/06/2024,Electrodomésticos,580.30
+1227,Horno eléctrico,$49.61,2,05/06/2024,Electrodomésticos,99.22
+1334,Aspiradora,$43.21,7,05/06/2024,Electrodomésticos,302.47
+1347,Horno eléctrico,$94.85,7,05/06/2024,Electrodomésticos,663.95
+1382,Microondas,$94.28,9,05/06/2024,Electrodomésticos,848.52
+740,Adorno de pared,$103.19,9,06/06/2024,Decoración,928.71
+766,Cortinas,$90.10,8,06/06/2024,Decoración,720.80
+890,Adorno de pared,$91.85,6,06/06/2024,Decoración,551.10
+1030,Plancha de vapor,$66.69,1,06/06/2024,Electrodomésticos,66.69
+1127,Horno eléctrico,$66.32,6,06/06/2024,Electrodomésticos,397.92
+1297,Horno eléctrico,$35.93,12,06/06/2024,Electrodomésticos,431.16
+1888,Cafetera,$44.54,4,06/06/2024,Electrodomésticos,178.16
+2040,Consola de videojuegos,$43.95,11,06/06/2024,Electrónica,483.45
+2674,Tablet,$116.52,3,06/06/2024,Electrónica,349.56
+66,Cortinas,$46.14,2,07/06/2024,Decoración,92.28
+257,Elementos de cerámica,$108.40,7,07/06/2024,Decoración,758.80
+296,Cortinas,$90.57,2,07/06/2024,Decoración,181.14
+333,Espejo decorativo,$73.58,5,07/06/2024,Decoración,367.90
+2624,Tablet,$122.97,2,07/06/2024,Electrónica,245.94
+2750,Consola de videojuegos,$38.97,9,07/06/2024,Electrónica,350.73
+2854,Tablet,$56.11,7,07/06/2024,Electrónica,392.77
+648,Rincón de plantas,$78.47,6,08/06/2024,Decoración,470.82
+686,Cortinas,$115.02,12,08/06/2024,Decoración,1380.24
+910,Adorno de pared,$47.55,3,08/06/2024,Decoración,142.65
+1075,Lavadora,$31.90,5,08/06/2024,Electrodomésticos,159.50
+1474,Aspiradora,$91.09,11,08/06/2024,Electrodomésticos,1001.99
+1729,Batidora,$72.01,9,08/06/2024,Electrodomésticos,648.09
+1735,Lavadora,$111.42,7,08/06/2024,Electrodomésticos,779.94
+1870,Plancha de vapor,$29.65,11,08/06/2024,Electrodomésticos,326.15
+2138,SmartWatch,$27.36,4,08/06/2024,Electrónica,109.44
+2308,SmartWatch,$105.89,9,08/06/2024,Electrónica,953.01
+2321,Parlantes Bluetooth,$47.14,5,08/06/2024,Electrónica,235.70
+2957,Cámara digital,$37.59,6,08/06/2024,Electrónica,225.54
+28,Rincón de plantas,$54.26,10,09/06/2024,Decoración,542.60
+1179,Batidora,$123.86,3,09/06/2024,Electrodomésticos,371.58
+1276,Secadora,$65.45,12,09/06/2024,Electrodomésticos,785.40
+2105,Auriculares,$46.74,12,09/06/2024,Electrónica,560.88
+1120,Plancha de vapor,$30.67,7,10/06/2024,Electrodomésticos,214.69
+2292,Televisor,$39.53,12,10/06/2024,Electrónica,474.36
+2418,SmartWatch,$46.80,3,10/06/2024,Electrónica,140.40
+2601,Parlantes Bluetooth,$121.98,7,10/06/2024,Electrónica,853.86
+637,Elementos de cerámica,$44.23,4,11/06/2024,Decoración,176.92
+810,Adorno de pared,$105.57,7,11/06/2024,Decoración,738.99
+1437,Horno eléctrico,$80.12,8,11/06/2024,Electrodomésticos,640.96
+1720,Plancha de vapor,$81.86,12,11/06/2024,Electrodomésticos,982.32
+2065,Auriculares,$108.07,10,11/06/2024,Electrónica,1080.70
+2235,Auriculares,$74.81,12,11/06/2024,Electrónica,897.72
+2458,SmartWatch,$58.95,9,11/06/2024,Electrónica,530.55
+2552,Televisor,$122.59,7,11/06/2024,Electrónica,858.13
+2819,Proyector,$80.92,8,11/06/2024,Electrónica,647.36
+2859,Proyector,$62.35,3,11/06/2024,Electrónica,187.05
+2955,Auriculares,$106.03,7,11/06/2024,Electrónica,742.21
+297,Elementos de cerámica,$73.17,10,12/06/2024,Decoración,731.70
+771,Lámpara de mesa,$51.51,2,12/06/2024,Decoración,103.02
+1154,Aspiradora,$95.11,4,12/06/2024,Electrodomésticos,380.44
+1662,Microondas,$33.73,1,12/06/2024,Electrodomésticos,33.73
+2084,Tablet,$26.85,9,12/06/2024,Electrónica,241.65
+2164,Tablet,$66.02,8,12/06/2024,Electrónica,528.16
+2256,Laptop,$37.57,4,12/06/2024,Electrónica,150.28
+2746,Laptop,$58.49,7,12/06/2024,Electrónica,409.43
+191,Lámpara de mesa,$60.73,1,13/06/2024,Decoración,60.73
+350,Adorno de pared,$79.48,12,13/06/2024,Decoración,953.76
+824,Jarrón decorativo,$91.89,8,13/06/2024,Decoración,735.12
+982,Cuadro decorativo,$34.89,10,13/06/2024,Decoración,348.90
+1246,Secadora,$60.94,6,13/06/2024,Electrodomésticos,365.64
+2344,Tablet,$71.59,5,13/06/2024,Electrónica,357.95
+2740,Consola de videojuegos,$88.36,5,13/06/2024,Electrónica,441.80
+2754,Tablet,$61.60,3,13/06/2024,Electrónica,184.80
+90,Adorno de pared,$119.30,2,14/06/2024,Decoración,238.60
+764,Jarrón decorativo,$45.94,10,14/06/2024,Decoración,459.40
+1992,Microondas,$120.02,12,14/06/2024,Electrodomésticos,1440.24
+2123,Smartphone,$32.32,6,14/06/2024,Electrónica,193.92
+2377,Cámara digital,$107.92,9,14/06/2024,Electrónica,971.28
+2568,SmartWatch,$85.17,5,14/06/2024,Electrónica,425.85
+2728,SmartWatch,$87.88,2,14/06/2024,Electrónica,175.76
+2811,Parlantes Bluetooth,$116.91,7,14/06/2024,Electrónica,818.37
+208,Rincón de plantas,$107.88,10,15/06/2024,Decoración,1078.80
+1091,Freidora eléctrica,$70.60,7,15/06/2024,Electrodomésticos,494.20
+1535,Lavadora,$113.28,10,15/06/2024,Electrodomésticos,1132.80
+2014,Tablet,$76.90,8,15/06/2024,Electrónica,615.20
+2026,Laptop,$59.48,6,15/06/2024,Electrónica,356.88
+143,Espejo decorativo,$101.88,9,16/06/2024,Decoración,916.92
+187,Elementos de cerámica,$57.19,8,16/06/2024,Decoración,457.52
+712,Cuadro decorativo,$103.02,2,16/06/2024,Decoración,206.04
+1990,Plancha de vapor,$113.42,3,16/06/2024,Electrodomésticos,340.26
+2349,Proyector,$68.09,8,16/06/2024,Electrónica,544.72
+2896,Laptop,$79.86,4,16/06/2024,Electrónica,319.44
+485,Alfombra,$113.90,2,17/06/2024,Decoración,227.80
+534,Jarrón decorativo,$32.38,5,17/06/2024,Decoración,161.90
+767,Elementos de cerámica,$40.69,11,17/06/2024,Decoración,447.59
+1560,Plancha de vapor,$63.13,9,17/06/2024,Electrodomésticos,568.17
+261,Lámpara de mesa,$124.14,7,18/06/2024,Decoración,868.98
+344,Jarrón decorativo,$67.71,1,18/06/2024,Decoración,67.71
+358,Rincón de plantas,$63.41,7,18/06/2024,Decoración,443.87
+625,Alfombra,$124.91,3,18/06/2024,Decoración,374.73
+1288,Cafetera,$124.44,2,18/06/2024,Electrodomésticos,248.88
+2765,Auriculares,$63.93,8,18/06/2024,Electrónica,511.44
+777,Elementos de cerámica,$62.21,1,19/06/2024,Decoración,62.21
+1069,Batidora,$87.99,1,19/06/2024,Electrodomésticos,87.99
+1244,Aspiradora,$103.91,4,19/06/2024,Electrodomésticos,415.64
+1428,Cafetera,$63.53,11,19/06/2024,Electrodomésticos,698.83
+1722,Microondas,$31.78,3,19/06/2024,Electrodomésticos,95.34
+2120,Consola de videojuegos,$99.63,6,19/06/2024,Electrónica,597.78
+2455,Auriculares,$91.06,3,19/06/2024,Electrónica,273.18
+388,Rincón de plantas,$80.35,12,20/06/2024,Decoración,964.20
+1018,Cafetera,$121.43,1,20/06/2024,Electrodomésticos,121.43
+1628,Cafetera,$30.58,2,20/06/2024,Electrodomésticos,61.16
+2127,Cámara digital,$70.38,12,20/06/2024,Electrónica,844.56
+2516,Laptop,$91.36,7,20/06/2024,Electrónica,639.52
+410,Adorno de pared,$109.64,3,21/06/2024,Decoración,328.92
+1350,Plancha de vapor,$105.68,5,21/06/2024,Electrodomésticos,528.40
+1547,Horno eléctrico,$95.83,2,21/06/2024,Electrodomésticos,191.66
+1843,Microondas,$72.00,11,21/06/2024,Electrodomésticos,792.00
+2290,Consola de videojuegos,$115.96,7,21/06/2024,Electrónica,811.72
+267,Elementos de cerámica,$58.78,11,22/06/2024,Decoración,646.58
+330,Adorno de pared,$60.02,6,22/06/2024,Decoración,360.12
+966,Cortinas,$51.43,10,22/06/2024,Decoración,514.30
+1196,Secadora,$32.40,3,22/06/2024,Electrodomésticos,97.20
+2324,Tablet,$45.82,9,22/06/2024,Electrónica,412.38
+416,Cortinas,$83.58,3,23/06/2024,Decoración,250.74
+756,Cortinas,$107.29,4,23/06/2024,Decoración,429.16
+834,Jarrón decorativo,$78.01,4,23/06/2024,Decoración,312.04
+1084,Aspiradora,$119.83,7,23/06/2024,Electrodomésticos,838.81
+1442,Microondas,$81.76,5,23/06/2024,Electrodomésticos,408.80
+2192,Televisor,$104.46,12,23/06/2024,Electrónica,1253.52
+2461,Parlantes Bluetooth,$73.92,11,23/06/2024,Electrónica,813.12
+383,Espejo decorativo,$119.48,7,24/06/2024,Decoración,836.36
+578,Rincón de plantas,$36.07,9,24/06/2024,Decoración,324.63
+603,Espejo decorativo,$104.42,11,24/06/2024,Decoración,1148.62
+1172,Microondas,$73.91,12,24/06/2024,Electrodomésticos,886.92
+1291,Freidora eléctrica,$56.86,1,24/06/2024,Electrodomésticos,56.86
+1833,Microondas,$42.14,2,24/06/2024,Electrodomésticos,84.28
+1858,Cafetera,$30.27,4,24/06/2024,Electrodomésticos,121.08
+2091,Parlantes Bluetooth,$83.60,10,24/06/2024,Electrónica,836.00
+2158,SmartWatch,$89.15,1,24/06/2024,Electrónica,89.15
+287,Elementos de cerámica,$47.43,2,25/06/2024,Decoración,94.86
+1192,Microondas,$66.39,12,25/06/2024,Electrodomésticos,796.68
+1541,Freidora eléctrica,$37.62,5,25/06/2024,Electrodomésticos,188.10
+1825,Lavadora,$93.71,1,25/06/2024,Electrodomésticos,93.71
+2057,Cámara digital,$109.29,10,25/06/2024,Electrónica,1092.90
+2254,Tablet,$110.94,6,25/06/2024,Electrónica,665.64
+2328,SmartWatch,$27.13,3,25/06/2024,Electrónica,81.39
+2512,Televisor,$52.92,9,25/06/2024,Electrónica,476.28
+179,Lámpara de mesa,$120.58,1,26/06/2024,Decoración,120.58
+489,Lámpara de mesa,$111.20,10,26/06/2024,Decoración,1112.00
+677,Elementos de cerámica,$93.29,9,26/06/2024,Decoración,839.61
+815,Alfombra,$124.88,7,26/06/2024,Decoración,874.16
+1335,Lavadora,$36.86,6,26/06/2024,Electrodomésticos,221.16
+1712,Microondas,$55.83,2,26/06/2024,Electrodomésticos,111.66
+1931,Freidora eléctrica,$82.90,5,26/06/2024,Electrodomésticos,414.50
+2499,Proyector,$66.51,1,26/06/2024,Electrónica,66.51
+2700,Consola de videojuegos,$39.68,12,26/06/2024,Electrónica,476.16
+146,Cortinas,$68.55,9,27/06/2024,Decoración,616.95
+283,Espejo decorativo,$89.21,2,27/06/2024,Decoración,178.42
+711,Lámpara de mesa,$66.24,1,27/06/2024,Decoración,66.24
+831,Lámpara de mesa,$70.23,12,27/06/2024,Decoración,842.76
+1083,Microondas,$26.82,3,27/06/2024,Electrodomésticos,80.46
+1549,Batidora,$106.44,6,27/06/2024,Electrodomésticos,638.64
+2884,Tablet,$94.72,4,27/06/2024,Electrónica,378.88
+71,Lámpara de mesa,$97.07,2,28/06/2024,Decoración,194.14
+916,Cortinas,$50.83,1,28/06/2024,Decoración,50.83
+1448,Cafetera,$44.00,4,28/06/2024,Electrodomésticos,176.00
+1668,Cafetera,$111.39,12,28/06/2024,Electrodomésticos,1336.68
+2730,Consola de videojuegos,$87.79,2,28/06/2024,Electrónica,175.58
+2743,Smartphone,$91.42,9,28/06/2024,Electrónica,822.78
+2836,Laptop,$64.00,10,28/06/2024,Electrónica,640.00
+2919,Proyector,$46.95,6,28/06/2024,Electrónica,281.70
+10,Adorno de pared,$44.65,10,29/06/2024,Decoración,446.50
+125,Alfombra,$92.80,2,29/06/2024,Decoración,185.60
+502,Cuadro decorativo,$120.85,10,29/06/2024,Decoración,1208.50
+1390,Plancha de vapor,$45.61,8,29/06/2024,Electrodomésticos,364.88
+1826,Secadora,$109.43,9,29/06/2024,Electrodomésticos,984.87
+2008,SmartWatch,$34.81,9,29/06/2024,Electrónica,313.29
+2024,Tablet,$61.79,6,29/06/2024,Electrónica,370.74
+2259,Proyector,$35.94,2,29/06/2024,Electrónica,71.88
+2747,Cámara digital,$106.28,7,29/06/2024,Electrónica,743.96
+2932,Televisor,$66.39,5,29/06/2024,Electrónica,331.95
+411,Lámpara de mesa,$52.72,4,30/06/2024,Decoración,210.88
+846,Cortinas,$123.89,8,30/06/2024,Decoración,991.12
+994,Jarrón decorativo,$93.88,4,30/06/2024,Decoración,375.52
+1107,Horno eléctrico,$62.25,3,30/06/2024,Electrodomésticos,186.75
+1927,Horno eléctrico,$70.29,12,30/06/2024,Electrodomésticos,843.48
+2006,Laptop,$86.67,3,30/06/2024,Electrónica,260.01
+2741,Parlantes Bluetooth,$112.71,6,30/06/2024,Electrónica,676.26
+2771,Parlantes Bluetooth,$117.61,2,30/06/2024,Electrónica,235.22
+363,Espejo decorativo,$119.02,1,01/07/2024,Decoración,119.02
+585,Alfombra,$72.74,3,01/07/2024,Decoración,218.22
+2394,Tablet,$74.88,11,01/07/2024,Electrónica,823.68
+2525,Auriculares,$78.62,11,01/07/2024,Electrónica,864.82
+2744,Auriculares,$70.61,1,01/07/2024,Electrónica,70.61
+2787,Cámara digital,$79.77,2,01/07/2024,Electrónica,159.54
+443,Espejo decorativo,$65.59,1,02/07/2024,Decoración,65.59
+735,Alfombra,$47.63,5,02/07/2024,Decoración,238.15
+795,Alfombra,$124.05,10,02/07/2024,Decoración,1240.50
+1011,Freidora eléctrica,$79.07,7,02/07/2024,Electrodomésticos,553.49
+1296,Secadora,$65.21,10,02/07/2024,Electrodomésticos,652.10
+1799,Batidora,$29.22,2,02/07/2024,Electrodomésticos,58.44
+1998,Cafetera,$101.11,7,02/07/2024,Electrodomésticos,707.77
+2343,Smartphone,$68.49,11,02/07/2024,Electrónica,753.39
+2358,SmartWatch,$118.54,3,02/07/2024,Electrónica,355.62
+2906,Laptop,$99.78,12,02/07/2024,Electrónica,1197.36
+2968,SmartWatch,$92.79,1,02/07/2024,Electrónica,92.79
+352,Cuadro decorativo,$85.72,5,03/07/2024,Decoración,428.60
+865,Alfombra,$80.74,6,03/07/2024,Decoración,484.44
+1058,Cafetera,$52.48,6,03/07/2024,Electrodomésticos,314.88
+1292,Microondas,$115.46,2,03/07/2024,Electrodomésticos,230.92
+1958,Cafetera,$115.80,12,03/07/2024,Electrodomésticos,1389.60
+2756,Laptop,$86.43,12,03/07/2024,Electrónica,1037.16
+2770,Consola de videojuegos,$60.92,8,03/07/2024,Electrónica,487.36
+165,Alfombra,$110.83,2,04/07/2024,Decoración,221.66
+360,Adorno de pared,$67.02,9,04/07/2024,Decoración,603.18
+516,Cortinas,$38.35,7,04/07/2024,Decoración,268.45
+1937,Horno eléctrico,$37.32,7,04/07/2024,Electrodomésticos,261.24
+1941,Freidora eléctrica,$72.66,2,04/07/2024,Electrodomésticos,145.32
+2237,Cámara digital,$29.68,11,04/07/2024,Electrónica,326.48
+335,Alfombra,$38.03,1,05/07/2024,Decoración,38.03
+931,Lámpara de mesa,$35.86,9,05/07/2024,Decoración,322.74
+979,Lámpara de mesa,$76.68,2,05/07/2024,Decoración,153.36
+1072,Microondas,$93.79,1,05/07/2024,Electrodomésticos,93.79
+1147,Horno eléctrico,$56.79,11,05/07/2024,Electrodomésticos,624.69
+1805,Lavadora,$72.80,2,05/07/2024,Electrodomésticos,145.60
+2265,Auriculares,$82.56,12,05/07/2024,Electrónica,990.72
+513,Espejo decorativo,$112.70,11,06/07/2024,Decoración,1239.70
+716,Cortinas,$89.27,4,06/07/2024,Decoración,357.08
+838,Rincón de plantas,$32.18,4,06/07/2024,Decoración,128.72
+1770,Plancha de vapor,$80.83,9,06/07/2024,Electrodomésticos,727.47
+1792,Microondas,$70.37,6,06/07/2024,Electrodomésticos,422.22
+2861,Parlantes Bluetooth,$67.09,6,06/07/2024,Electrónica,402.54
+215,Alfombra,$73.11,3,07/07/2024,Decoración,219.33
+354,Jarrón decorativo,$63.61,3,07/07/2024,Decoración,190.83
+569,Lámpara de mesa,$78.36,12,07/07/2024,Decoración,940.32
+827,Elementos de cerámica,$97.35,5,07/07/2024,Decoración,486.75
+965,Alfombra,$75.30,4,07/07/2024,Decoración,301.20
+986,Cortinas,$111.39,10,07/07/2024,Decoración,1113.90
+1112,Microondas,$41.19,5,07/07/2024,Electrodomésticos,205.95
+1355,Lavadora,$114.24,9,07/07/2024,Electrodomésticos,1028.16
+1903,Microondas,$101.57,8,07/07/2024,Electrodomésticos,812.56
+1936,Secadora,$117.68,12,07/07/2024,Electrodomésticos,1412.16
+2666,Laptop,$44.22,1,07/07/2024,Electrónica,44.22
+2910,Consola de videojuegos,$122.48,7,07/07/2024,Electrónica,857.36
+233,Espejo decorativo,$106.52,5,08/07/2024,Decoración,532.60
+796,Cortinas,$71.33,6,08/07/2024,Decoración,427.98
+2889,Proyector,$32.99,7,08/07/2024,Electrónica,230.93
+228,Rincón de plantas,$56.12,2,09/07/2024,Decoración,112.24
+268,Rincón de plantas,$82.16,10,09/07/2024,Decoración,821.60
+526,Cortinas,$38.63,12,09/07/2024,Decoración,463.56
+622,Cuadro decorativo,$108.93,4,09/07/2024,Decoración,435.72
+941,Lámpara de mesa,$58.97,12,09/07/2024,Decoración,707.64
+1180,Plancha de vapor,$42.61,2,09/07/2024,Electrodomésticos,85.22
+1675,Lavadora,$70.34,6,09/07/2024,Electrodomésticos,422.04
+2239,Proyector,$35.83,5,09/07/2024,Electrónica,179.15
+2293,Smartphone,$115.15,4,09/07/2024,Electrónica,460.60
+2466,Laptop,$97.07,1,09/07/2024,Electrónica,97.07
+2604,Auriculares,$106.41,3,09/07/2024,Electrónica,319.23
+2719,Proyector,$94.86,7,09/07/2024,Electrónica,664.02
+154,Jarrón decorativo,$121.50,11,10/07/2024,Decoración,1336.50
+790,Adorno de pared,$89.14,5,10/07/2024,Decoración,445.70
+2579,Proyector,$115.50,6,10/07/2024,Electrónica,693.00
+96,Cortinas,$59.90,9,11/07/2024,Decoración,539.10
+307,Elementos de cerámica,$95.51,7,11/07/2024,Decoración,668.57
+769,Candelabro,$113.28,2,11/07/2024,Decoración,226.56
+858,Rincón de plantas,$84.64,11,11/07/2024,Decoración,931.04
+1746,Secadora,$52.03,5,11/07/2024,Electrodomésticos,260.15
+1884,Aspiradora,$94.69,4,11/07/2024,Electrodomésticos,378.76
+1899,Batidora,$83.64,1,11/07/2024,Electrodomésticos,83.64
+2053,Smartphone,$115.95,4,11/07/2024,Electrónica,463.80
+2143,Smartphone,$74.56,1,11/07/2024,Electrónica,74.56
+2997,SmartWatch,$47.71,3,11/07/2024,Electrónica,143.13
+61,Lámpara de mesa,$86.92,11,12/07/2024,Decoración,956.12
+291,Lámpara de mesa,$48.57,4,12/07/2024,Decoración,194.28
+463,Espejo decorativo,$27.65,11,12/07/2024,Decoración,304.15
+1306,Secadora,$69.81,6,12/07/2024,Electrodomésticos,418.86
+1427,Horno eléctrico,$33.55,11,12/07/2024,Electrodomésticos,369.05
+1525,Lavadora,$34.53,10,12/07/2024,Electrodomésticos,345.30
+1536,Secadora,$69.11,6,12/07/2024,Electrodomésticos,414.66
+55,Alfombra,$53.54,12,13/07/2024,Decoración,642.48
+241,Lámpara de mesa,$62.35,3,13/07/2024,Decoración,187.05
+691,Lámpara de mesa,$111.59,2,13/07/2024,Decoración,223.18
+1123,Microondas,$46.62,7,13/07/2024,Electrodomésticos,326.34
+1755,Lavadora,$36.52,9,13/07/2024,Electrodomésticos,328.68
+1985,Lavadora,$93.30,2,13/07/2024,Electrodomésticos,186.60
+1997,Horno eléctrico,$81.81,5,13/07/2024,Electrodomésticos,409.05
+2425,Auriculares,$99.13,7,13/07/2024,Electrónica,693.91
+2469,Proyector,$52.56,8,13/07/2024,Electrónica,420.48
+2927,Cámara digital,$103.18,9,13/07/2024,Electrónica,928.62
+964,Jarrón decorativo,$43.30,7,14/07/2024,Decoración,303.10
+1078,Cafetera,$38.47,1,14/07/2024,Electrodomésticos,38.47
+2247,Cámara digital,$28.06,7,14/07/2024,Electrónica,196.42
+2495,Auriculares,$107.82,4,14/07/2024,Electrónica,431.28
+2911,Parlantes Bluetooth,$63.27,2,14/07/2024,Electrónica,126.54
+105,Alfombra,$43.53,9,15/07/2024,Decoración,391.77
+149,Candelabro,$29.77,9,15/07/2024,Decoración,267.93
+173,Espejo decorativo,$96.39,6,15/07/2024,Decoración,578.34
+783,Espejo decorativo,$80.56,7,15/07/2024,Decoración,563.92
+1373,Microondas,$86.33,2,15/07/2024,Electrodomésticos,172.66
+1494,Aspiradora,$82.50,6,15/07/2024,Electrodomésticos,495.00
+1533,Microondas,$71.18,9,15/07/2024,Electrodomésticos,640.62
+1604,Aspiradora,$99.90,8,15/07/2024,Electrodomésticos,799.20
+2625,Auriculares,$77.33,6,15/07/2024,Electrónica,463.98
+2991,Televisor,$92.33,4,15/07/2024,Electrónica,369.32
+63,Espejo decorativo,$57.27,11,16/07/2024,Decoración,629.97
+200,Adorno de pared,$110.40,5,16/07/2024,Decoración,552.00
+201,Lámpara de mesa,$58.19,1,16/07/2024,Decoración,58.19
+298,Rincón de plantas,$29.59,12,16/07/2024,Decoración,355.08
+1037,Horno eléctrico,$120.58,8,16/07/2024,Electrodomésticos,964.64
+1795,Lavadora,$83.14,8,16/07/2024,Electrodomésticos,665.12
+1824,Aspiradora,$44.78,12,16/07/2024,Electrodomésticos,537.36
+1926,Secadora,$42.19,2,16/07/2024,Electrodomésticos,84.38
+2280,Consola de videojuegos,$108.67,3,16/07/2024,Electrónica,326.01
+129,Candelabro,$85.59,5,17/07/2024,Decoración,427.95
+1047,Horno eléctrico,$96.67,3,17/07/2024,Electrodomésticos,290.01
+1135,Lavadora,$55.01,12,17/07/2024,Electrodomésticos,660.12
+1653,Microondas,$124.64,9,17/07/2024,Electrodomésticos,1121.76
+1862,Microondas,$51.41,6,17/07/2024,Electrodomésticos,308.46
+1910,Plancha de vapor,$75.65,5,17/07/2024,Electrodomésticos,378.25
+1947,Horno eléctrico,$54.93,7,17/07/2024,Electrodomésticos,384.51
+2570,Consola de videojuegos,$122.81,6,17/07/2024,Electrónica,736.86
+2643,Smartphone,$97.36,1,17/07/2024,Electrónica,97.36
+369,Candelabro,$72.98,11,18/07/2024,Decoración,802.78
+1170,Plancha de vapor,$30.39,11,18/07/2024,Electrodomésticos,334.29
+1237,Horno eléctrico,$35.48,8,18/07/2024,Electrodomésticos,283.84
+1614,Aspiradora,$56.92,7,18/07/2024,Electrodomésticos,398.44
+1663,Microondas,$60.51,10,18/07/2024,Electrodomésticos,605.10
+1714,Aspiradora,$75.51,12,18/07/2024,Electrodomésticos,906.12
+2834,Auriculares,$65.34,4,18/07/2024,Electrónica,261.36
+2855,Auriculares,$57.89,2,18/07/2024,Electrónica,115.78
+155,Alfombra,$79.26,10,19/07/2024,Decoración,792.60
+157,Elementos de cerámica,$48.72,12,19/07/2024,Decoración,584.64
+2350,Consola de videojuegos,$90.18,4,19/07/2024,Electrónica,360.72
+2555,Auriculares,$37.08,1,19/07/2024,Electrónica,37.08
+2567,Cámara digital,$47.38,6,19/07/2024,Electrónica,284.28
+2954,Auriculares,$86.93,7,19/07/2024,Electrónica,608.51
+37,Elementos de cerámica,$38.64,1,20/07/2024,Decoración,38.64
+87,Elementos de cerámica,$38.79,3,20/07/2024,Decoración,116.37
+391,Lámpara de mesa,$56.98,2,20/07/2024,Decoración,113.96
+488,Rincón de plantas,$114.92,1,20/07/2024,Decoración,114.92
+1157,Horno eléctrico,$56.94,4,20/07/2024,Electrodomésticos,227.76
+1333,Microondas,$95.29,8,20/07/2024,Electrodomésticos,762.32
+1364,Aspiradora,$68.72,11,20/07/2024,Electrodomésticos,755.92
+1909,Batidora,$124.45,5,20/07/2024,Electrodomésticos,622.25
+2184,Auriculares,$31.39,2,20/07/2024,Electrónica,62.78
+2326,Laptop,$52.68,11,20/07/2024,Electrónica,579.48
+2484,Auriculares,$76.32,10,20/07/2024,Electrónica,763.20
+2866,Laptop,$47.15,1,20/07/2024,Electrónica,47.15
+77,Elementos de cerámica,$121.49,8,21/07/2024,Decoración,971.92
+1195,Lavadora,$88.93,5,21/07/2024,Electrodomésticos,444.65
+1402,Microondas,$80.75,9,21/07/2024,Electrodomésticos,726.75
+1491,Freidora eléctrica,$48.86,1,21/07/2024,Electrodomésticos,48.86
+2314,Auriculares,$68.94,9,21/07/2024,Electrónica,620.46
+2362,Televisor,$58.05,11,21/07/2024,Electrónica,638.55
+2596,Laptop,$52.44,4,21/07/2024,Electrónica,209.76
+121,Lámpara de mesa,$60.27,9,22/07/2024,Decoración,542.43
+258,Rincón de plantas,$52.21,9,22/07/2024,Decoración,469.89
+870,Adorno de pared,$85.11,4,22/07/2024,Decoración,340.44
+1249,Batidora,$79.15,10,22/07/2024,Electrodomésticos,791.50
+2799,Proyector,$97.23,8,22/07/2024,Electrónica,777.84
+12,Cuadro decorativo,$59.33,1,23/07/2024,Decoración,59.33
+602,Cuadro decorativo,$76.58,11,23/07/2024,Decoración,842.38
+1444,Aspiradora,$118.58,2,23/07/2024,Electrodomésticos,237.16
+1847,Horno eléctrico,$113.06,6,23/07/2024,Electrodomésticos,678.36
+2221,Parlantes Bluetooth,$64.92,2,23/07/2024,Electrónica,129.84
+2397,Cámara digital,$56.77,4,23/07/2024,Electrónica,227.08
+2524,Auriculares,$74.77,7,23/07/2024,Electrónica,523.39
+554,Jarrón decorativo,$97.67,7,24/07/2024,Decoración,683.69
+1016,Secadora,$28.80,12,24/07/2024,Electrodomésticos,345.60
+1397,Horno eléctrico,$63.21,2,24/07/2024,Electrodomésticos,126.42
+1575,Lavadora,$47.70,9,24/07/2024,Electrodomésticos,429.30
+1745,Lavadora,$92.94,8,24/07/2024,Electrodomésticos,743.52
+1816,Secadora,$47.25,4,24/07/2024,Electrodomésticos,189.00
+2023,Smartphone,$105.76,12,24/07/2024,Electrónica,1269.12
+2070,Consola de videojuegos,$39.85,6,24/07/2024,Electrónica,239.10
+2593,Smartphone,$123.47,7,24/07/2024,Electrónica,864.29
+32,Cuadro decorativo,$26.37,6,25/07/2024,Decoración,158.22
+309,Candelabro,$77.84,8,25/07/2024,Decoración,622.72
+321,Lámpara de mesa,$54.66,7,25/07/2024,Decoración,382.62
+473,Espejo decorativo,$83.21,1,25/07/2024,Decoración,83.21
+1220,Plancha de vapor,$74.88,1,25/07/2024,Electrodomésticos,74.88
+1231,Freidora eléctrica,$98.69,3,25/07/2024,Electrodomésticos,296.07
+1279,Batidora,$42.67,10,25/07/2024,Electrodomésticos,426.70
+2709,Proyector,$108.23,6,25/07/2024,Electrónica,649.38
+2891,Parlantes Bluetooth,$31.28,12,25/07/2024,Electrónica,375.36
+3000,Parlantes Bluetooth,$78.55,11,25/07/2024,Electrónica,864.05
+1242,Microondas,$70.09,9,26/07/2024,Electrodomésticos,630.81
+2301,Parlantes Bluetooth,$61.21,9,26/07/2024,Electrónica,550.89
+2390,Consola de videojuegos,$108.30,4,26/07/2024,Electrónica,433.20
+2561,Parlantes Bluetooth,$28.91,1,26/07/2024,Electrónica,28.91
+2712,Televisor,$57.13,8,26/07/2024,Electrónica,457.04
+2857,Cámara digital,$102.70,10,26/07/2024,Electrónica,1027.00
+2901,Parlantes Bluetooth,$93.37,10,26/07/2024,Electrónica,933.70
+290,Adorno de pared,$100.50,12,27/07/2024,Decoración,1206.00
+1827,Horno eléctrico,$97.56,9,27/07/2024,Electrodomésticos,878.04
+1829,Batidora,$96.16,1,27/07/2024,Electrodomésticos,96.16
+2045,Auriculares,$94.17,5,27/07/2024,Electrónica,470.85
+2518,SmartWatch,$114.56,3,27/07/2024,Electrónica,343.68
+2853,Smartphone,$69.68,1,27/07/2024,Electrónica,69.68
+631,Lámpara de mesa,$111.73,5,28/07/2024,Decoración,558.65
+1213,Microondas,$57.17,5,28/07/2024,Electrodomésticos,285.85
+1506,Secadora,$98.85,11,28/07/2024,Electrodomésticos,1087.35
+1561,Freidora eléctrica,$88.22,12,28/07/2024,Electrodomésticos,1058.64
+1811,Freidora eléctrica,$50.06,3,28/07/2024,Electrodomésticos,150.18
+2159,Proyector,$38.48,6,28/07/2024,Electrónica,230.88
+2491,Parlantes Bluetooth,$123.50,9,28/07/2024,Electrónica,1111.50
+2786,Laptop,$123.95,11,28/07/2024,Electrónica,1363.45
+571,Lámpara de mesa,$82.77,9,29/07/2024,Decoración,744.93
+845,Alfombra,$46.70,3,29/07/2024,Decoración,140.10
+1375,Lavadora,$78.13,5,29/07/2024,Electrodomésticos,390.65
+1413,Microondas,$39.87,11,29/07/2024,Electrodomésticos,438.57
+1505,Lavadora,$78.11,12,29/07/2024,Electrodomésticos,937.32
+1915,Lavadora,$106.83,12,29/07/2024,Electrodomésticos,1281.96
+791,Lámpara de mesa,$32.02,6,30/07/2024,Decoración,192.12
+826,Cortinas,$61.22,1,30/07/2024,Decoración,61.22
+1317,Horno eléctrico,$62.18,1,30/07/2024,Electrodomésticos,62.18
+1723,Microondas,$103.60,9,30/07/2024,Electrodomésticos,932.40
+2054,Tablet,$96.64,9,30/07/2024,Electrónica,869.76
+2318,SmartWatch,$122.04,9,30/07/2024,Electrónica,1098.36
+2372,Televisor,$36.05,7,30/07/2024,Electrónica,252.35
+2475,Auriculares,$78.96,1,30/07/2024,Electrónica,78.96
+2628,SmartWatch,$97.44,7,30/07/2024,Electrónica,682.08
+2722,Televisor,$61.60,11,30/07/2024,Electrónica,677.60
+2762,Televisor,$107.05,11,30/07/2024,Electrónica,1177.55
+1068,Cafetera,$26.30,1,31/07/2024,Electrodomésticos,26.30
+1458,Cafetera,$86.92,3,31/07/2024,Electrodomésticos,260.76
+1475,Lavadora,$103.80,10,31/07/2024,Electrodomésticos,1038.00
+1944,Aspiradora,$55.59,1,31/07/2024,Electrodomésticos,55.59
+2130,Consola de videojuegos,$41.12,6,31/07/2024,Electrónica,246.72
+2225,Auriculares,$66.16,7,31/07/2024,Electrónica,463.12
+2408,SmartWatch,$101.54,5,31/07/2024,Electrónica,507.70
+2488,SmartWatch,$71.56,5,31/07/2024,Electrónica,357.80
+139,Candelabro,$114.30,2,01/08/2024,Decoración,228.60
+423,Espejo decorativo,$115.45,4,01/08/2024,Decoración,461.80
+533,Espejo decorativo,$94.06,6,01/08/2024,Decoración,564.36
+860,Adorno de pared,$49.28,9,01/08/2024,Decoración,443.52
+1155,Lavadora,$109.09,3,01/08/2024,Electrodomésticos,327.27
+1331,Freidora eléctrica,$116.97,2,01/08/2024,Electrodomésticos,233.94
+1854,Aspiradora,$103.99,8,01/08/2024,Electrodomésticos,831.92
+2050,Consola de videojuegos,$88.73,12,01/08/2024,Electrónica,1064.76
+2439,Proyector,$59.08,3,01/08/2024,Electrónica,177.24
+2452,Televisor,$83.17,8,01/08/2024,Electrónica,665.36
+2592,Televisor,$106.91,2,01/08/2024,Electrónica,213.82
+2641,Parlantes Bluetooth,$47.01,11,01/08/2024,Electrónica,517.11
+535,Alfombra,$115.82,1,02/08/2024,Decoración,115.82
+692,Cuadro decorativo,$76.69,2,02/08/2024,Decoración,153.38
+1002,Microondas,$62.61,8,02/08/2024,Electrodomésticos,500.88
+1208,Cafetera,$54.34,4,02/08/2024,Electrodomésticos,217.36
+1278,Cafetera,$67.33,8,02/08/2024,Electrodomésticos,538.64
+1483,Microondas,$69.18,7,02/08/2024,Electrodomésticos,484.26
+1902,Microondas,$75.91,3,02/08/2024,Electrodomésticos,227.73
+2216,Laptop,$116.31,11,02/08/2024,Electrónica,1279.41
+2880,Consola de videojuegos,$79.76,12,02/08/2024,Electrónica,957.12
+2937,Cámara digital,$96.88,6,02/08/2024,Electrónica,581.28
+174,Jarrón decorativo,$52.50,3,03/08/2024,Decoración,157.50
+525,Alfombra,$29.53,12,03/08/2024,Decoración,354.36
+528,Rincón de plantas,$83.39,6,03/08/2024,Decoración,500.34
+1398,Cafetera,$26.98,10,03/08/2024,Electrodomésticos,269.80
+1531,Freidora eléctrica,$43.88,9,03/08/2024,Electrodomésticos,394.92
+1717,Horno eléctrico,$88.26,8,03/08/2024,Electrodomésticos,706.08
+2093,Smartphone,$70.70,7,03/08/2024,Electrónica,494.90
+2514,Tablet,$79.99,10,03/08/2024,Electrónica,799.90
+2563,Smartphone,$90.19,1,03/08/2024,Electrónica,90.19
+2737,Cámara digital,$60.78,8,03/08/2024,Electrónica,486.24
+264,Jarrón decorativo,$53.14,5,04/08/2024,Decoración,265.70
+372,Cuadro decorativo,$124.83,6,04/08/2024,Decoración,748.98
+748,Rincón de plantas,$115.76,3,04/08/2024,Decoración,347.28
+1013,Microondas,$67.16,1,04/08/2024,Electrodomésticos,67.16
+1019,Batidora,$73.65,10,04/08/2024,Electrodomésticos,736.50
+1438,Cafetera,$111.47,8,04/08/2024,Electrodomésticos,891.76
+1661,Freidora eléctrica,$88.82,2,04/08/2024,Electrodomésticos,177.64
+1775,Lavadora,$114.48,6,04/08/2024,Electrodomésticos,686.88
+2114,Tablet,$64.99,3,04/08/2024,Electrónica,194.97
+2336,Laptop,$42.58,9,04/08/2024,Electrónica,383.22
+2578,SmartWatch,$26.11,7,04/08/2024,Electrónica,182.77
+2620,Consola de videojuegos,$51.74,7,04/08/2024,Electrónica,362.18
+2717,Cámara digital,$70.28,6,04/08/2024,Electrónica,421.68
+2800,Consola de videojuegos,$121.62,2,04/08/2024,Electrónica,243.24
+1174,Aspiradora,$69.14,8,05/08/2024,Electrodomésticos,553.12
+1405,Lavadora,$68.06,10,05/08/2024,Electrodomésticos,680.60
+2042,Televisor,$44.97,4,05/08/2024,Electrónica,179.88
+2549,Proyector,$69.11,11,05/08/2024,Electrónica,760.21
+2729,Proyector,$56.29,11,05/08/2024,Electrónica,619.19
+2790,Consola de videojuegos,$83.70,1,05/08/2024,Electrónica,83.70
+1312,Microondas,$118.10,10,06/08/2024,Electrodomésticos,1181.00
+1419,Batidora,$60.56,1,06/08/2024,Electrodomésticos,60.56
+1500,Plancha de vapor,$29.66,12,06/08/2024,Electrodomésticos,355.92
+1683,Microondas,$120.94,2,06/08/2024,Electrodomésticos,241.88
+1757,Horno eléctrico,$34.07,8,06/08/2024,Electrodomésticos,272.56
+2299,Proyector,$78.69,2,06/08/2024,Electrónica,157.38
+843,Espejo decorativo,$32.80,12,07/08/2024,Decoración,393.60
+1017,Horno eléctrico,$114.97,8,07/08/2024,Electrodomésticos,919.76
+1284,Aspiradora,$31.94,7,07/08/2024,Electrodomésticos,223.58
+2249,Proyector,$78.26,9,07/08/2024,Electrónica,704.34
+2922,Televisor,$115.66,12,07/08/2024,Electrónica,1387.92
+1406,Secadora,$113.35,8,08/08/2024,Electrodomésticos,906.80
+1580,Plancha de vapor,$103.76,7,08/08/2024,Electrodomésticos,726.32
+1725,Lavadora,$38.16,6,08/08/2024,Electrodomésticos,228.96
+1922,Microondas,$58.19,6,08/08/2024,Electrodomésticos,349.14
+2815,Auriculares,$117.07,12,08/08/2024,Electrónica,1404.84
+2839,Proyector,$41.28,12,08/08/2024,Electrónica,495.36
+586,Cortinas,$31.36,7,09/08/2024,Decoración,219.52
+739,Candelabro,$36.73,11,09/08/2024,Decoración,404.03
+1202,Microondas,$119.25,11,09/08/2024,Electrodomésticos,1311.75
+1654,Aspiradora,$83.90,1,09/08/2024,Electrodomésticos,83.90
+1809,Batidora,$42.42,4,09/08/2024,Electrodomésticos,169.68
+2798,SmartWatch,$56.58,12,09/08/2024,Electrónica,678.96
+2989,Televisor,$79.99,4,09/08/2024,Electrónica,319.96
+295,Alfombra,$38.83,10,10/08/2024,Decoración,388.30
+1259,Batidora,$71.83,12,10/08/2024,Electrodomésticos,861.96
+2076,Laptop,$111.86,2,10/08/2024,Electrónica,223.72
+2078,SmartWatch,$107.98,8,10/08/2024,Electrónica,863.84
+2186,Laptop,$55.27,5,10/08/2024,Electrónica,276.35
+289,Candelabro,$52.41,1,11/08/2024,Decoración,52.41
+1289,Batidora,$76.71,7,11/08/2024,Electrodomésticos,536.97
+1695,Lavadora,$50.81,2,11/08/2024,Electrodomésticos,101.62
+2153,Smartphone,$31.39,4,11/08/2024,Electrónica,125.56
+2622,Televisor,$109.28,8,11/08/2024,Electrónica,874.24
+2665,Auriculares,$120.36,2,11/08/2024,Electrónica,240.72
+126,Cortinas,$113.78,1,12/08/2024,Decoración,113.78
+148,Rincón de plantas,$105.27,6,12/08/2024,Decoración,631.62
+246,Cortinas,$57.72,7,12/08/2024,Decoración,404.04
+700,Adorno de pared,$41.59,1,12/08/2024,Decoración,41.59
+938,Rincón de plantas,$83.79,4,12/08/2024,Decoración,335.16
+1678,Cafetera,$66.74,11,12/08/2024,Electrodomésticos,734.14
+1801,Freidora eléctrica,$60.25,3,12/08/2024,Electrodomésticos,180.75
+2139,Proyector,$119.08,3,12/08/2024,Electrónica,357.24
+2257,Cámara digital,$55.52,2,12/08/2024,Electrónica,111.04
+101,Lámpara de mesa,$40.25,12,13/08/2024,Decoración,483.00
+1299,Batidora,$93.10,3,13/08/2024,Electrodomésticos,279.30
+1514,Aspiradora,$82.69,3,13/08/2024,Electrodomésticos,248.07
+1589,Batidora,$36.18,7,13/08/2024,Electrodomésticos,253.26
+2016,Laptop,$44.12,10,13/08/2024,Electrónica,441.20
+2224,Tablet,$68.29,3,13/08/2024,Electrónica,204.87
+2894,Tablet,$28.58,7,13/08/2024,Electrónica,200.06
+207,Elementos de cerámica,$84.02,3,14/08/2024,Decoración,252.06
+1054,Aspiradora,$86.59,2,14/08/2024,Electrodomésticos,173.18
+1256,Secadora,$29.77,7,14/08/2024,Electrodomésticos,208.39
+1625,Lavadora,$121.45,3,14/08/2024,Electrodomésticos,364.35
+1957,Horno eléctrico,$81.89,3,14/08/2024,Electrodomésticos,245.67
+2072,Televisor,$101.44,11,14/08/2024,Electrónica,1115.84
+2260,Consola de videojuegos,$88.37,4,14/08/2024,Electrónica,353.48
+2407,Cámara digital,$38.69,1,14/08/2024,Electrónica,38.69
+2637,Cámara digital,$64.62,10,14/08/2024,Electrónica,646.20
+168,Rincón de plantas,$115.04,9,15/08/2024,Decoración,1035.36
+392,Cuadro decorativo,$81.56,2,15/08/2024,Decoración,163.12
+651,Lámpara de mesa,$76.58,11,15/08/2024,Decoración,842.38
+1421,Freidora eléctrica,$78.39,6,15/08/2024,Electrodomésticos,470.34
+1591,Freidora eléctrica,$87.90,12,15/08/2024,Electrodomésticos,1054.80
+1894,Aspiradora,$55.65,5,15/08/2024,Electrodomésticos,278.25
+2307,Cámara digital,$50.60,6,15/08/2024,Electrónica,303.60
+2967,Cámara digital,$75.37,3,15/08/2024,Electrónica,226.11
+170,Adorno de pared,$36.04,11,16/08/2024,Decoración,396.44
+469,Candelabro,$105.20,10,16/08/2024,Decoración,1052.00
+1105,Lavadora,$116.72,4,16/08/2024,Electrodomésticos,466.88
+2639,Proyector,$27.45,4,16/08/2024,Electrónica,109.80
+245,Alfombra,$44.82,11,17/08/2024,Decoración,493.02
+1950,Plancha de vapor,$99.29,1,17/08/2024,Electrodomésticos,99.29
+2395,Auriculares,$74.82,11,17/08/2024,Electrónica,823.02
+2564,Tablet,$39.66,6,17/08/2024,Electrónica,237.96
+2791,Parlantes Bluetooth,$90.88,10,17/08/2024,Electrónica,908.80
+2963,Smartphone,$62.46,6,17/08/2024,Electrónica,374.76
+744,Jarrón decorativo,$95.38,7,18/08/2024,Decoración,667.66
+1153,Microondas,$111.78,5,18/08/2024,Electrodomésticos,558.90
+1339,Batidora,$105.41,1,18/08/2024,Electrodomésticos,105.41
+2199,Proyector,$67.25,3,18/08/2024,Electrónica,201.75
+2229,Proyector,$66.77,6,18/08/2024,Electrónica,400.62
+2540,Consola de videojuegos,$77.43,6,18/08/2024,Electrónica,464.58
+271,Lámpara de mesa,$107.31,2,19/08/2024,Decoración,214.62
+429,Candelabro,$104.11,5,19/08/2024,Decoración,520.55
+647,Elementos de cerámica,$49.52,3,19/08/2024,Decoración,148.56
+689,Candelabro,$116.57,3,19/08/2024,Decoración,349.71
+115,Alfombra,$54.17,6,20/08/2024,Decoración,325.02
+133,Espejo decorativo,$76.22,11,20/08/2024,Decoración,838.42
+180,Adorno de pared,$118.38,11,20/08/2024,Decoración,1302.18
+274,Jarrón decorativo,$72.43,3,20/08/2024,Decoración,217.29
+540,Adorno de pared,$110.50,3,20/08/2024,Decoración,331.50
+611,Lámpara de mesa,$44.94,7,20/08/2024,Decoración,314.58
+638,Rincón de plantas,$88.00,5,20/08/2024,Decoración,440.00
+710,Adorno de pared,$78.73,11,20/08/2024,Decoración,866.03
+1609,Batidora,$79.45,8,20/08/2024,Electrodomésticos,635.60
+1688,Cafetera,$112.14,3,20/08/2024,Electrodomésticos,336.42
+2494,Tablet,$94.10,1,20/08/2024,Electrónica,94.10
+2537,Cámara digital,$74.10,9,20/08/2024,Electrónica,666.90
+2575,Auriculares,$39.02,9,20/08/2024,Electrónica,351.18
+2862,Televisor,$62.63,8,20/08/2024,Electrónica,501.04
+35,Alfombra,$65.80,11,21/08/2024,Decoración,723.80
+508,Rincón de plantas,$36.76,2,21/08/2024,Decoración,73.52
+940,Adorno de pared,$67.34,4,21/08/2024,Decoración,269.36
+1022,Microondas,$56.15,5,21/08/2024,Electrodomésticos,280.75
+1124,Aspiradora,$92.55,4,21/08/2024,Electrodomésticos,370.20
+1143,Microondas,$52.36,7,21/08/2024,Electrodomésticos,366.52
+1665,Lavadora,$102.79,9,21/08/2024,Electrodomésticos,925.11
+1693,Microondas,$91.88,5,21/08/2024,Electrodomésticos,459.40
+2021,Parlantes Bluetooth,$82.26,2,21/08/2024,Electrónica,164.52
+2160,Consola de videojuegos,$92.56,3,21/08/2024,Electrónica,277.68
+2338,SmartWatch,$36.21,1,21/08/2024,Electrónica,36.21
+203,Espejo decorativo,$28.98,6,22/08/2024,Decoración,173.88
+404,Jarrón decorativo,$45.82,8,22/08/2024,Decoración,366.56
+490,Adorno de pared,$108.27,8,22/08/2024,Decoración,866.16
+504,Jarrón decorativo,$54.62,3,22/08/2024,Decoración,163.86
+747,Elementos de cerámica,$32.85,10,22/08/2024,Decoración,328.50
+1060,Plancha de vapor,$59.64,12,22/08/2024,Electrodomésticos,715.68
+1467,Horno eléctrico,$74.55,10,22/08/2024,Electrodomésticos,745.50
+2156,Laptop,$62.54,7,22/08/2024,Electrónica,437.78
+2215,Auriculares,$124.96,8,22/08/2024,Electrónica,999.68
+2508,SmartWatch,$63.29,3,22/08/2024,Electrónica,189.87
+2517,Cámara digital,$68.19,6,22/08/2024,Electrónica,409.14
+2892,Televisor,$76.02,9,22/08/2024,Electrónica,684.18
+230,Adorno de pared,$88.01,1,23/08/2024,Decoración,88.01
+869,Candelabro,$124.78,4,23/08/2024,Decoración,499.12
+955,Alfombra,$93.23,7,23/08/2024,Decoración,652.61
+1039,Batidora,$55.47,1,23/08/2024,Electrodomésticos,55.47
+1635,Lavadora,$99.24,7,23/08/2024,Electrodomésticos,694.68
+1939,Batidora,$74.11,10,23/08/2024,Electrodomésticos,741.10
+2048,SmartWatch,$53.91,2,23/08/2024,Electrónica,107.82
+2241,Parlantes Bluetooth,$48.93,8,23/08/2024,Electrónica,391.44
+2535,Auriculares,$95.54,11,23/08/2024,Electrónica,1050.94
+412,Cuadro decorativo,$67.79,9,24/08/2024,Decoración,610.11
+450,Adorno de pared,$79.85,6,24/08/2024,Decoración,479.10
+604,Jarrón decorativo,$124.57,11,24/08/2024,Decoración,1370.27
+823,Espejo decorativo,$99.07,6,24/08/2024,Decoración,594.42
+1074,Aspiradora,$31.76,8,24/08/2024,Electrodomésticos,254.08
+1114,Aspiradora,$86.38,10,24/08/2024,Electrodomésticos,863.80
+2161,Parlantes Bluetooth,$63.40,8,24/08/2024,Electrónica,507.20
+2382,Televisor,$94.90,4,24/08/2024,Electrónica,379.60
+2648,SmartWatch,$77.68,2,24/08/2024,Electrónica,155.36
+2966,Laptop,$69.21,2,24/08/2024,Electrónica,138.42
+803,Espejo decorativo,$91.66,1,25/08/2024,Decoración,91.66
+1162,Microondas,$63.69,11,25/08/2024,Electrodomésticos,700.59
+1338,Cafetera,$37.10,7,25/08/2024,Electrodomésticos,259.70
+1935,Lavadora,$109.94,2,25/08/2024,Electrodomésticos,219.88
+1962,Microondas,$93.59,6,25/08/2024,Electrodomésticos,561.54
+2527,Cámara digital,$60.10,7,25/08/2024,Electrónica,420.70
+2681,Parlantes Bluetooth,$91.54,12,25/08/2024,Electrónica,1098.48
+675,Alfombra,$64.25,10,26/08/2024,Decoración,642.50
+807,Elementos de cerámica,$52.14,9,26/08/2024,Decoración,469.26
+866,Cortinas,$100.33,8,26/08/2024,Decoración,802.64
+1130,Plancha de vapor,$81.76,11,26/08/2024,Electrodomésticos,899.36
+1612,Microondas,$54.26,5,26/08/2024,Electrodomésticos,271.30
+2300,Consola de videojuegos,$51.18,8,26/08/2024,Electrónica,409.44
+2423,Smartphone,$110.79,1,26/08/2024,Electrónica,110.79
+2804,Tablet,$90.14,11,26/08/2024,Electrónica,991.54
+248,Rincón de plantas,$81.89,4,27/08/2024,Decoración,327.56
+789,Candelabro,$44.07,5,27/08/2024,Decoración,220.35
+1869,Batidora,$46.90,7,27/08/2024,Electrodomésticos,328.30
+2243,Smartphone,$101.00,1,27/08/2024,Electrónica,101.00
+2298,SmartWatch,$51.84,1,27/08/2024,Electrónica,51.84
+2539,Proyector,$33.87,7,27/08/2024,Electrónica,237.09
+2806,Laptop,$124.86,5,27/08/2024,Electrónica,624.30
+2928,SmartWatch,$50.23,8,27/08/2024,Electrónica,401.84
+11,Lámpara de mesa,$82.36,12,28/08/2024,Decoración,988.32
+397,Elementos de cerámica,$40.29,2,28/08/2024,Decoración,80.58
+480,Adorno de pared,$117.68,10,28/08/2024,Decoración,1176.80
+579,Lámpara de mesa,$92.26,7,28/08/2024,Decoración,645.82
+1342,Microondas,$113.71,12,28/08/2024,Electrodomésticos,1364.52
+1507,Horno eléctrico,$68.25,5,28/08/2024,Electrodomésticos,341.25
+1994,Aspiradora,$109.08,7,28/08/2024,Electrodomésticos,763.56
+2460,Consola de videojuegos,$31.43,12,28/08/2024,Electrónica,377.16
+2531,Parlantes Bluetooth,$34.04,4,28/08/2024,Electrónica,136.16
+302,Cuadro decorativo,$80.71,11,29/08/2024,Decoración,887.81
+551,Lámpara de mesa,$67.16,6,29/08/2024,Decoración,402.96
+1737,Horno eléctrico,$67.71,7,29/08/2024,Electrodomésticos,473.97
+2032,Televisor,$50.36,12,29/08/2024,Electrónica,604.32
+2142,Televisor,$85.48,10,29/08/2024,Electrónica,854.80
+2261,Parlantes Bluetooth,$95.41,3,29/08/2024,Electrónica,286.23
+279,Lámpara de mesa,$28.85,4,30/08/2024,Decoración,115.40
+484,Jarrón decorativo,$80.57,6,30/08/2024,Decoración,483.42
+723,Espejo decorativo,$77.38,1,30/08/2024,Decoración,77.38
+726,Cortinas,$119.16,6,30/08/2024,Decoración,714.96
+1035,Lavadora,$75.44,2,30/08/2024,Electrodomésticos,150.88
+1341,Freidora eléctrica,$38.42,1,30/08/2024,Electrodomésticos,38.42
+1472,Microondas,$74.36,10,30/08/2024,Electrodomésticos,743.60
+1863,Microondas,$88.86,9,30/08/2024,Electrodomésticos,799.74
+1960,Plancha de vapor,$109.54,12,30/08/2024,Electrodomésticos,1314.48
+2655,Auriculares,$56.28,9,30/08/2024,Electrónica,506.52
+193,Espejo decorativo,$121.37,6,31/08/2024,Decoración,728.22
+325,Alfombra,$84.56,3,31/08/2024,Decoración,253.68
+444,Jarrón decorativo,$36.35,5,31/08/2024,Decoración,181.75
+847,Elementos de cerámica,$69.36,1,31/08/2024,Decoración,69.36
+922,Cuadro decorativo,$45.81,7,31/08/2024,Decoración,320.67
+1026,Secadora,$121.19,10,31/08/2024,Electrodomésticos,1211.90
+1282,Microondas,$39.87,10,31/08/2024,Electrodomésticos,398.70
+1523,Microondas,$91.78,10,31/08/2024,Electrodomésticos,917.80
+2361,Parlantes Bluetooth,$112.56,8,31/08/2024,Electrónica,900.48
+2642,Televisor,$98.01,5,31/08/2024,Electrónica,490.05
+280,Adorno de pared,$29.81,9,01/09/2024,Decoración,268.29
+487,Elementos de cerámica,$30.94,5,01/09/2024,Decoración,154.70
+732,Cuadro decorativo,$84.51,9,01/09/2024,Decoración,760.59
+921,Lámpara de mesa,$82.78,4,01/09/2024,Decoración,331.12
+1218,Cafetera,$38.45,9,01/09/2024,Electrodomésticos,346.05
+1684,Aspiradora,$58.65,2,01/09/2024,Electrodomésticos,117.30
+2015,Auriculares,$87.91,5,01/09/2024,Electrónica,439.55
+2313,Smartphone,$103.95,1,01/09/2024,Electrónica,103.95
+2464,Tablet,$69.17,9,01/09/2024,Electrónica,622.53
+78,Rincón de plantas,$92.57,5,02/09/2024,Decoración,462.85
+2534,Tablet,$38.12,5,02/09/2024,Electrónica,190.60
+2599,Proyector,$78.72,6,02/09/2024,Electrónica,472.32
+2630,Consola de videojuegos,$79.88,1,02/09/2024,Electrónica,79.88
+2654,Tablet,$47.46,12,02/09/2024,Electrónica,569.52
+2751,Parlantes Bluetooth,$70.38,8,02/09/2024,Electrónica,563.04
+2779,Proyector,$121.82,8,02/09/2024,Electrónica,974.56
+447,Elementos de cerámica,$88.98,1,03/09/2024,Decoración,88.98
+644,Jarrón decorativo,$72.73,2,03/09/2024,Decoración,145.46
+2049,Proyector,$80.40,7,03/09/2024,Electrónica,562.80
+2195,Auriculares,$122.51,11,03/09/2024,Electrónica,1347.61
+2796,Laptop,$58.48,6,03/09/2024,Electrónica,350.88
+2969,Proyector,$26.99,2,03/09/2024,Electrónica,53.98
+2760,Consola de videojuegos,$78.13,7,04/09/2024,Electrónica,546.91
+664,Jarrón decorativo,$100.66,6,05/09/2024,Decoración,603.96
+1149,Batidora,$34.05,8,05/09/2024,Electrodomésticos,272.40
+1207,Horno eléctrico,$39.34,3,05/09/2024,Electrodomésticos,118.02
+1285,Lavadora,$103.55,5,05/09/2024,Electrodomésticos,517.75
+1861,Freidora eléctrica,$110.19,7,05/09/2024,Electrodomésticos,771.33
+2219,Proyector,$65.30,5,05/09/2024,Electrónica,326.50
+2434,Tablet,$28.32,9,05/09/2024,Electrónica,254.88
+2936,Laptop,$124.04,3,05/09/2024,Electrónica,372.12
+176,Cortinas,$56.90,6,06/09/2024,Decoración,341.40
+216,Cortinas,$124.97,6,06/09/2024,Decoración,749.82
+467,Elementos de cerámica,$120.79,12,06/09/2024,Decoración,1449.48
+515,Alfombra,$34.54,10,06/09/2024,Decoración,345.40
+665,Alfombra,$60.18,7,06/09/2024,Decoración,421.26
+1255,Lavadora,$27.12,7,06/09/2024,Electrodomésticos,189.84
+1760,Plancha de vapor,$60.45,6,06/09/2024,Electrodomésticos,362.70
+1895,Lavadora,$30.30,9,06/09/2024,Electrodomésticos,272.70
+2405,Auriculares,$109.22,8,06/09/2024,Electrónica,873.76
+2453,Smartphone,$116.35,6,06/09/2024,Electrónica,698.10
+2616,Laptop,$79.05,4,06/09/2024,Electrónica,316.20
+2644,Tablet,$80.89,8,06/09/2024,Electrónica,647.12
+2702,Televisor,$32.05,6,06/09/2024,Electrónica,192.30
+99,Lámpara de mesa,$51.99,6,07/09/2024,Decoración,311.94
+519,Lámpara de mesa,$70.62,3,07/09/2024,Decoración,211.86
+593,Espejo decorativo,$54.70,6,07/09/2024,Decoración,328.20
+607,Elementos de cerámica,$52.80,4,07/09/2024,Decoración,211.20
+1171,Freidora eléctrica,$47.85,9,07/09/2024,Electrodomésticos,430.65
+1383,Microondas,$91.39,6,07/09/2024,Electrodomésticos,548.34
+2716,Laptop,$28.73,3,07/09/2024,Electrónica,86.19
+1184,Aspiradora,$69.85,3,08/09/2024,Electrodomésticos,209.55
+1399,Batidora,$110.91,8,08/09/2024,Electrodomésticos,887.28
+1440,Plancha de vapor,$118.21,7,08/09/2024,Electrodomésticos,827.47
+1486,Secadora,$90.49,5,08/09/2024,Electrodomésticos,452.45
+2181,Parlantes Bluetooth,$56.03,12,08/09/2024,Electrónica,672.36
+2193,Smartphone,$55.63,3,08/09/2024,Electrónica,166.89
+2205,Auriculares,$70.24,6,08/09/2024,Electrónica,421.44
+2360,Consola de videojuegos,$43.59,7,08/09/2024,Electrónica,305.13
+2723,Smartphone,$119.21,11,08/09/2024,Electrónica,1311.31
+118,Rincón de plantas,$107.62,6,09/09/2024,Decoración,645.72
+399,Lámpara de mesa,$35.92,10,09/09/2024,Decoración,359.20
+402,Cuadro decorativo,$66.46,9,09/09/2024,Decoración,598.14
+958,Rincón de plantas,$118.75,1,09/09/2024,Decoración,118.75
+1053,Microondas,$112.78,10,09/09/2024,Electrodomésticos,1127.80
+1954,Aspiradora,$79.88,3,09/09/2024,Electrodomésticos,239.64
+2066,Laptop,$113.84,2,09/09/2024,Electrónica,227.68
+2384,Tablet,$70.83,6,09/09/2024,Electrónica,424.98
+34,Jarrón decorativo,$124.77,1,10/09/2024,Decoración,124.77
+468,Rincón de plantas,$48.64,11,10/09/2024,Decoración,535.04
+574,Jarrón decorativo,$60.15,3,10/09/2024,Decoración,180.45
+818,Rincón de plantas,$51.02,6,10/09/2024,Decoración,306.12
+1391,Freidora eléctrica,$56.75,2,10/09/2024,Electrodomésticos,113.50
+1490,Plancha de vapor,$57.93,6,10/09/2024,Electrodomésticos,347.58
+1573,Microondas,$121.44,4,10/09/2024,Electrodomésticos,485.76
+41,Lámpara de mesa,$66.37,8,11/09/2024,Decoración,530.96
+572,Cuadro decorativo,$35.88,5,11/09/2024,Decoración,179.40
+814,Jarrón decorativo,$67.08,12,11/09/2024,Decoración,804.96
+1404,Aspiradora,$76.10,11,11/09/2024,Electrodomésticos,837.10
+1643,Microondas,$32.40,12,11/09/2024,Electrodomésticos,388.80
+2327,Cámara digital,$100.20,12,11/09/2024,Electrónica,1202.40
+2346,Laptop,$104.85,3,11/09/2024,Electrónica,314.55
+377,Elementos de cerámica,$73.34,9,12/09/2024,Decoración,660.06
+724,Jarrón decorativo,$76.28,11,12/09/2024,Decoración,839.08
+856,Cortinas,$86.85,2,12/09/2024,Decoración,173.70
+935,Alfombra,$97.17,5,12/09/2024,Decoración,485.85
+1166,Secadora,$26.96,2,12/09/2024,Electrodomésticos,53.92
+1270,Plancha de vapor,$74.28,1,12/09/2024,Electrodomésticos,74.28
+1432,Microondas,$78.03,8,12/09/2024,Electrodomésticos,624.24
+2279,Proyector,$85.53,10,12/09/2024,Electrónica,855.30
+2471,Parlantes Bluetooth,$108.48,1,12/09/2024,Electrónica,108.48
+2497,Cámara digital,$49.95,5,12/09/2024,Electrónica,249.75
+2720,Consola de videojuegos,$73.08,7,12/09/2024,Electrónica,511.56
+2828,SmartWatch,$35.18,12,12/09/2024,Electrónica,422.16
+357,Elementos de cerámica,$45.05,7,13/09/2024,Decoración,315.35
+682,Cuadro decorativo,$111.41,11,13/09/2024,Decoración,1225.51
+943,Espejo decorativo,$59.88,4,13/09/2024,Decoración,239.52
+1412,Microondas,$124.18,9,13/09/2024,Electrodomésticos,1117.62
+1551,Freidora eléctrica,$49.40,9,13/09/2024,Electrodomésticos,444.60
+1706,Secadora,$66.86,5,13/09/2024,Electrodomésticos,334.30
+1851,Freidora eléctrica,$26.03,5,13/09/2024,Electrodomésticos,130.15
+2795,Auriculares,$71.49,5,13/09/2024,Electrónica,357.45
+2805,Auriculares,$32.81,7,13/09/2024,Electrónica,229.67
+2902,Televisor,$118.89,2,13/09/2024,Electrónica,237.78
+81,Lámpara de mesa,$47.34,9,14/09/2024,Decoración,426.06
+192,Cuadro decorativo,$86.21,5,14/09/2024,Decoración,431.05
+456,Cortinas,$70.41,10,14/09/2024,Decoración,704.10
+877,Elementos de cerámica,$40.82,12,14/09/2024,Decoración,489.84
+1539,Batidora,$77.73,4,14/09/2024,Electrodomésticos,310.92
+1673,Microondas,$118.55,12,14/09/2024,Electrodomésticos,1422.60
+1689,Batidora,$96.25,7,14/09/2024,Electrodomésticos,673.75
+1838,Cafetera,$53.01,9,14/09/2024,Electrodomésticos,477.09
+1986,Secadora,$34.34,6,14/09/2024,Electrodomésticos,206.04
+2296,Laptop,$78.10,9,14/09/2024,Electrónica,702.90
+2521,Parlantes Bluetooth,$88.72,2,14/09/2024,Electrónica,177.44
+2755,Auriculares,$118.00,8,14/09/2024,Electrónica,944.00
+2986,Laptop,$75.78,8,14/09/2024,Electrónica,606.24
+247,Elementos de cerámica,$53.23,5,15/09/2024,Decoración,266.15
+927,Elementos de cerámica,$53.69,12,15/09/2024,Decoración,644.28
+1593,Microondas,$46.10,3,15/09/2024,Electrodomésticos,138.30
+2505,Auriculares,$71.47,7,15/09/2024,Electrónica,500.29
+2557,Cámara digital,$107.02,5,15/09/2024,Electrónica,535.10
+7,Elementos de cerámica,$123.38,1,16/09/2024,Decoración,123.38
+713,Espejo decorativo,$104.89,5,16/09/2024,Decoración,524.45
+1266,Secadora,$77.49,9,16/09/2024,Electrodomésticos,697.41
+1426,Secadora,$104.23,4,16/09/2024,Electrodomésticos,416.92
+1587,Horno eléctrico,$52.21,2,16/09/2024,Electrodomésticos,104.42
+1783,Microondas,$51.23,3,16/09/2024,Electrodomésticos,153.69
+2278,SmartWatch,$50.20,5,16/09/2024,Electrónica,251.00
+2366,Laptop,$91.93,4,16/09/2024,Electrónica,367.72
+2526,Laptop,$64.72,7,16/09/2024,Electrónica,453.04
+2848,SmartWatch,$33.56,5,16/09/2024,Electrónica,167.80
+2939,Proyector,$83.38,9,16/09/2024,Electrónica,750.42
+254,Jarrón decorativo,$80.33,9,17/09/2024,Decoración,722.97
+1038,Cafetera,$117.28,10,17/09/2024,Electrodomésticos,1172.80
+1044,Aspiradora,$47.53,1,17/09/2024,Electrodomésticos,47.53
+1191,Freidora eléctrica,$69.80,6,17/09/2024,Electrodomésticos,418.80
+1363,Microondas,$104.90,6,17/09/2024,Electrodomésticos,629.40
+2148,SmartWatch,$84.06,9,17/09/2024,Electrónica,756.54
+2234,Tablet,$83.61,5,17/09/2024,Electrónica,418.05
+2236,Laptop,$34.56,1,17/09/2024,Electrónica,34.56
+2485,Auriculares,$95.27,8,17/09/2024,Electrónica,762.16
+2711,Parlantes Bluetooth,$75.11,9,17/09/2024,Electrónica,675.99
+1232,Microondas,$65.14,6,18/09/2024,Electrodomésticos,390.84
+242,Cuadro decorativo,$30.31,11,19/09/2024,Decoración,333.41
+512,Cuadro decorativo,$66.98,7,19/09/2024,Decoración,468.86
+900,Adorno de pared,$78.06,9,19/09/2024,Decoración,702.54
+1129,Batidora,$71.39,3,19/09/2024,Electrodomésticos,214.17
+1389,Batidora,$71.36,9,19/09/2024,Electrodomésticos,642.24
+1585,Lavadora,$64.23,8,19/09/2024,Electrodomésticos,513.84
+1699,Batidora,$48.45,5,19/09/2024,Electrodomésticos,242.25
+2152,Televisor,$84.19,3,19/09/2024,Electrónica,252.57
+2330,Consola de videojuegos,$122.43,4,19/09/2024,Electrónica,489.72
+2606,Laptop,$87.31,2,19/09/2024,Electrónica,174.62
+2753,Smartphone,$60.87,12,19/09/2024,Electrónica,730.44
+1258,Cafetera,$77.56,6,20/09/2024,Electrodomésticos,465.36
+441,Lámpara de mesa,$120.13,11,21/09/2024,Decoración,1321.43
+1538,Cafetera,$120.80,7,21/09/2024,Electrodomésticos,845.60
+1763,Microondas,$67.94,12,21/09/2024,Electrodomésticos,815.28
+1945,Lavadora,$62.12,10,21/09/2024,Electrodomésticos,621.20
+2430,Consola de videojuegos,$62.77,7,21/09/2024,Electrónica,439.39
+3,Espejo decorativo,$51.32,1,22/09/2024,Decoración,51.32
+250,Adorno de pared,$104.58,7,22/09/2024,Decoración,732.06
+573,Espejo decorativo,$115.17,4,22/09/2024,Decoración,460.68
+1681,Freidora eléctrica,$82.95,4,22/09/2024,Electrodomésticos,331.80
+1949,Batidora,$33.51,5,22/09/2024,Electrodomésticos,167.55
+68,Rincón de plantas,$109.60,4,23/09/2024,Decoración,438.40
+194,Jarrón decorativo,$31.14,11,23/09/2024,Decoración,342.54
+461,Lámpara de mesa,$121.83,3,23/09/2024,Decoración,365.49
+717,Elementos de cerámica,$35.39,11,23/09/2024,Decoración,389.29
+932,Cuadro decorativo,$78.45,4,23/09/2024,Decoración,313.80
+1782,Heladera,$99.66,12,23/09/2024,Electrodomésticos,1195.92
+2331,Parlantes Bluetooth,$26.24,6,23/09/2024,Electrónica,157.44
+2632,Televisor,$40.39,2,23/09/2024,Electrónica,80.78
+478,Rincón de plantas,$44.03,10,24/09/2024,Decoración,440.30
+531,Lámpara de mesa,$66.98,4,24/09/2024,Decoración,267.92
+580,Adorno de pared,$41.81,12,24/09/2024,Decoración,501.72
+960,Adorno de pared,$56.56,8,24/09/2024,Decoración,452.48
+1298,Cafetera,$60.68,6,24/09/2024,Electrodomésticos,364.08
+1461,Freidora eléctrica,$108.58,12,24/09/2024,Electrodomésticos,1302.96
+2446,Laptop,$114.74,2,24/09/2024,Electrónica,229.48
+93,Espejo decorativo,$44.57,9,25/09/2024,Decoración,401.13
+437,Elementos de cerámica,$35.83,9,25/09/2024,Decoración,322.47
+750,Adorno de pared,$108.77,2,25/09/2024,Decoración,217.54
+956,Cortinas,$37.35,2,25/09/2024,Decoración,74.70
+1359,Batidora,$121.44,11,25/09/2024,Electrodomésticos,1335.84
+1482,Heladera,$86.99,12,25/09/2024,Electrodomésticos,1043.88
+2202,Televisor,$31.84,7,25/09/2024,Electrónica,222.88
+2248,SmartWatch,$88.46,8,25/09/2024,Electrónica,707.68
+2317,Cámara digital,$56.34,7,25/09/2024,Electrónica,394.38
+2500,Consola de videojuegos,$53.64,8,25/09/2024,Electrónica,429.12
+103,Espejo decorativo,$43.78,11,26/09/2024,Decoración,481.58
+666,Cortinas,$29.89,4,26/09/2024,Decoración,119.56
+698,Rincón de plantas,$93.59,10,26/09/2024,Decoración,935.90
+1228,Cafetera,$115.89,4,26/09/2024,Electrodomésticos,463.56
+2400,Consola de videojuegos,$84.09,12,26/09/2024,Electrónica,1009.08
+2793,Smartphone,$91.37,8,26/09/2024,Electrónica,730.96
+2994,Auriculares,$94.36,9,26/09/2024,Electrónica,849.24
+379,Lámpara de mesa,$49.43,7,27/09/2024,Decoración,346.01
+409,Lámpara de mesa,$53.65,5,27/09/2024,Decoración,268.25
+445,Alfombra,$70.36,12,27/09/2024,Decoración,844.32
+842,Cuadro decorativo,$71.40,2,27/09/2024,Decoración,142.80
+1674,Aspiradora,$40.59,8,27/09/2024,Electrodomésticos,324.72
+2000,Plancha de vapor,$105.50,3,27/09/2024,Electrodomésticos,316.50
+2190,Consola de videojuegos,$48.86,3,27/09/2024,Electrónica,146.58
+2686,Laptop,$64.56,11,27/09/2024,Electrónica,710.16
+304,Jarrón decorativo,$67.72,4,28/09/2024,Decoración,270.88
+562,Cuadro decorativo,$29.72,3,28/09/2024,Decoración,89.16
+1247,Horno eléctrico,$55.00,4,28/09/2024,Electrodomésticos,220.00
+2117,Cámara digital,$73.65,11,28/09/2024,Electrónica,810.15
+2341,Parlantes Bluetooth,$81.98,2,28/09/2024,Electrónica,163.96
+2820,Consola de videojuegos,$32.49,6,28/09/2024,Electrónica,194.94
+26,Cortinas,$38.87,11,29/09/2024,Decoración,427.57
+614,Jarrón decorativo,$107.04,7,29/09/2024,Decoración,749.28
+1268,Cafetera,$94.35,12,29/09/2024,Electrodomésticos,1132.20
+1408,Cafetera,$56.98,11,29/09/2024,Electrodomésticos,626.78
+1522,Heladera,$90.32,12,29/09/2024,Electrodomésticos,1083.84
+1528,Cafetera,$99.75,12,29/09/2024,Electrodomésticos,1197.00
+1679,Batidora,$49.23,12,29/09/2024,Electrodomésticos,590.76
+1704,Aspiradora,$111.82,9,29/09/2024,Electrodomésticos,1006.38
+2168,SmartWatch,$89.68,8,29/09/2024,Electrónica,717.44
+2450,Consola de videojuegos,$87.91,4,29/09/2024,Electrónica,351.64
+2467,Cámara digital,$70.53,7,29/09/2024,Electrónica,493.71
+2600,Consola de videojuegos,$94.57,3,29/09/2024,Electrónica,283.71
+2864,Tablet,$105.06,6,29/09/2024,Electrónica,630.36
+2925,Auriculares,$26.21,4,29/09/2024,Electrónica,104.84
+232,Cuadro decorativo,$118.49,6,30/09/2024,Decoración,710.94
+385,Alfombra,$86.29,3,30/09/2024,Decoración,258.87
+415,Alfombra,$63.40,5,30/09/2024,Decoración,317.00
+500,Adorno de pared,$110.88,4,30/09/2024,Decoración,443.52
+565,Alfombra,$55.34,2,30/09/2024,Decoración,110.68
+683,Espejo decorativo,$123.55,5,30/09/2024,Decoración,617.75
+705,Alfombra,$49.89,3,30/09/2024,Decoración,149.67
+899,Candelabro,$51.01,6,30/09/2024,Decoración,306.06
+996,Cortinas,$33.07,3,30/09/2024,Decoración,99.21
+1187,Horno eléctrico,$99.57,8,30/09/2024,Electrodomésticos,796.56
+1411,Freidora eléctrica,$102.20,5,30/09/2024,Electrodomésticos,511.00
+1511,Freidora eléctrica,$116.49,2,30/09/2024,Electrodomésticos,232.98
+1644,Aspiradora,$123.36,11,30/09/2024,Electrodomésticos,1356.96
+2031,Parlantes Bluetooth,$31.44,4,30/09/2024,Electrónica,125.76
+2141,Parlantes Bluetooth,$116.34,12,30/09/2024,Electrónica,1396.08
+521,Lámpara de mesa,$48.44,6,01/10/2024,Decoración,290.64
+590,Adorno de pared,$30.18,8,01/10/2024,Decoración,241.44
+892,Cuadro decorativo,$61.57,3,01/10/2024,Decoración,184.71
+968,Rincón de plantas,$60.20,3,01/10/2024,Decoración,180.60
+1062,Heladera,$121.59,4,01/10/2024,Electrodomésticos,486.36
+1423,Microondas,$108.25,12,01/10/2024,Electrodomésticos,1299.00
+2271,Parlantes Bluetooth,$61.01,1,01/10/2024,Electrónica,61.01
+2295,Auriculares,$56.21,2,01/10/2024,Electrónica,112.42
+1345,Lavadora,$51.32,4,02/10/2024,Electrodomésticos,205.28
+2012,Televisor,$48.02,7,02/10/2024,Electrónica,336.14
+2226,Laptop,$99.45,5,02/10/2024,Electrónica,497.25
+2442,Televisor,$71.48,4,02/10/2024,Electrónica,285.92
+2576,Laptop,$123.53,10,02/10/2024,Electrónica,1235.30
+2656,Laptop,$31.99,9,02/10/2024,Electrónica,287.91
+2915,Auriculares,$33.81,11,02/10/2024,Electrónica,371.91
+38,Rincón de plantas,$26.44,4,03/10/2024,Decoración,105.76
+681,Lámpara de mesa,$113.04,1,03/10/2024,Decoración,113.04
+1815,Lavadora,$65.29,5,03/10/2024,Electrodomésticos,326.45
+2703,Smartphone,$123.40,12,03/10/2024,Electrónica,1480.80
+2725,Auriculares,$107.61,1,03/10/2024,Electrónica,107.61
+786,Cortinas,$27.17,8,04/10/2024,Decoración,217.36
+1358,Cafetera,$95.67,12,04/10/2024,Electrodomésticos,1148.04
+1709,Batidora,$89.72,10,04/10/2024,Electrodomésticos,897.20
+1857,Horno eléctrico,$74.80,5,04/10/2024,Electrodomésticos,374.00
+2406,Laptop,$121.00,10,04/10/2024,Electrónica,1210.00
+2538,SmartWatch,$29.14,12,04/10/2024,Electrónica,349.68
+753,Espejo decorativo,$119.86,4,05/10/2024,Decoración,479.44
+898,Rincón de plantas,$67.87,11,05/10/2024,Decoración,746.57
+924,Jarrón decorativo,$64.39,11,05/10/2024,Decoración,708.29
+1650,Plancha de vapor,$117.52,2,05/10/2024,Electrodomésticos,235.04
+1779,Batidora,$122.12,4,05/10/2024,Electrodomésticos,488.48
+1796,Secadora,$63.51,11,05/10/2024,Electrodomésticos,698.61
+2841,Parlantes Bluetooth,$48.99,10,05/10/2024,Electrónica,489.90
+1280,Plancha de vapor,$31.01,7,06/10/2024,Electrodomésticos,217.07
+1595,Lavadora,$80.48,4,06/10/2024,Electrodomésticos,321.92
+1711,Freidora eléctrica,$34.28,2,06/10/2024,Electrodomésticos,68.56
+2417,Cámara digital,$109.02,2,06/10/2024,Electrónica,218.04
+2443,Smartphone,$111.34,5,06/10/2024,Electrónica,556.70
+158,Rincón de plantas,$117.14,8,07/10/2024,Decoración,937.12
+223,Espejo decorativo,$70.04,3,07/10/2024,Decoración,210.12
+474,Jarrón decorativo,$38.87,10,07/10/2024,Decoración,388.70
+1032,Heladera,$31.35,11,07/10/2024,Electrodomésticos,344.85
+1141,Freidora eléctrica,$71.45,12,07/10/2024,Electrodomésticos,857.40
+1738,Cafetera,$40.25,3,07/10/2024,Electrodomésticos,120.75
+2188,SmartWatch,$41.24,4,07/10/2024,Electrónica,164.96
+2433,Smartphone,$117.66,5,07/10/2024,Electrónica,588.30
+2515,Auriculares,$99.53,1,07/10/2024,Electrónica,99.53
+2608,SmartWatch,$60.98,5,07/10/2024,Electrónica,304.90
+2831,Parlantes Bluetooth,$86.32,10,07/10/2024,Electrónica,863.20
+6,Cortinas,$58.87,11,08/10/2024,Decoración,647.57
+670,Adorno de pared,$55.21,7,08/10/2024,Decoración,386.47
+816,Cortinas,$74.32,11,08/10/2024,Decoración,817.52
+991,Lámpara de mesa,$79.63,12,08/10/2024,Decoración,955.56
+1204,Aspiradora,$87.88,2,08/10/2024,Electrodomésticos,175.76
+2533,Smartphone,$64.37,1,08/10/2024,Electrónica,64.37
+2598,SmartWatch,$113.97,7,08/10/2024,Electrónica,797.79
+2724,Tablet,$42.93,5,08/10/2024,Electrónica,214.65
+2738,SmartWatch,$65.16,3,08/10/2024,Electrónica,195.48
+134,Jarrón decorativo,$103.16,11,09/10/2024,Decoración,1134.76
+2353,Smartphone,$33.52,8,09/10/2024,Electrónica,268.16
+2376,Laptop,$106.01,5,09/10/2024,Electrónica,530.05
+60,Adorno de pared,$32.58,9,10/10/2024,Decoración,293.22
+117,Elementos de cerámica,$29.63,4,10/10/2024,Decoración,118.52
+364,Jarrón decorativo,$73.49,12,10/10/2024,Decoración,881.88
+498,Rincón de plantas,$42.62,4,10/10/2024,Decoración,170.48
+668,Rincón de plantas,$61.18,8,10/10/2024,Decoración,489.44
+1133,Microondas,$121.17,3,10/10/2024,Electrodomésticos,363.51
+1221,Freidora eléctrica,$112.79,11,10/10/2024,Electrodomésticos,1240.69
+1233,Microondas,$110.22,12,10/10/2024,Electrodomésticos,1322.64
+1239,Batidora,$94.29,2,10/10/2024,Electrodomésticos,188.58
+1724,Aspiradora,$95.89,1,10/10/2024,Electrodomésticos,95.89
+2389,Proyector,$73.93,5,10/10/2024,Electrónica,369.65
+2671,Parlantes Bluetooth,$30.22,6,10/10/2024,Electrónica,181.32
+2692,Televisor,$52.35,2,10/10/2024,Electrónica,104.70
+2998,Proyector,$115.84,10,10/10/2024,Electrónica,1158.40
+382,Cuadro decorativo,$115.19,3,11/10/2024,Decoración,345.57
+438,Rincón de plantas,$104.88,10,11/10/2024,Decoración,1048.80
+584,Jarrón decorativo,$77.31,8,11/10/2024,Decoración,618.48
+778,Rincón de plantas,$32.69,5,11/10/2024,Decoración,163.45
+867,Elementos de cerámica,$65.85,5,11/10/2024,Decoración,329.25
+1113,Microondas,$79.45,3,11/10/2024,Electrodomésticos,238.35
+1567,Horno eléctrico,$101.95,4,11/10/2024,Electrodomésticos,407.80
+1610,Plancha de vapor,$91.96,1,11/10/2024,Electrodomésticos,91.96
+2258,SmartWatch,$68.66,5,11/10/2024,Electrónica,343.30
+2732,Televisor,$73.89,5,11/10/2024,Electrónica,369.45
+97,Elementos de cerámica,$116.32,9,12/10/2024,Decoración,1046.88
+317,Elementos de cerámica,$94.69,11,12/10/2024,Decoración,1041.59
+472,Cuadro decorativo,$78.90,2,12/10/2024,Decoración,157.80
+725,Alfombra,$111.36,11,12/10/2024,Decoración,1224.96
+1890,Plancha de vapor,$102.24,9,12/10/2024,Electrodomésticos,920.16
+2137,Cámara digital,$108.68,1,12/10/2024,Electrónica,108.68
+2242,Televisor,$72.27,7,12/10/2024,Electrónica,505.89
+2352,Televisor,$82.27,2,12/10/2024,Electrónica,164.54
+2359,Proyector,$52.24,10,12/10/2024,Electrónica,522.40
+2470,Consola de videojuegos,$111.81,9,12/10/2024,Electrónica,1006.29
+2821,Parlantes Bluetooth,$117.62,9,12/10/2024,Electrónica,1058.58
+646,Cortinas,$44.98,6,13/10/2024,Decoración,269.88
+1034,Aspiradora,$44.82,2,13/10/2024,Electrodomésticos,89.64
+2075,Auriculares,$75.39,7,13/10/2024,Electrónica,527.73
+2710,Consola de videojuegos,$41.81,7,13/10/2024,Electrónica,292.67
+182,Cuadro decorativo,$78.36,11,14/10/2024,Decoración,861.96
+1178,Cafetera,$61.69,8,14/10/2024,Electrodomésticos,493.52
+1687,Horno eléctrico,$117.85,5,14/10/2024,Electrodomésticos,589.25
+1850,Plancha de vapor,$28.60,5,14/10/2024,Electrodomésticos,143.00
+2291,Parlantes Bluetooth,$111.95,5,14/10/2024,Electrónica,559.75
+520,Adorno de pared,$85.98,5,15/10/2024,Decoración,429.90
+564,Jarrón decorativo,$51.28,7,15/10/2024,Decoración,358.96
+990,Adorno de pared,$76.72,3,15/10/2024,Decoración,230.16
+999,Candelabro,$47.09,5,15/10/2024,Decoración,235.45
+1308,Cafetera,$96.89,7,15/10/2024,Electrodomésticos,678.23
+2667,Cámara digital,$26.32,4,15/10/2024,Electrónica,105.28
+2960,Consola de videojuegos,$87.02,11,15/10/2024,Electrónica,957.22
+1321,Freidora eléctrica,$28.16,4,16/10/2024,Electrodomésticos,112.64
+1637,Horno eléctrico,$93.24,11,16/10/2024,Electrodomésticos,1025.64
+2427,Cámara digital,$96.56,1,16/10/2024,Electrónica,96.56
+2448,SmartWatch,$109.91,12,16/10/2024,Electrónica,1318.92
+266,Cortinas,$91.78,5,17/10/2024,Decoración,458.90
+278,Rincón de plantas,$122.76,10,17/10/2024,Decoración,1227.60
+329,Candelabro,$72.50,11,17/10/2024,Decoración,797.50
+355,Alfombra,$124.48,4,17/10/2024,Decoración,497.92
+440,Adorno de pared,$113.49,2,17/10/2024,Decoración,226.98
+1326,Secadora,$109.40,7,18/10/2024,Electrodomésticos,765.80
+1512,Heladera,$37.72,10,18/10/2024,Electrodomésticos,377.20
+1534,Aspiradora,$96.98,8,18/10/2024,Electrodomésticos,775.84
+2614,Auriculares,$47.88,4,18/10/2024,Electrónica,191.52
+9,Candelabro,$51.38,5,19/10/2024,Decoración,256.90
+1574,Aspiradora,$92.59,10,19/10/2024,Electrodomésticos,925.90
+1615,Lavadora,$114.40,1,19/10/2024,Electrodomésticos,114.40
+1713,Microondas,$65.46,5,19/10/2024,Electrodomésticos,327.30
+1859,Batidora,$81.35,8,19/10/2024,Electrodomésticos,650.80
+2886,Laptop,$49.03,12,19/10/2024,Electrónica,588.36
+33,Espejo decorativo,$113.71,7,20/10/2024,Decoración,795.97
+72,Cuadro decorativo,$111.56,1,20/10/2024,Decoración,111.56
+2923,Smartphone,$33.63,5,20/10/2024,Electrónica,168.15
+2933,Smartphone,$74.88,5,20/10/2024,Electrónica,374.40
+591,Lámpara de mesa,$74.62,1,21/10/2024,Decoración,74.62
+620,Adorno de pared,$92.16,4,21/10/2024,Decoración,368.64
+680,Adorno de pared,$76.66,3,21/10/2024,Decoración,229.98
+864,Jarrón decorativo,$55.89,2,21/10/2024,Decoración,111.78
+1215,Lavadora,$91.79,10,21/10/2024,Electrodomésticos,917.90
+1385,Lavadora,$111.51,3,21/10/2024,Electrodomésticos,334.53
+18,Rincón de plantas,$37.09,3,22/10/2024,Decoración,111.27
+776,Cortinas,$56.80,1,22/10/2024,Decoración,56.80
+942,Cuadro decorativo,$99.04,8,22/10/2024,Decoración,792.32
+1766,Secadora,$65.13,9,22/10/2024,Electrodomésticos,586.17
+1891,Freidora eléctrica,$112.96,6,22/10/2024,Electrodomésticos,677.76
+2043,Smartphone,$30.55,4,22/10/2024,Electrónica,122.20
+2128,SmartWatch,$123.02,6,22/10/2024,Electrónica,738.12
+2472,Televisor,$67.41,1,22/10/2024,Electrónica,67.41
+2940,Consola de videojuegos,$34.04,6,22/10/2024,Electrónica,204.24
+596,Cortinas,$75.96,7,23/10/2024,Decoración,531.72
+1206,Secadora,$44.22,1,23/10/2024,Electrodomésticos,44.22
+1214,Aspiradora,$121.66,3,23/10/2024,Electrodomésticos,364.98
+2051,Parlantes Bluetooth,$49.40,9,23/10/2024,Electrónica,444.60
+2071,Parlantes Bluetooth,$87.97,12,23/10/2024,Electrónica,1055.64
+2094,Auriculares,$118.97,5,23/10/2024,Electrónica,594.85
+2562,Televisor,$78.28,9,23/10/2024,Electrónica,704.52
+2914,Auriculares,$26.34,5,23/10/2024,Electrónica,131.70
+2965,Auriculares,$70.70,11,23/10/2024,Electrónica,777.70
+1716,Secadora,$62.92,10,24/10/2024,Electrodomésticos,629.20
+1925,Lavadora,$91.29,4,24/10/2024,Electrodomésticos,365.16
+2183,Smartphone,$110.92,7,24/10/2024,Electrónica,776.44
+2783,Smartphone,$95.67,8,24/10/2024,Electrónica,765.36
+1014,Aspiradora,$106.17,12,25/10/2024,Electrodomésticos,1274.04
+1357,Horno eléctrico,$76.90,11,25/10/2024,Electrodomésticos,845.90
+1388,Cafetera,$88.66,1,25/10/2024,Electrodomésticos,88.66
+2103,Smartphone,$44.04,10,25/10/2024,Electrónica,440.40
+2132,Televisor,$117.96,7,25/10/2024,Electrónica,825.72
+2311,Parlantes Bluetooth,$79.72,6,25/10/2024,Electrónica,478.32
+2607,Cámara digital,$54.75,10,25/10/2024,Electrónica,547.50
+2781,Parlantes Bluetooth,$69.00,12,25/10/2024,Electrónica,828.00
+114,Jarrón decorativo,$104.03,6,26/10/2024,Decoración,624.18
+690,Adorno de pared,$103.95,8,26/10/2024,Decoración,831.60
+853,Espejo decorativo,$87.21,7,26/10/2024,Decoración,610.47
+1354,Aspiradora,$55.17,4,26/10/2024,Electrodomésticos,220.68
+1449,Batidora,$73.18,12,26/10/2024,Electrodomésticos,878.16
+1577,Horno eléctrico,$63.35,1,26/10/2024,Electrodomésticos,63.35
+1676,Secadora,$88.46,9,26/10/2024,Electrodomésticos,796.14
+1733,Microondas,$33.38,11,26/10/2024,Electrodomésticos,367.18
+1987,Horno eléctrico,$113.12,6,26/10/2024,Electrodomésticos,678.72
+2198,SmartWatch,$78.65,7,26/10/2024,Electrónica,550.55
+2285,Auriculares,$57.38,1,26/10/2024,Electrónica,57.38
+2878,SmartWatch,$122.44,5,26/10/2024,Electrónica,612.20
+25,Alfombra,$38.69,1,27/10/2024,Decoración,38.69
+674,Jarrón decorativo,$108.63,9,27/10/2024,Decoración,977.67
+755,Alfombra,$27.68,3,27/10/2024,Decoración,83.04
+835,Alfombra,$85.65,6,27/10/2024,Decoración,513.90
+1005,Lavadora,$44.34,3,27/10/2024,Electrodomésticos,133.02
+1033,Microondas,$113.60,3,27/10/2024,Electrodomésticos,340.80
+1092,Heladera,$99.93,6,27/10/2024,Electrodomésticos,599.58
+1094,Aspiradora,$115.50,8,27/10/2024,Electrodomésticos,924.00
+1349,Batidora,$100.89,5,27/10/2024,Electrodomésticos,504.45
+1519,Batidora,$101.17,11,27/10/2024,Electrodomésticos,1112.87
+1601,Freidora eléctrica,$32.54,11,27/10/2024,Electrodomésticos,357.94
+2808,SmartWatch,$54.79,9,27/10/2024,Electrónica,493.11
+343,Espejo decorativo,$50.49,4,28/10/2024,Decoración,201.96
+499,Candelabro,$108.91,2,28/10/2024,Decoración,217.82
+857,Elementos de cerámica,$91.06,8,28/10/2024,Decoración,728.48
+1144,Aspiradora,$98.46,7,28/10/2024,Electrodomésticos,689.22
+1487,Horno eléctrico,$102.75,9,28/10/2024,Electrodomésticos,924.75
+1659,Batidora,$101.49,6,28/10/2024,Electrodomésticos,608.94
+1911,Freidora eléctrica,$46.16,1,28/10/2024,Electrodomésticos,46.16
+2217,Cámara digital,$49.71,11,28/10/2024,Electrónica,546.81
+657,Elementos de cerámica,$69.67,3,29/10/2024,Decoración,209.01
+1556,Secadora,$117.97,3,29/10/2024,Electrodomésticos,353.91
+1930,Plancha de vapor,$64.20,5,29/10/2024,Electrodomésticos,321.00
+2033,Smartphone,$29.94,11,29/10/2024,Electrónica,329.34
+2107,Cámara digital,$64.14,3,29/10/2024,Electrónica,192.42
+2529,Proyector,$92.21,4,29/10/2024,Electrónica,368.84
+2553,Smartphone,$78.89,3,29/10/2024,Electrónica,236.67
+2660,Consola de videojuegos,$124.46,4,29/10/2024,Electrónica,497.84
+2774,Auriculares,$37.77,7,29/10/2024,Electrónica,264.39
+190,Adorno de pared,$36.08,10,30/10/2024,Decoración,360.80
+1395,Lavadora,$39.64,12,30/10/2024,Electrodomésticos,475.68
+1403,Microondas,$91.18,1,30/10/2024,Electrodomésticos,91.18
+1872,Heladera,$60.32,2,30/10/2024,Electrodomésticos,120.64
+2081,Parlantes Bluetooth,$94.89,10,30/10/2024,Electrónica,948.90
+2449,Proyector,$104.25,4,30/10/2024,Electrónica,417.00
+2536,Laptop,$120.96,1,30/10/2024,Electrónica,120.96
+47,Elementos de cerámica,$66.54,11,31/10/2024,Decoración,731.94
+58,Rincón de plantas,$58.70,12,31/10/2024,Decoración,704.40
+346,Cortinas,$52.57,3,31/10/2024,Decoración,157.71
+523,Espejo decorativo,$45.46,12,31/10/2024,Decoración,545.52
+539,Candelabro,$85.86,12,31/10/2024,Decoración,1030.32
+2166,Laptop,$115.57,5,31/10/2024,Electrónica,577.85
+2178,SmartWatch,$104.12,8,31/10/2024,Electrónica,832.96
+2238,SmartWatch,$68.47,6,31/10/2024,Electrónica,410.82
+2483,Smartphone,$93.11,4,31/10/2024,Electrónica,372.44
+2817,Cámara digital,$29.73,9,31/10/2024,Electrónica,267.57
+2890,Consola de videojuegos,$105.99,5,31/10/2024,Electrónica,529.95
+4,Jarrón decorativo,$64.12,12,01/11/2024,Decoración,769.44
+284,Jarrón decorativo,$43.09,7,01/11/2024,Decoración,301.63
+582,Cuadro decorativo,$61.67,10,01/11/2024,Decoración,616.70
+2657,Cámara digital,$30.79,8,01/11/2024,Electrónica,246.32
+2736,Laptop,$113.88,1,01/11/2024,Electrónica,113.88
+5,Alfombra,$70.10,4,02/11/2024,Decoración,280.40
+102,Cuadro decorativo,$119.97,3,02/11/2024,Decoración,359.91
+605,Alfombra,$120.49,6,02/11/2024,Decoración,722.94
+773,Espejo decorativo,$64.35,8,02/11/2024,Decoración,514.80
+808,Rincón de plantas,$67.82,11,02/11/2024,Decoración,746.02
+1293,Microondas,$100.74,11,02/11/2024,Electrodomésticos,1108.14
+1415,Lavadora,$29.44,10,02/11/2024,Electrodomésticos,294.40
+1559,Batidora,$59.48,4,02/11/2024,Electrodomésticos,237.92
+1780,Plancha de vapor,$119.00,1,02/11/2024,Electrodomésticos,119.00
+1049,Batidora,$64.32,8,03/11/2024,Electrodomésticos,514.56
+1420,Plancha de vapor,$100.54,6,03/11/2024,Electrodomésticos,603.24
+610,Adorno de pared,$27.89,8,04/11/2024,Decoración,223.12
+1262,Heladera,$43.72,1,04/11/2024,Electrodomésticos,43.72
+27,Elementos de cerámica,$112.53,11,05/11/2024,Decoración,1237.83
+552,Cuadro decorativo,$88.67,11,05/11/2024,Decoración,975.37
+587,Elementos de cerámica,$33.98,9,05/11/2024,Decoración,305.82
+642,Cuadro decorativo,$73.67,7,05/11/2024,Decoración,515.69
+1071,Freidora eléctrica,$71.74,2,05/11/2024,Electrodomésticos,143.48
+1283,Microondas,$94.63,9,05/11/2024,Electrodomésticos,851.67
+1466,Secadora,$85.31,5,05/11/2024,Electrodomésticos,426.55
+1810,Plancha de vapor,$70.67,11,05/11/2024,Electrodomésticos,777.37
+142,Cuadro decorativo,$114.44,10,06/11/2024,Decoración,1144.40
+464,Jarrón decorativo,$49.06,11,06/11/2024,Decoración,539.66
+597,Elementos de cerámica,$96.57,8,06/11/2024,Decoración,772.56
+634,Jarrón decorativo,$45.62,4,06/11/2024,Decoración,182.48
+719,Lámpara de mesa,$56.43,2,06/11/2024,Decoración,112.86
+758,Rincón de plantas,$29.00,10,06/11/2024,Decoración,290.00
+875,Alfombra,$36.34,5,06/11/2024,Decoración,181.70
+2412,Televisor,$108.45,8,06/11/2024,Electrónica,867.60
+263,Espejo decorativo,$103.07,6,07/11/2024,Decoración,618.42
+273,Espejo decorativo,$49.11,10,07/11/2024,Decoración,491.10
+825,Alfombra,$34.70,1,07/11/2024,Decoración,34.70
+862,Cuadro decorativo,$48.36,8,07/11/2024,Decoración,386.88
+1493,Microondas,$73.63,12,07/11/2024,Electrodomésticos,883.56
+1790,Plancha de vapor,$80.84,5,07/11/2024,Electrodomésticos,404.20
+1875,Lavadora,$58.04,6,07/11/2024,Electrodomésticos,348.24
+2113,Smartphone,$119.26,2,07/11/2024,Electrónica,238.52
+2250,Consola de videojuegos,$78.68,11,07/11/2024,Electrónica,865.48
+2335,Auriculares,$108.76,8,07/11/2024,Electrónica,870.08
+2357,Cámara digital,$49.90,1,07/11/2024,Electrónica,49.90
+2401,Parlantes Bluetooth,$65.49,11,07/11/2024,Electrónica,720.39
+2909,Proyector,$108.21,12,07/11/2024,Electrónica,1298.52
+636,Cortinas,$46.09,1,08/11/2024,Decoración,46.09
+761,Lámpara de mesa,$80.48,10,08/11/2024,Decoración,804.80
+951,Lámpara de mesa,$58.55,9,08/11/2024,Decoración,526.95
+1098,Cafetera,$45.95,7,08/11/2024,Electrodomésticos,321.65
+1348,Cafetera,$111.70,10,08/11/2024,Electrodomésticos,1117.00
+2351,Parlantes Bluetooth,$115.66,3,08/11/2024,Electrónica,346.98
+2411,Parlantes Bluetooth,$61.45,8,08/11/2024,Electrónica,491.60
+481,Lámpara de mesa,$55.87,3,09/11/2024,Decoración,167.61
+576,Cortinas,$122.36,8,09/11/2024,Decoración,978.88
+861,Lámpara de mesa,$66.88,4,09/11/2024,Decoración,267.52
+889,Lámpara de mesa,$95.87,7,09/11/2024,Decoración,671.09
+1527,Horno eléctrico,$36.02,3,09/11/2024,Electrodomésticos,108.06
+2507,Cámara digital,$27.72,8,09/11/2024,Electrónica,221.76
+2589,Proyector,$82.90,8,09/11/2024,Electrónica,663.20
+2850,Consola de videojuegos,$84.81,4,09/11/2024,Electrónica,339.24
+2908,SmartWatch,$78.63,4,09/11/2024,Electrónica,314.52
+327,Elementos de cerámica,$105.59,9,10/11/2024,Decoración,950.31
+1021,Freidora eléctrica,$49.62,6,10/11/2024,Electrodomésticos,297.72
+1200,Plancha de vapor,$83.34,10,10/11/2024,Electrodomésticos,833.40
+1243,Microondas,$64.56,12,10/11/2024,Electrodomésticos,774.72
+1619,Batidora,$96.56,3,10/11/2024,Electrodomésticos,289.68
+2010,Consola de videojuegos,$51.13,2,10/11/2024,Electrónica,102.26
+2087,Cámara digital,$35.44,3,10/11/2024,Electrónica,106.32
+2573,Smartphone,$91.52,7,10/11/2024,Electrónica,640.64
+217,Elementos de cerámica,$47.48,2,11/11/2024,Decoración,94.96
+272,Cuadro decorativo,$93.84,10,11/11/2024,Decoración,938.40
+545,Alfombra,$43.63,1,11/11/2024,Decoración,43.63
+688,Rincón de plantas,$81.27,11,11/11/2024,Decoración,893.97
+1430,Plancha de vapor,$34.93,9,11/11/2024,Electrodomésticos,314.37
+1497,Horno eléctrico,$83.30,10,11/11/2024,Electrodomésticos,833.00
+1509,Batidora,$55.25,10,11/11/2024,Electrodomésticos,552.50
+2060,Consola de videojuegos,$73.40,5,11/11/2024,Electrónica,367.00
+2263,Smartphone,$47.67,6,11/11/2024,Electrónica,286.02
+2558,SmartWatch,$63.94,7,11/11/2024,Electrónica,447.58
+2814,Auriculares,$89.91,9,11/11/2024,Electrónica,809.19
+420,Adorno de pared,$65.00,4,12/11/2024,Decoración,260.00
+514,Jarrón decorativo,$59.63,10,12/11/2024,Decoración,596.30
+544,Jarrón decorativo,$29.63,5,12/11/2024,Decoración,148.15
+880,Adorno de pared,$105.74,10,12/11/2024,Decoración,1057.40
+1908,Cafetera,$55.91,3,12/11/2024,Electrodomésticos,167.73
+655,Alfombra,$124.49,11,13/11/2024,Decoración,1369.39
+1111,Freidora eléctrica,$100.12,12,13/11/2024,Electrodomésticos,1201.44
+2118,SmartWatch,$99.50,5,13/11/2024,Electrónica,497.50
+2208,SmartWatch,$33.12,10,13/11/2024,Electrónica,331.20
+36,Cortinas,$28.63,5,14/11/2024,Decoración,143.15
+316,Cortinas,$90.56,2,14/11/2024,Decoración,181.12
+885,Alfombra,$97.56,1,14/11/2024,Decoración,97.56
+1566,Secadora,$78.40,8,14/11/2024,Electrodomésticos,627.20
+1753,Microondas,$38.63,9,14/11/2024,Electrodomésticos,347.67
+2316,Laptop,$78.67,3,14/11/2024,Electrónica,236.01
+2374,Auriculares,$55.05,12,14/11/2024,Electrónica,660.60
+2958,SmartWatch,$64.59,10,14/11/2024,Electrónica,645.90
+671,Lámpara de mesa,$66.33,7,15/11/2024,Decoración,464.31
+1462,Heladera,$121.56,12,15/11/2024,Electrodomésticos,1458.72
+1463,Microondas,$70.42,10,15/11/2024,Electrodomésticos,704.20
+1517,Horno eléctrico,$41.23,8,15/11/2024,Electrodomésticos,329.84
+1564,Aspiradora,$60.80,1,15/11/2024,Electrodomésticos,60.80
+1621,Freidora eléctrica,$56.74,9,15/11/2024,Electrodomésticos,510.66
+1749,Batidora,$107.07,9,15/11/2024,Electrodomésticos,963.63
+1912,Heladera,$82.42,8,15/11/2024,Electrodomésticos,659.36
+2727,Cámara digital,$114.98,12,15/11/2024,Electrónica,1379.76
+618,Rincón de plantas,$36.15,8,16/11/2024,Decoración,289.20
+944,Jarrón decorativo,$98.76,1,16/11/2024,Decoración,98.76
+1015,Lavadora,$91.96,12,16/11/2024,Electrodomésticos,1103.52
+1671,Freidora eléctrica,$106.34,8,16/11/2024,Electrodomésticos,850.72
+2025,Auriculares,$42.93,2,16/11/2024,Electrónica,85.86
+2602,Televisor,$118.04,4,16/11/2024,Electrónica,472.16
+21,Lámpara de mesa,$41.84,12,17/11/2024,Decoración,502.08
+227,Elementos de cerámica,$32.11,11,17/11/2024,Decoración,353.21
+361,Lámpara de mesa,$120.89,2,17/11/2024,Decoración,241.78
+757,Elementos de cerámica,$36.44,10,17/11/2024,Decoración,364.40
+779,Lámpara de mesa,$72.68,9,17/11/2024,Decoración,654.12
+1137,Horno eléctrico,$51.17,7,17/11/2024,Electrodomésticos,358.19
+1165,Lavadora,$73.58,9,17/11/2024,Electrodomésticos,662.22
+1651,Freidora eléctrica,$78.73,10,17/11/2024,Electrodomésticos,787.30
+2074,Auriculares,$70.55,1,17/11/2024,Electrónica,70.55
+2631,Parlantes Bluetooth,$66.84,11,17/11/2024,Electrónica,735.24
+2881,Parlantes Bluetooth,$39.46,11,17/11/2024,Electrónica,434.06
+70,Adorno de pared,$105.42,12,18/11/2024,Decoración,1265.04
+371,Lámpara de mesa,$110.45,12,18/11/2024,Decoración,1325.40
+389,Lámpara de mesa,$40.06,4,18/11/2024,Decoración,160.24
+431,Lámpara de mesa,$98.30,6,18/11/2024,Decoración,589.80
+883,Espejo decorativo,$32.09,8,18/11/2024,Decoración,256.72
+1142,Heladera,$62.61,3,18/11/2024,Electrodomésticos,187.83
+1314,Aspiradora,$86.12,6,18/11/2024,Electrodomésticos,516.72
+1365,Lavadora,$74.74,1,18/11/2024,Electrodomésticos,74.74
+1605,Lavadora,$57.74,1,18/11/2024,Electrodomésticos,57.74
+1691,Freidora eléctrica,$49.47,12,18/11/2024,Electrodomésticos,593.64
+1818,Cafetera,$116.81,1,18/11/2024,Electrodomésticos,116.81
+1942,Heladera,$85.36,12,18/11/2024,Electrodomésticos,1024.32
+1991,Freidora eléctrica,$64.55,5,18/11/2024,Electrodomésticos,322.75
+2274,Auriculares,$114.43,1,18/11/2024,Electrónica,114.43
+2441,Parlantes Bluetooth,$55.81,4,18/11/2024,Electrónica,223.24
+2638,SmartWatch,$124.00,5,18/11/2024,Electrónica,620.00
+136,Cortinas,$31.50,7,19/11/2024,Decoración,220.50
+589,Lámpara de mesa,$111.78,2,19/11/2024,Decoración,223.56
+801,Lámpara de mesa,$72.15,9,19/11/2024,Decoración,649.35
+1159,Batidora,$111.36,7,19/11/2024,Electrodomésticos,779.52
+1836,Secadora,$68.69,4,19/11/2024,Electrodomésticos,274.76
+1913,Microondas,$75.41,12,19/11/2024,Electrodomésticos,904.92
+2872,Televisor,$105.88,3,19/11/2024,Electrónica,317.64
+119,Lámpara de mesa,$50.60,11,20/11/2024,Decoración,556.60
+152,Cuadro decorativo,$86.46,4,20/11/2024,Decoración,345.84
+592,Cuadro decorativo,$34.61,9,20/11/2024,Decoración,311.49
+676,Cortinas,$40.01,5,20/11/2024,Decoración,200.05
+1079,Batidora,$53.18,2,20/11/2024,Electrodomésticos,106.36
+1302,Heladera,$29.85,2,20/11/2024,Electrodomésticos,59.70
+1498,Cafetera,$61.91,7,20/11/2024,Electrodomésticos,433.37
+1774,Aspiradora,$120.80,3,20/11/2024,Electrodomésticos,362.40
+1881,Freidora eléctrica,$107.86,9,20/11/2024,Electrodomésticos,970.74
+1993,Microondas,$60.07,5,20/11/2024,Electrodomésticos,300.35
+2009,Proyector,$73.42,10,20/11/2024,Electrónica,734.20
+2591,Parlantes Bluetooth,$28.10,8,20/11/2024,Electrónica,224.80
+1542,Microondas,$98.15,3,21/11/2024,Electrodomésticos,294.45
+1951,Freidora eléctrica,$112.16,5,21/11/2024,Electrodomésticos,560.80
+2179,Proyector,$111.31,11,21/11/2024,Electrónica,1224.41
+2977,Cámara digital,$116.01,12,21/11/2024,Electrónica,1392.12
+384,Jarrón decorativo,$105.16,6,22/11/2024,Decoración,630.96
+837,Elementos de cerámica,$56.10,12,22/11/2024,Decoración,673.20
+907,Elementos de cerámica,$49.85,8,22/11/2024,Decoración,398.80
+1309,Batidora,$68.82,5,22/11/2024,Electrodomésticos,344.10
+1759,Batidora,$82.06,2,22/11/2024,Electrodomésticos,164.12
+2391,Parlantes Bluetooth,$41.39,10,22/11/2024,Electrónica,413.90
+338,Rincón de plantas,$114.46,12,23/11/2024,Decoración,1373.52
+394,Jarrón decorativo,$114.83,10,23/11/2024,Decoración,1148.30
+785,Alfombra,$97.30,5,23/11/2024,Decoración,486.50
+2194,Auriculares,$102.22,11,23/11/2024,Electrónica,1124.42
+2410,Consola de videojuegos,$55.53,10,23/11/2024,Electrónica,555.30
+2479,Proyector,$51.72,3,23/11/2024,Electrónica,155.16
+2670,Consola de videojuegos,$42.62,3,23/11/2024,Electrónica,127.86
+238,Rincón de plantas,$103.51,12,24/11/2024,Decoración,1242.12
+923,Espejo decorativo,$59.64,2,24/11/2024,Decoración,119.28
+1692,Microondas,$52.70,9,24/11/2024,Electrodomésticos,474.30
+2149,Proyector,$91.89,5,24/11/2024,Electrónica,459.45
+2303,Smartphone,$63.94,12,24/11/2024,Electrónica,767.28
+2387,Cámara digital,$58.22,5,24/11/2024,Electrónica,291.10
+2651,Parlantes Bluetooth,$38.31,6,24/11/2024,Electrónica,229.86
+2970,Consola de videojuegos,$49.88,5,24/11/2024,Electrónica,249.40
+1328,Cafetera,$99.07,3,25/11/2024,Electrodomésticos,297.21
+1396,Secadora,$113.64,4,25/11/2024,Electrodomésticos,454.56
+1828,Cafetera,$76.71,12,25/11/2024,Electrodomésticos,920.52
+2172,Televisor,$115.93,8,25/11/2024,Electrónica,927.44
+2371,Parlantes Bluetooth,$93.33,4,25/11/2024,Electrónica,373.32
+153,Espejo decorativo,$49.47,10,26/11/2024,Decoración,494.70
+225,Alfombra,$28.53,6,26/11/2024,Decoración,171.18
+326,Cortinas,$65.02,2,26/11/2024,Decoración,130.04
+331,Lámpara de mesa,$36.82,3,26/11/2024,Decoración,110.46
+1043,Microondas,$28.96,3,26/11/2024,Electrodomésticos,86.88
+1158,Cafetera,$55.58,7,26/11/2024,Electrodomésticos,389.06
+1301,Freidora eléctrica,$114.68,5,26/11/2024,Electrodomésticos,573.40
+1544,Aspiradora,$87.56,8,26/11/2024,Electrodomésticos,700.48
+1771,Freidora eléctrica,$47.41,2,26/11/2024,Electrodomésticos,94.82
+1781,Freidora eléctrica,$34.88,7,26/11/2024,Electrodomésticos,244.16
+1928,Cafetera,$49.58,2,26/11/2024,Electrodomésticos,99.16
+1980,Plancha de vapor,$115.37,2,26/11/2024,Electrodomésticos,230.74
+2086,Laptop,$41.18,7,26/11/2024,Electrónica,288.26
+2569,Proyector,$104.95,5,26/11/2024,Electrónica,524.75
+2707,Cámara digital,$104.82,6,26/11/2024,Electrónica,628.92
+451,Lámpara de mesa,$81.20,7,27/11/2024,Decoración,568.40
+715,Alfombra,$32.65,3,27/11/2024,Decoración,97.95
+1100,Plancha de vapor,$108.29,5,27/11/2024,Electrodomésticos,541.45
+1211,Freidora eléctrica,$112.72,7,27/11/2024,Electrodomésticos,789.04
+1352,Microondas,$39.86,3,27/11/2024,Electrodomésticos,119.58
+1576,Secadora,$35.14,4,27/11/2024,Electrodomésticos,140.56
+2111,Parlantes Bluetooth,$28.52,2,27/11/2024,Electrónica,57.04
+2253,Smartphone,$59.10,12,27/11/2024,Electrónica,709.20
+2421,Parlantes Bluetooth,$97.60,11,27/11/2024,Electrónica,1073.60
+703,Espejo decorativo,$30.41,8,28/11/2024,Decoración,243.28
+1055,Lavadora,$34.77,11,28/11/2024,Electrodomésticos,382.47
+1718,Cafetera,$59.62,10,28/11/2024,Electrodomésticos,596.20
+1976,Secadora,$97.56,7,28/11/2024,Electrodomésticos,682.92
+2392,Televisor,$90.14,9,28/11/2024,Electrónica,811.26
+2586,Laptop,$94.55,2,28/11/2024,Electrónica,189.10
+2675,Auriculares,$75.36,6,28/11/2024,Electrónica,452.16
+184,Jarrón decorativo,$74.37,10,29/11/2024,Decoración,743.70
+798,Rincón de plantas,$52.11,3,29/11/2024,Decoración,156.33
+813,Espejo decorativo,$37.25,3,29/11/2024,Decoración,111.75
+974,Jarrón decorativo,$84.28,7,29/11/2024,Decoración,589.96
+1252,Microondas,$96.06,4,29/11/2024,Electrodomésticos,384.24
+1634,Aspiradora,$94.20,12,29/11/2024,Electrodomésticos,1130.40
+1867,Horno eléctrico,$114.08,9,29/11/2024,Electrodomésticos,1026.72
+2447,Cámara digital,$33.69,5,29/11/2024,Electrónica,168.45
+2976,Laptop,$80.65,9,29/11/2024,Electrónica,725.85
+413,Espejo decorativo,$60.81,7,30/11/2024,Decoración,425.67
+566,Cortinas,$98.17,8,30/11/2024,Decoración,785.36
+775,Alfombra,$111.87,7,30/11/2024,Decoración,783.09
+1727,Horno eléctrico,$67.95,2,30/11/2024,Electrodomésticos,135.90
+1769,Batidora,$95.64,2,30/11/2024,Electrodomésticos,191.28
+2109,Proyector,$45.09,8,30/11/2024,Electrónica,360.72
+2385,Auriculares,$92.15,4,30/11/2024,Electrónica,368.60
+2459,Proyector,$118.81,2,30/11/2024,Electrónica,237.62
+2556,Laptop,$86.62,10,30/11/2024,Electrónica,866.20
+2640,Consola de videojuegos,$40.84,9,30/11/2024,Electrónica,367.56
+2757,Cámara digital,$56.44,7,30/11/2024,Electrónica,395.08
+293,Espejo decorativo,$40.97,9,01/12/2024,Decoración,368.73
+511,Lámpara de mesa,$63.09,1,01/12/2024,Decoración,63.09
+881,Lámpara de mesa,$58.49,3,01/12/2024,Decoración,175.47
+936,Cortinas,$110.96,2,01/12/2024,Decoración,221.92
+1160,Plancha de vapor,$124.24,2,01/12/2024,Electrodomésticos,248.48
+1460,Plancha de vapor,$79.78,9,01/12/2024,Electrodomésticos,718.02
+1598,Cafetera,$103.75,5,01/12/2024,Electrodomésticos,518.75
+1849,Batidora,$30.17,9,01/12/2024,Electrodomésticos,271.53
+2386,Laptop,$69.56,7,01/12/2024,Electrónica,486.92
+57,Elementos de cerámica,$104.56,12,02/12/2024,Decoración,1254.72
+144,Jarrón decorativo,$100.04,3,02/12/2024,Decoración,300.12
+640,Adorno de pared,$110.44,7,02/12/2024,Decoración,773.08
+863,Espejo decorativo,$81.72,9,02/12/2024,Decoración,735.48
+1101,Freidora eléctrica,$35.84,11,02/12/2024,Electrodomésticos,394.24
+1163,Microondas,$97.07,7,02/12/2024,Electrodomésticos,679.49
+1235,Lavadora,$102.43,7,02/12/2024,Electrodomésticos,717.01
+1367,Horno eléctrico,$95.20,8,02/12/2024,Electrodomésticos,761.60
+1797,Horno eléctrico,$74.53,9,02/12/2024,Electrodomésticos,670.77
+1880,Plancha de vapor,$40.57,5,02/12/2024,Electrodomésticos,202.85
+2036,Laptop,$112.29,4,02/12/2024,Electrónica,449.16
+2140,Consola de videojuegos,$91.09,7,02/12/2024,Electrónica,637.63
+2658,SmartWatch,$115.11,3,02/12/2024,Electrónica,345.33
+322,Cuadro decorativo,$101.15,6,03/12/2024,Decoración,606.90
+532,Cuadro decorativo,$27.76,4,03/12/2024,Decoración,111.04
+1379,Batidora,$103.94,5,03/12/2024,Electrodomésticos,519.70
+1865,Lavadora,$83.62,5,03/12/2024,Electrodomésticos,418.10
+2662,Televisor,$66.96,10,03/12/2024,Electrónica,669.60
+2846,Laptop,$91.66,10,03/12/2024,Electrónica,916.60
+555,Alfombra,$97.75,9,04/12/2024,Decoración,879.75
+1110,Plancha de vapor,$123.18,10,04/12/2024,Electrodomésticos,1231.80
+1131,Freidora eléctrica,$113.18,5,04/12/2024,Electrodomésticos,565.90
+1324,Aspiradora,$106.89,5,04/12/2024,Electrodomésticos,534.45
+1636,Secadora,$44.47,6,04/12/2024,Electrodomésticos,266.82
+1656,Secadora,$42.59,7,04/12/2024,Electrodomésticos,298.13
+2197,Cámara digital,$77.54,6,04/12/2024,Electrónica,465.24
+2867,Cámara digital,$113.61,9,04/12/2024,Electrónica,1022.49
+31,Lámpara de mesa,$100.82,8,05/12/2024,Decoración,806.56
+175,Alfombra,$108.47,2,05/12/2024,Decoración,216.94
+455,Alfombra,$82.60,11,05/12/2024,Decoración,908.60
+1469,Batidora,$100.43,8,05/12/2024,Electrodomésticos,803.44
+2090,Consola de videojuegos,$45.15,9,05/12/2024,Electrónica,406.35
+2206,Laptop,$105.49,7,05/12/2024,Electrónica,738.43
+2682,Televisor,$39.35,7,05/12/2024,Electrónica,275.45
+2689,Proyector,$62.73,9,05/12/2024,Electrónica,564.57
+1086,Secadora,$50.66,9,06/12/2024,Electrodomésticos,455.94
+1194,Aspiradora,$56.97,1,06/12/2024,Electrodomésticos,56.97
+1555,Lavadora,$36.34,3,06/12/2024,Electrodomésticos,109.02
+2332,Televisor,$54.34,11,06/12/2024,Electrónica,597.74
+2849,Proyector,$38.67,11,06/12/2024,Electrónica,425.37
+303,Espejo decorativo,$33.85,11,07/12/2024,Decoración,372.35
+561,Lámpara de mesa,$76.90,11,07/12/2024,Decoración,845.90
+876,Cortinas,$80.86,6,07/12/2024,Decoración,485.16
+1596,Secadora,$29.10,6,07/12/2024,Electrodomésticos,174.60
+1906,Secadora,$96.70,8,07/12/2024,Electrodomésticos,773.60
+2210,Consola de videojuegos,$39.67,11,07/12/2024,Electrónica,436.37
+130,Adorno de pared,$68.70,3,08/12/2024,Decoración,206.10
+542,Cuadro decorativo,$104.02,9,08/12/2024,Decoración,936.18
+1020,Plancha de vapor,$55.26,2,08/12/2024,Electrodomésticos,110.52
+1264,Aspiradora,$114.28,6,08/12/2024,Electrodomésticos,685.68
+1392,Microondas,$35.57,8,08/12/2024,Electrodomésticos,284.56
+2687,Cámara digital,$28.98,11,08/12/2024,Electrónica,318.78
+2949,Proyector,$67.97,10,08/12/2024,Electrónica,679.70
+1023,Microondas,$55.57,1,09/12/2024,Electrodomésticos,55.57
+1197,Horno eléctrico,$92.87,10,09/12/2024,Electrodomésticos,928.70
+1641,Freidora eléctrica,$28.60,5,09/12/2024,Electrodomésticos,143.00
+2597,Cámara digital,$55.50,1,09/12/2024,Electrónica,55.50
+67,Elementos de cerámica,$109.07,12,10/12/2024,Decoración,1308.84
+265,Alfombra,$66.72,12,10/12/2024,Decoración,800.64
+313,Espejo decorativo,$50.48,1,10/12/2024,Decoración,50.48
+1267,Horno eléctrico,$81.00,7,10/12/2024,Electrodomésticos,567.00
+1447,Horno eléctrico,$46.02,9,10/12/2024,Electrodomésticos,414.18
+2020,Consola de videojuegos,$30.73,6,10/12/2024,Electrónica,184.38
+2337,Cámara digital,$77.70,9,10/12/2024,Electrónica,699.30
+2348,SmartWatch,$49.90,11,10/12/2024,Electrónica,548.90
+42,Cuadro decorativo,$72.51,11,11/12/2024,Decoración,797.61
+62,Cuadro decorativo,$34.65,11,11/12/2024,Decoración,381.15
+989,Lámpara de mesa,$70.77,7,11/12/2024,Decoración,495.39
+1553,Microondas,$83.88,10,11/12/2024,Electrodomésticos,838.80
+1640,Plancha de vapor,$34.87,4,11/12/2024,Electrodomésticos,139.48
+1975,Lavadora,$116.55,6,11/12/2024,Electrodomésticos,699.30
+2144,Auriculares,$100.70,11,11/12/2024,Electrónica,1107.70
+2277,Cámara digital,$58.12,7,11/12/2024,Electrónica,406.84
+2818,SmartWatch,$27.83,1,11/12/2024,Electrónica,27.83
+128,Rincón de plantas,$96.21,6,12/12/2024,Decoración,577.26
+1029,Batidora,$36.33,5,12/12/2024,Electrodomésticos,181.65
+1414,Aspiradora,$85.23,10,12/12/2024,Electrodomésticos,852.30
+1471,Freidora eléctrica,$83.48,8,12/12/2024,Electrodomésticos,667.84
+1959,Batidora,$83.12,2,12/12/2024,Electrodomésticos,166.24
+2106,Laptop,$108.85,1,12/12/2024,Electrónica,108.85
+2734,Auriculares,$95.05,5,12/12/2024,Electrónica,475.25
+2893,Smartphone,$42.97,3,12/12/2024,Electrónica,128.91
+458,Rincón de plantas,$117.55,7,13/12/2024,Decoración,822.85
+663,Espejo decorativo,$102.68,4,13/12/2024,Decoración,410.72
+1647,Horno eléctrico,$43.05,10,13/12/2024,Electrodomésticos,430.50
+427,Elementos de cerámica,$60.13,6,14/12/2024,Decoración,360.78
+759,Lámpara de mesa,$82.40,11,14/12/2024,Decoración,906.40
+1077,Horno eléctrico,$114.24,5,14/12/2024,Electrodomésticos,571.20
+1223,Microondas,$84.83,3,14/12/2024,Electrodomésticos,254.49
+1465,Lavadora,$61.87,8,14/12/2024,Electrodomésticos,494.96
+1579,Batidora,$68.09,5,14/12/2024,Electrodomésticos,340.45
+2145,Auriculares,$79.28,9,14/12/2024,Electrónica,713.52
+2380,Consola de videojuegos,$68.20,2,14/12/2024,Electrónica,136.40
+2879,Proyector,$48.11,12,14/12/2024,Electrónica,577.32
+181,Lámpara de mesa,$107.82,8,15/12/2024,Decoración,862.56
+529,Lámpara de mesa,$64.12,6,15/12/2024,Decoración,384.72
+546,Cortinas,$82.12,10,15/12/2024,Decoración,821.20
+567,Elementos de cerámica,$97.22,8,15/12/2024,Decoración,777.76
+948,Rincón de plantas,$72.96,6,15/12/2024,Decoración,437.76
+1001,Rincón de plantas,$42.14,9,15/12/2024,Decoración,379.26
+1126,Secadora,$88.77,1,15/12/2024,Electrodomésticos,88.77
+1325,Lavadora,$78.84,6,15/12/2024,Electrodomésticos,473.04
+1470,Plancha de vapor,$107.11,3,15/12/2024,Electrodomésticos,321.33
+1492,Heladera,$88.58,10,15/12/2024,Electrodomésticos,885.80
+1834,Aspiradora,$51.50,6,15/12/2024,Electrodomésticos,309.00
+1840,Plancha de vapor,$68.39,9,15/12/2024,Electrodomésticos,615.51
+1897,Horno eléctrico,$40.71,3,15/12/2024,Electrodomésticos,122.13
+2520,Consola de videojuegos,$99.63,10,15/12/2024,Electrónica,996.30
+2626,Laptop,$57.33,8,15/12/2024,Electrónica,458.64
+2759,Proyector,$83.88,7,15/12/2024,Electrónica,587.16
+69,Lámpara de mesa,$93.24,11,16/12/2024,Decoración,1025.64
+370,Adorno de pared,$93.19,8,16/12/2024,Decoración,745.52
+628,Rincón de plantas,$29.36,11,16/12/2024,Decoración,322.96
+706,Cortinas,$42.73,7,16/12/2024,Decoración,299.11
+980,Adorno de pared,$75.85,6,16/12/2024,Decoración,455.10
+1586,Secadora,$44.98,5,16/12/2024,Electrodomésticos,224.90
+1989,Batidora,$124.17,7,16/12/2024,Electrodomésticos,869.19
+2135,Auriculares,$34.52,4,16/12/2024,Electrónica,138.08
+2342,Televisor,$50.79,2,16/12/2024,Electrónica,101.58
+2581,Parlantes Bluetooth,$32.01,9,16/12/2024,Electrónica,288.09
+2843,Smartphone,$63.78,8,16/12/2024,Electrónica,510.24
+2921,Parlantes Bluetooth,$97.14,8,16/12/2024,Electrónica,777.12
+471,Lámpara de mesa,$39.00,10,17/12/2024,Decoración,390.00
+626,Cortinas,$33.62,11,17/12/2024,Decoración,369.82
+653,Espejo decorativo,$107.93,8,17/12/2024,Decoración,863.44
+742,Cuadro decorativo,$66.69,6,17/12/2024,Decoración,400.14
+1393,Microondas,$96.48,11,17/12/2024,Electrodomésticos,1061.28
+1504,Aspiradora,$42.52,2,17/12/2024,Electrodomésticos,85.04
+1639,Batidora,$89.35,11,17/12/2024,Electrodomésticos,982.85
+1832,Heladera,$85.62,12,17/12/2024,Electrodomésticos,1027.44
+2064,Tablet,$90.59,7,17/12/2024,Electrónica,634.13
+75,Alfombra,$65.48,5,18/12/2024,Decoración,327.40
+729,Lámpara de mesa,$61.89,3,18/12/2024,Decoración,185.67
+1731,Freidora eléctrica,$88.92,3,18/12/2024,Electrodomésticos,266.76
+2339,Proyector,$75.00,7,18/12/2024,Electrónica,525.00
+2663,Smartphone,$118.95,10,18/12/2024,Electrónica,1189.50
+2869,Proyector,$122.17,9,18/12/2024,Electrónica,1099.53
+112,Cuadro decorativo,$96.66,9,19/12/2024,Decoración,869.94
+793,Espejo decorativo,$27.21,2,19/12/2024,Decoración,54.42
+1061,Freidora eléctrica,$112.38,11,19/12/2024,Electrodomésticos,1236.18
+2167,Cámara digital,$119.75,3,19/12/2024,Electrónica,359.25
+2833,Smartphone,$97.07,9,19/12/2024,Electrónica,873.63
+15,Alfombra,$47.77,6,20/12/2024,Decoración,286.62
+1059,Batidora,$55.79,9,20/12/2024,Electrodomésticos,502.11
+1624,Aspiradora,$28.64,9,20/12/2024,Electrodomésticos,257.76
+1887,Horno eléctrico,$36.01,2,20/12/2024,Electrodomésticos,72.02
+2230,Consola de videojuegos,$74.41,10,20/12/2024,Electrónica,744.10
+2451,Parlantes Bluetooth,$42.08,2,20/12/2024,Electrónica,84.16
+222,Cuadro decorativo,$84.64,1,21/12/2024,Decoración,84.64
+800,Adorno de pared,$116.74,3,21/12/2024,Decoración,350.22
+1594,Aspiradora,$46.90,8,21/12/2024,Electrodomésticos,375.20
+1752,Heladera,$33.85,7,21/12/2024,Electrodomésticos,236.95
+2320,Consola de videojuegos,$83.94,8,21/12/2024,Electrónica,671.52
+108,Rincón de plantas,$47.84,1,22/12/2024,Decoración,47.84
+917,Elementos de cerámica,$52.65,8,22/12/2024,Decoración,421.20
+1088,Cafetera,$116.94,9,22/12/2024,Electrodomésticos,1052.46
+1128,Cafetera,$90.54,2,22/12/2024,Electrodomésticos,181.08
+1216,Secadora,$38.24,2,22/12/2024,Electrodomésticos,76.48
+1386,Secadora,$41.84,7,22/12/2024,Electrodomésticos,292.88
+1597,Horno eléctrico,$115.11,3,22/12/2024,Electrodomésticos,345.33
+1652,Heladera,$101.22,11,22/12/2024,Electrodomésticos,1113.42
+1767,Horno eléctrico,$65.28,1,22/12/2024,Electrodomésticos,65.28
+1968,Cafetera,$69.28,2,22/12/2024,Electrodomésticos,138.56
+2845,Auriculares,$34.64,10,22/12/2024,Electrónica,346.40
+301,Lámpara de mesa,$62.77,6,23/12/2024,Decoración,376.62
+497,Elementos de cerámica,$124.16,4,23/12/2024,Decoración,496.64
+559,Lámpara de mesa,$40.35,2,23/12/2024,Decoración,80.70
+894,Jarrón decorativo,$46.35,12,23/12/2024,Decoración,556.20
+1416,Secadora,$64.14,1,23/12/2024,Electrodomésticos,64.14
+1728,Cafetera,$75.14,11,23/12/2024,Electrodomésticos,826.54
+2355,Auriculares,$119.48,8,23/12/2024,Electrónica,955.84
+2429,Proyector,$91.85,6,23/12/2024,Electrónica,551.10
+2574,Tablet,$49.20,5,23/12/2024,Electrónica,246.00
+2764,Tablet,$92.81,11,23/12/2024,Electrónica,1020.91
+2905,Auriculares,$40.58,2,23/12/2024,Electrónica,81.16
+1337,Horno eléctrico,$118.72,2,24/12/2024,Electrodomésticos,237.44
+1794,Aspiradora,$61.80,12,24/12/2024,Electrodomésticos,741.60
+2457,Cámara digital,$75.98,8,24/12/2024,Electrónica,607.84
+2513,Smartphone,$119.12,8,24/12/2024,Electrónica,952.96
+120,Adorno de pared,$64.26,6,25/12/2024,Decoración,385.56
+1273,Microondas,$78.30,8,25/12/2024,Electrodomésticos,626.40
+1318,Cafetera,$98.58,6,25/12/2024,Electrodomésticos,591.48
+1473,Microondas,$83.38,1,25/12/2024,Electrodomésticos,83.38
+1807,Horno eléctrico,$45.12,4,25/12/2024,Electrodomésticos,180.48
+1907,Horno eléctrico,$47.50,1,25/12/2024,Electrodomésticos,47.50
+1996,Secadora,$113.87,9,25/12/2024,Electrodomésticos,1024.83
+2422,Televisor,$58.00,10,25/12/2024,Electrónica,580.00
+2511,Parlantes Bluetooth,$52.04,5,25/12/2024,Electrónica,260.20
+2863,Smartphone,$88.08,5,25/12/2024,Electrónica,440.40
+76,Cortinas,$49.77,10,26/12/2024,Decoración,497.70
+122,Cuadro decorativo,$63.48,12,26/12/2024,Decoración,761.76
+494,Jarrón decorativo,$79.23,5,26/12/2024,Decoración,396.15
+506,Cortinas,$30.90,6,26/12/2024,Decoración,185.40
+1520,Plancha de vapor,$74.47,8,26/12/2024,Electrodomésticos,595.76
+1876,Secadora,$41.79,4,26/12/2024,Electrodomésticos,167.16
+2605,Auriculares,$41.66,3,26/12/2024,Electrónica,124.98
+2899,Proyector,$29.76,1,26/12/2024,Electrónica,29.76
+2961,Parlantes Bluetooth,$29.97,3,26/12/2024,Electrónica,89.91
+1236,Secadora,$27.84,11,27/12/2024,Electrodomésticos,306.24
+1429,Batidora,$103.49,8,27/12/2024,Electrodomésticos,827.92
+1853,Microondas,$89.05,1,27/12/2024,Electrodomésticos,89.05
+2414,Tablet,$47.99,5,27/12/2024,Electrónica,239.95
+2951,Parlantes Bluetooth,$89.89,6,27/12/2024,Electrónica,539.34
+2990,Smartphone,$60.16,11,27/12/2024,Electrónica,661.76
+167,Elementos de cerámica,$104.96,6,28/12/2024,Decoración,629.76
+1274,Aspiradora,$124.15,9,28/12/2024,Electrodomésticos,1117.35
+1530,Plancha de vapor,$47.14,2,28/12/2024,Electrodomésticos,94.28
+2038,SmartWatch,$100.58,5,28/12/2024,Electrónica,502.90
+2204,Tablet,$70.13,12,28/12/2024,Electrónica,841.56
+231,Lámpara de mesa,$36.84,9,29/12/2024,Decoración,331.56
+240,Adorno de pared,$81.02,7,29/12/2024,Decoración,567.14
+486,Cortinas,$57.65,11,29/12/2024,Decoración,634.15
+639,Lámpara de mesa,$51.77,7,29/12/2024,Decoración,362.39
+743,Espejo decorativo,$117.04,8,29/12/2024,Decoración,936.32
+1139,Batidora,$28.94,10,29/12/2024,Electrodomésticos,289.40
+1161,Freidora eléctrica,$99.68,2,29/12/2024,Electrodomésticos,199.36
+1893,Microondas,$89.88,3,29/12/2024,Electrodomésticos,269.64
+2309,Proyector,$118.01,3,29/12/2024,Electrónica,354.03
+2424,Tablet,$69.18,4,29/12/2024,Electrónica,276.72
+235,Alfombra,$112.51,6,30/12/2024,Decoración,675.06
+418,Rincón de plantas,$112.02,8,30/12/2024,Decoración,896.16
+909,Lámpara de mesa,$35.85,5,30/12/2024,Decoración,179.25
+1583,Microondas,$105.36,9,30/12/2024,Electrodomésticos,948.24
+1837,Horno eléctrico,$104.12,9,30/12/2024,Electrodomésticos,937.08
+2276,Laptop,$85.27,9,30/12/2024,Electrónica,767.43
+2696,Laptop,$107.81,4,30/12/2024,Electrónica,431.24
+2913,Smartphone,$99.85,7,30/12/2024,Electrónica,698.95
+2930,Consola de videojuegos,$55.47,6,30/12/2024,Electrónica,332.82
